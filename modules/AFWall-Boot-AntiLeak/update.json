@@ -1,0 +1,12 @@
+{
+  "timestamp": 1677078366.470096,
+  "versions": [
+    {
+      "timestamp": 1677078366.470096,
+      "version": "v1.3",
+      "versionCode": 4,
+      "zipUrl": "https://raw.githubusercontent.com/ya0211/magisk-modules-alt-repo/main/modules/AFWall-Boot-AntiLeak/v1.3_4.zip",
+      "changelog": ""
+    }
+  ]
+}

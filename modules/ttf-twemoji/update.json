@@ -1,0 +1,12 @@
+{
+  "timestamp": 1677079514.94034,
+  "versions": [
+    {
+      "timestamp": 1677079514.94034,
+      "version": "v14.0.3",
+      "versionCode": 1403,
+      "zipUrl": "https://raw.githubusercontent.com/ya0211/magisk-modules-alt-repo/main/modules/ttf-twemoji/v14.0.3_1403.zip",
+      "changelog": ""
+    }
+  ]
+}

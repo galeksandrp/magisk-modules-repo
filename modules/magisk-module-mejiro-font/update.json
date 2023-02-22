@@ -1,0 +1,12 @@
+{
+  "timestamp": 1677079514.94034,
+  "versions": [
+    {
+      "timestamp": 1677079514.94034,
+      "version": "v17",
+      "versionCode": 17,
+      "zipUrl": "https://raw.githubusercontent.com/ya0211/magisk-modules-alt-repo/main/modules/magisk-module-mejiro-font/v17_17.zip",
+      "changelog": "https://raw.githubusercontent.com/ya0211/magisk-modules-alt-repo/main/modules/magisk-module-mejiro-font/v17_17.md"
+    }
+  ]
+}

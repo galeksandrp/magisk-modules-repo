@@ -1,0 +1,12 @@
+{
+  "timestamp": 1677078366.470096,
+  "versions": [
+    {
+      "timestamp": 1677078366.470096,
+      "version": "v2",
+      "versionCode": 2,
+      "zipUrl": "https://raw.githubusercontent.com/ya0211/magisk-modules-alt-repo/main/modules/DalvikHyperthreading/v2_2.zip",
+      "changelog": ""
+    }
+  ]
+}

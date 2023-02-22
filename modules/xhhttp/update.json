@@ -1,0 +1,12 @@
+{
+  "timestamp": 1677079514.94034,
+  "versions": [
+    {
+      "timestamp": 1677079514.94034,
+      "version": "v0.17.0",
+      "versionCode": 170,
+      "zipUrl": "https://raw.githubusercontent.com/ya0211/magisk-modules-alt-repo/main/modules/xhhttp/v0.17.0_170.zip",
+      "changelog": ""
+    }
+  ]
+}

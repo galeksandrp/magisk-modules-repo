@@ -1,0 +1,12 @@
+{
+  "timestamp": 1677079514.94034,
+  "versions": [
+    {
+      "timestamp": 1677079514.94034,
+      "version": "1.5.0",
+      "versionCode": 150,
+      "zipUrl": "https://raw.githubusercontent.com/ya0211/magisk-modules-alt-repo/main/modules/SystemlessDebloater/1.5.0_150.zip",
+      "changelog": "https://raw.githubusercontent.com/ya0211/magisk-modules-alt-repo/main/modules/SystemlessDebloater/1.5.0_150.md"
+    }
+  ]
+}
