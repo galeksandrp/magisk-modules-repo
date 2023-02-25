@@ -1,6 +1,13 @@
 {
-  "timestamp": 1677079514.94034,
+  "timestamp": 1677330246.474416,
   "versions": [
+    {
+      "timestamp": 1677330246.474416,
+      "version": "1.8",
+      "versionCode": 9,
+      "zipUrl": "https://raw.githubusercontent.com/ya0211/magisk-modules-alt-repo/main/modules/MagiskHide/1.8_9.zip",
+      "changelog": ""
+    },
     {
       "timestamp": 1677079514.94034,
       "version": "1.7",

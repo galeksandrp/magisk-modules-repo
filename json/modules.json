@@ -1,6 +1,6 @@
 {
   "name": "Magisk Modules Alt Repo",
-  "timestamp": 1677130325.041362,
+  "timestamp": 1677330246.474416,
   "modules": [
     {
       "id": "acc",
@@ -95,7 +95,7 @@
     },
     {
       "id": "BuiltIn-BusyBox",
-      "license": "UNKNOWN",
+      "license": "GPL-2.0",
       "name": "BuiltIn BusyBox",
       "version": "1.0.4",
       "versionCode": 104,
@@ -419,6 +419,19 @@
       }
     },
     {
+      "id": "GMSDoze",
+      "license": "GPL-2.0",
+      "name": "GMS Doze",
+      "version": "v1.3A",
+      "versionCode": 130,
+      "author": "CrazybytesVE",
+      "description": "Aplica Doze a los Google Play Services (GMS), maximizando bater\u00eda. INSTALAR LUEGO DE CONFIGURAR CUENTA GOOGLE.",
+      "states": {
+        "zipUrl": "https://raw.githubusercontent.com/ya0211/magisk-modules-alt-repo/main/modules/GMSDoze/v1.3A_130.zip",
+        "changelog": "https://raw.githubusercontent.com/ya0211/magisk-modules-alt-repo/main/modules/GMSDoze/v1.3A_130.md"
+      }
+    },
+    {
       "id": "Google-Sans",
       "license": "GPL-3.0",
       "name": "Google Sans",
@@ -604,12 +617,12 @@
       "id": "MagiskHide",
       "license": "GPL-3.0",
       "name": "MagiskHide",
-      "version": "1.7",
-      "versionCode": 8,
+      "version": "1.8",
+      "versionCode": 9,
       "author": "HuskyDG @MagiskDelta",
       "description": "Let's revive MagiskHide! Portable ptrace-based MagiskHide (from MagiskDelta) for Official Magisk v24.0+ as MagiskHide has been removed. Android 11+ is recommended.",
       "states": {
-        "zipUrl": "https://raw.githubusercontent.com/ya0211/magisk-modules-alt-repo/main/modules/MagiskHide/1.7_8.zip",
+        "zipUrl": "https://raw.githubusercontent.com/ya0211/magisk-modules-alt-repo/main/modules/MagiskHide/1.8_9.zip",
         "changelog": ""
       }
     },
@@ -858,6 +871,19 @@
       "states": {
         "zipUrl": "https://raw.githubusercontent.com/ya0211/magisk-modules-alt-repo/main/modules/qdl-ndk/v1.0_20220806.zip",
         "changelog": ""
+      }
+    },
+    {
+      "id": "QS_Rectangulares",
+      "license": "GPL-2.0",
+      "name": "Quick Settings Modded",
+      "version": "v1.0",
+      "versionCode": 1,
+      "author": "@CrazybytesVE",
+      "description": "Este m\u00f3dulo coloca los Quick Settings m\u00e1s rectangulares, con un fondo degradado.",
+      "states": {
+        "zipUrl": "https://raw.githubusercontent.com/ya0211/magisk-modules-alt-repo/main/modules/QS_Rectangulares/v1.0_1.zip",
+        "changelog": "https://raw.githubusercontent.com/ya0211/magisk-modules-alt-repo/main/modules/QS_Rectangulares/v1.0_1.md"
       }
     },
     {
