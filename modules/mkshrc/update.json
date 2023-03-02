@@ -1,6 +1,13 @@
 {
-  "timestamp": 1677079514.94034,
+  "timestamp": 1677764321.47924,
   "versions": [
+    {
+      "timestamp": 1677764321.47924,
+      "version": "1.3.3",
+      "versionCode": 133,
+      "zipUrl": "https://raw.githubusercontent.com/ya0211/magisk-modules-alt-repo/main/modules/mkshrc/1.3.3_133.zip",
+      "changelog": ""
+    },
     {
       "timestamp": 1677079514.94034,
       "version": "1.3.2",

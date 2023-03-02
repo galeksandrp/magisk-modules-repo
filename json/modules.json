@@ -1,6 +1,6 @@
 {
   "name": "Magisk Modules Alt Repo",
-  "timestamp": 1677330246.474416,
+  "timestamp": 1677764321.47924,
   "modules": [
     {
       "id": "acc",
@@ -591,38 +591,38 @@
       "id": "magisk-module-koruri-font",
       "license": "WTFPL",
       "name": "Koruri Font",
-      "version": "v24",
-      "versionCode": 24,
+      "version": "v25",
+      "versionCode": 25,
       "author": "lindwurm,AndroPlus",
       "description": "Koruri font patch for Japanese users. Koruri is open source Japanese font.",
       "states": {
-        "zipUrl": "https://raw.githubusercontent.com/ya0211/magisk-modules-alt-repo/main/modules/magisk-module-koruri-font/v24_24.zip",
-        "changelog": "https://raw.githubusercontent.com/ya0211/magisk-modules-alt-repo/main/modules/magisk-module-koruri-font/v24_24.md"
+        "zipUrl": "https://raw.githubusercontent.com/ya0211/magisk-modules-alt-repo/main/modules/magisk-module-koruri-font/v25_25.zip",
+        "changelog": "https://raw.githubusercontent.com/ya0211/magisk-modules-alt-repo/main/modules/magisk-module-koruri-font/v25_25.md"
       }
     },
     {
       "id": "magisk-module-mejiro-font",
       "license": "WTFPL",
       "name": "Mejiro Font",
-      "version": "v18",
-      "versionCode": 18,
+      "version": "v19",
+      "versionCode": 19,
       "author": "AndroPlus",
       "description": "Mejiro font patch for Japanese users.",
       "states": {
-        "zipUrl": "https://raw.githubusercontent.com/ya0211/magisk-modules-alt-repo/main/modules/magisk-module-mejiro-font/v18_18.zip",
-        "changelog": "https://raw.githubusercontent.com/ya0211/magisk-modules-alt-repo/main/modules/magisk-module-mejiro-font/v18_18.md"
+        "zipUrl": "https://raw.githubusercontent.com/ya0211/magisk-modules-alt-repo/main/modules/magisk-module-mejiro-font/v19_19.zip",
+        "changelog": "https://raw.githubusercontent.com/ya0211/magisk-modules-alt-repo/main/modules/magisk-module-mejiro-font/v19_19.md"
       }
     },
     {
       "id": "MagiskHide",
       "license": "GPL-3.0",
       "name": "MagiskHide",
-      "version": "1.8",
-      "versionCode": 9,
+      "version": "1.10.2",
+      "versionCode": 15,
       "author": "HuskyDG @MagiskDelta",
-      "description": "Let's revive MagiskHide! Portable ptrace-based MagiskHide (from MagiskDelta) for Official Magisk v24.0+ as MagiskHide has been removed. Android 11+ is recommended.",
+      "description": "Ptrace-based MagiskHide, allows hiding root without need to enable Zygisk. Read DenyList as hidelist. Android 11+ is recommended.",
       "states": {
-        "zipUrl": "https://raw.githubusercontent.com/ya0211/magisk-modules-alt-repo/main/modules/MagiskHide/1.8_9.zip",
+        "zipUrl": "https://raw.githubusercontent.com/ya0211/magisk-modules-alt-repo/main/modules/MagiskHide/1.10.2_15.zip",
         "changelog": ""
       }
     },
@@ -669,12 +669,12 @@
       "id": "mkshrc",
       "license": "GPL-3.0",
       "name": "Systemless Mkshrc",
-      "version": "1.3.2",
-      "versionCode": 132,
+      "version": "1.3.3",
+      "versionCode": 133,
       "author": "Der_Googler",
-      "description": "Systemlessly Mkshrc for better Terminal experience to turn your device into a workstation :)",
+      "description": "Systemlessly Mkshrc for better Terminal experience, to turn your device into a workstation :)",
       "states": {
-        "zipUrl": "https://raw.githubusercontent.com/ya0211/magisk-modules-alt-repo/main/modules/mkshrc/1.3.2_132.zip",
+        "zipUrl": "https://raw.githubusercontent.com/ya0211/magisk-modules-alt-repo/main/modules/mkshrc/1.3.3_133.zip",
         "changelog": ""
       }
     },
@@ -708,12 +708,12 @@
       "id": "node",
       "license": "MIT",
       "name": "Node.js",
-      "version": "1.4.6",
-      "versionCode": 146,
+      "version": "1.4.7",
+      "versionCode": 147,
       "author": "Der_Googler",
-      "description": "Running Node.js on a Android device",
+      "description": "Node.js is a cross-platform, open-source server environment that can run on Windows, Linux, Unix, macOS, and more.",
       "states": {
-        "zipUrl": "https://raw.githubusercontent.com/ya0211/magisk-modules-alt-repo/main/modules/node/1.4.6_146.zip",
+        "zipUrl": "https://raw.githubusercontent.com/ya0211/magisk-modules-alt-repo/main/modules/node/1.4.7_147.zip",
         "changelog": ""
       }
     },
@@ -773,13 +773,13 @@
       "id": "oneplus-9-9pro-camera-unlocker",
       "license": "GPL-2.0",
       "name": "OnePlus 9 & 9 Pro Camera Unlocker",
-      "version": "v1.1",
-      "versionCode": 1100,
-      "author": "AnierinB, JeusChrit, Cartesian8445, Luk1377, shadowstep",
-      "description": "Unlocks face detection on the OnePlus 9 and 9 Pro",
+      "version": "v1.2",
+      "versionCode": 1200,
+      "author": "AnierinB, JeusChrit, Cartesian8445, Luk1377, sean6541, shadowstep",
+      "description": "Unlocks face detection and all cameras for use by third party apps on the OnePlus 9 and 9 Pro",
       "states": {
-        "zipUrl": "https://raw.githubusercontent.com/ya0211/magisk-modules-alt-repo/main/modules/oneplus-9-9pro-camera-unlocker/v1.1_1100.zip",
-        "changelog": "https://raw.githubusercontent.com/ya0211/magisk-modules-alt-repo/main/modules/oneplus-9-9pro-camera-unlocker/v1.1_1100.md"
+        "zipUrl": "https://raw.githubusercontent.com/ya0211/magisk-modules-alt-repo/main/modules/oneplus-9-9pro-camera-unlocker/v1.2_1200.zip",
+        "changelog": "https://raw.githubusercontent.com/ya0211/magisk-modules-alt-repo/main/modules/oneplus-9-9pro-camera-unlocker/v1.2_1200.md"
       }
     },
     {
@@ -954,14 +954,14 @@
     {
       "id": "SystemlessDebloater",
       "license": "LGPL-2.1",
-      "name": "Systemless Debloater (REPLACE)",
-      "version": "1.5.0",
-      "versionCode": 150,
+      "name": "Systemless Debloater",
+      "version": "1.5.1",
+      "versionCode": 151,
       "author": "zgfg @ xda",
       "description": "Select and debloat preinstalled system apps. Supported up to SAR, Dynamic partitions and A13. Module must be installed through Magisk app, not TWRP - see OP instructions in the XDA thread.",
       "states": {
-        "zipUrl": "https://raw.githubusercontent.com/ya0211/magisk-modules-alt-repo/main/modules/SystemlessDebloater/1.5.0_150.zip",
-        "changelog": "https://raw.githubusercontent.com/ya0211/magisk-modules-alt-repo/main/modules/SystemlessDebloater/1.5.0_150.md"
+        "zipUrl": "https://raw.githubusercontent.com/ya0211/magisk-modules-alt-repo/main/modules/SystemlessDebloater/1.5.1_151.zip",
+        "changelog": "https://raw.githubusercontent.com/ya0211/magisk-modules-alt-repo/main/modules/SystemlessDebloater/1.5.1_151.md"
       }
     },
     {
