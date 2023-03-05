@@ -1,6 +1,6 @@
 {
   "name": "Magisk Modules Alt Repo",
-  "timestamp": 1677764321.47924,
+  "timestamp": 1678030916.689847,
   "modules": [
     {
       "id": "acc",
@@ -617,12 +617,12 @@
       "id": "MagiskHide",
       "license": "GPL-3.0",
       "name": "MagiskHide",
-      "version": "1.10.2",
-      "versionCode": 15,
+      "version": "1.10.3",
+      "versionCode": 16,
       "author": "HuskyDG @MagiskDelta",
       "description": "Ptrace-based MagiskHide, allows hiding root without need to enable Zygisk. Read DenyList as hidelist. Android 11+ is recommended.",
       "states": {
-        "zipUrl": "https://raw.githubusercontent.com/ya0211/magisk-modules-alt-repo/main/modules/MagiskHide/1.10.2_15.zip",
+        "zipUrl": "https://raw.githubusercontent.com/ya0211/magisk-modules-alt-repo/main/modules/MagiskHide/1.10.3_16.zip",
         "changelog": ""
       }
     },
