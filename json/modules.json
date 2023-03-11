@@ -1,6 +1,6 @@
 {
   "name": "Magisk Modules Alt Repo",
-  "timestamp": 1678030916.689847,
+  "timestamp": 1678514920.923949,
   "modules": [
     {
       "id": "acc",
@@ -45,12 +45,12 @@
       "id": "audio-misc-settings",
       "license": "AGPL-3.0",
       "name": "Audio misc. settings",
-      "version": "v1.2.3",
-      "versionCode": 1203,
+      "version": "v1.2.4",
+      "versionCode": 1204,
       "author": "zyhk",
       "description": "Setting audio misc. configuration values (e.g. 100 volume steps, raising the resampling quality, disabling the effects framework, etc.)",
       "states": {
-        "zipUrl": "https://raw.githubusercontent.com/ya0211/magisk-modules-alt-repo/main/modules/audio-misc-settings/v1.2.3_1203.zip",
+        "zipUrl": "https://raw.githubusercontent.com/ya0211/magisk-modules-alt-repo/main/modules/audio-misc-settings/v1.2.4_1204.zip",
         "changelog": ""
       }
     },
@@ -246,6 +246,19 @@
       "description": "This does is helps the multithread line to tell the cpu to easily do more faster proccessing without overheating.",
       "states": {
         "zipUrl": "https://raw.githubusercontent.com/ya0211/magisk-modules-alt-repo/main/modules/DalvikHyperthreading/v2_2.zip",
+        "changelog": ""
+      }
+    },
+    {
+      "id": "data_backup",
+      "license": "MIT",
+      "name": "Data backup creator",
+      "version": "v2.11",
+      "versionCode": 4,
+      "author": "ziand",
+      "description": "Data backup creator for restoring by data_restore.zip from TWRP or Magisk module installer",
+      "states": {
+        "zipUrl": "https://raw.githubusercontent.com/ya0211/magisk-modules-alt-repo/main/modules/data_backup/v2.11_4.zip",
         "changelog": ""
       }
     },
@@ -928,13 +941,13 @@
     {
       "id": "sensitive_props",
       "license": "GPL-3.0",
-      "name": "Advanced reset sensitive props",
-      "version": "v1",
-      "versionCode": 1,
+      "name": "SafetyNet sensitive props",
+      "version": "v3",
+      "versionCode": 3,
       "author": "HuskyDG",
-      "description": "Reset sensitive properties to safe state",
+      "description": "Reset sensitive properties to safe state and try to bypass Safetynet / Play Integrity",
       "states": {
-        "zipUrl": "https://raw.githubusercontent.com/ya0211/magisk-modules-alt-repo/main/modules/sensitive_props/v1_1.zip",
+        "zipUrl": "https://raw.githubusercontent.com/ya0211/magisk-modules-alt-repo/main/modules/sensitive_props/v3_3.zip",
         "changelog": ""
       }
     },
@@ -981,13 +994,13 @@
       "id": "ToyBox-Ext",
       "license": "0BSD",
       "name": "ToyBox (Ext)",
-      "version": "1.0.5",
-      "versionCode": 105,
+      "version": "1.0.6",
+      "versionCode": 106,
       "author": "zgfg @ xda",
       "description": "Install (additional) toybox applets. SUPPORTED: ARMv7 and higher ",
       "states": {
-        "zipUrl": "https://raw.githubusercontent.com/ya0211/magisk-modules-alt-repo/main/modules/ToyBox-Ext/1.0.5_105.zip",
-        "changelog": "https://raw.githubusercontent.com/ya0211/magisk-modules-alt-repo/main/modules/ToyBox-Ext/1.0.5_105.md"
+        "zipUrl": "https://raw.githubusercontent.com/ya0211/magisk-modules-alt-repo/main/modules/ToyBox-Ext/1.0.6_106.zip",
+        "changelog": "https://raw.githubusercontent.com/ya0211/magisk-modules-alt-repo/main/modules/ToyBox-Ext/1.0.6_106.md"
       }
     },
     {
