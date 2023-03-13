@@ -4,7 +4,7 @@
 
 ## Use in MRepo
 ```
-https://raw.githubusercontent.com/ya0211/magisk-modules-alt-repo/main/
+https://ya0211.github.io/magisk-modules-alt-repo/
 ```
 
 ## How to update?
