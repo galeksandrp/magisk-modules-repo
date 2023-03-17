@@ -1,6 +1,6 @@
 {
   "name": "Magisk Modules Alt Repo",
-  "timestamp": 1678716291.036297,
+  "timestamp": 1679037024.184464,
   "modules": [
     {
       "id": "acc",
@@ -12,6 +12,19 @@
       "description": "Mainly intended for extending battery service life on Android devices. In a nutshell, this is achieved through limiting charging current, temperature, and voltage. Any root solution is supported. Regardless of whether the system is rooted with Magisk, the installation is always \"systemless\".",
       "states": {
         "zipUrl": "https://ya0211.github.io/magisk-modules-alt-repo/modules/acc/v2022.6.4_202206040.zip",
+        "changelog": ""
+      }
+    },
+    {
+      "id": "AdGuardDNS4Magisk-IPv6",
+      "license": "LGPL-3.0",
+      "name": "AdGuardDNS4Magisk-IPv6",
+      "version": "v2.7f",
+      "versionCode": 27,
+      "author": "Rom, TukangM",
+      "description": "Using the \"AdGuard DNS\" DNS system-lessly! As simple as that and block ads and trackers.",
+      "states": {
+        "zipUrl": "https://ya0211.github.io/magisk-modules-alt-repo/modules/AdGuardDNS4Magisk-IPv6/v2.7f_27.zip",
         "changelog": ""
       }
     },
@@ -682,12 +695,12 @@
       "id": "mkshrc",
       "license": "GPL-3.0",
       "name": "Systemless Mkshrc",
-      "version": "1.3.3",
-      "versionCode": 133,
+      "version": "1.3.4",
+      "versionCode": 134,
       "author": "Der_Googler",
-      "description": "Systemlessly Mkshrc for better Terminal experience, to turn your device into a workstation :)",
+      "description": "Provide a systemless implementation of mkshrc for a better terminal experience on Android devices.",
       "states": {
-        "zipUrl": "https://ya0211.github.io/magisk-modules-alt-repo/modules/mkshrc/1.3.3_133.zip",
+        "zipUrl": "https://ya0211.github.io/magisk-modules-alt-repo/modules/mkshrc/1.3.4_134.zip",
         "changelog": ""
       }
     },
@@ -720,13 +733,13 @@
     {
       "id": "node",
       "license": "MIT",
-      "name": "Node.js",
-      "version": "1.4.7",
-      "versionCode": 147,
+      "name": "Systemless Node.js",
+      "version": "1.4.8",
+      "versionCode": 148,
       "author": "Der_Googler",
       "description": "Node.js is a cross-platform, open-source server environment that can run on Windows, Linux, Unix, macOS, and more.",
       "states": {
-        "zipUrl": "https://ya0211.github.io/magisk-modules-alt-repo/modules/node/1.4.7_147.zip",
+        "zipUrl": "https://ya0211.github.io/magisk-modules-alt-repo/modules/node/1.4.8_148.zip",
         "changelog": ""
       }
     },
@@ -965,6 +978,19 @@
       }
     },
     {
+      "id": "supl-replacer",
+      "license": "BSD-3-Clause",
+      "name": "A-GPS SUPL replacer",
+      "version": "v2.2.1",
+      "versionCode": 5,
+      "author": "PlqnK, D3SOX",
+      "description": "Replace the SUPL (Secure User-Plane Location) provider in Android's gps.conf.",
+      "states": {
+        "zipUrl": "https://ya0211.github.io/magisk-modules-alt-repo/modules/supl-replacer/v2.2.1_5.zip",
+        "changelog": "https://ya0211.github.io/magisk-modules-alt-repo/modules/supl-replacer/v2.2.1_5.md"
+      }
+    },
+    {
       "id": "SystemlessDebloater",
       "license": "LGPL-2.1",
       "name": "Systemless Debloater",
@@ -1085,12 +1111,12 @@
       "id": "xhhttp",
       "license": "MIT",
       "name": "xh for Android",
-      "version": "v0.17.0",
-      "versionCode": 170,
+      "version": "v0.18.0",
+      "versionCode": 180,
       "author": "ducaale & Der_Googler",
       "description": "Friendly and fast tool for sending HTTP requests",
       "states": {
-        "zipUrl": "https://ya0211.github.io/magisk-modules-alt-repo/modules/xhhttp/v0.17.0_170.zip",
+        "zipUrl": "https://ya0211.github.io/magisk-modules-alt-repo/modules/xhhttp/v0.18.0_180.zip",
         "changelog": ""
       }
     },

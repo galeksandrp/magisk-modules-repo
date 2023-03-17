@@ -1,0 +1,8 @@
+{
+  "id": "BuiltIn-BusyBox",
+  "update_to": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/BuiltIn-BusyBox/main/update.json",
+  "license": "GPL-2.0",
+  "added": 1677078366.470096,
+  "last_update": 1677078366.470096,
+  "versions": 1
+}

@@ -1,0 +1,9 @@
+{
+  "id": "acc",
+  "update_to": "https://github.com/Magisk-Modules-Alt-Repo/acc.git",
+  "license": "GPL-3.0",
+  "changelog": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/acc/master/changelog.md",
+  "added": 1677078366.470096,
+  "last_update": 1677078366.470096,
+  "versions": 1
+}

@@ -1,0 +1,9 @@
+{
+  "id": "RTKS",
+  "update_to": "https://github.com/Magisk-Modules-Alt-Repo/RTKS.git",
+  "license": "GPL-2.0",
+  "changelog": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/RTKS/stable/changelog.md",
+  "added": 1677079514.94034,
+  "last_update": 1677079514.94034,
+  "versions": 1
+}
