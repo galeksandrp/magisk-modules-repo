@@ -1,6 +1,6 @@
 {
   "name": "Magisk Modules Alt Repo",
-  "timestamp": 1679037024.184464,
+  "timestamp": 1679132609.729132,
   "modules": [
     {
       "id": "acc",
@@ -559,19 +559,6 @@
       "states": {
         "zipUrl": "https://ya0211.github.io/magisk-modules-alt-repo/modules/Luz-Nocturna_Modded/v1.0_1.zip",
         "changelog": "https://ya0211.github.io/magisk-modules-alt-repo/modules/Luz-Nocturna_Modded/v1.0_1.md"
-      }
-    },
-    {
-      "id": "MacRandomizationEnabler",
-      "license": "GPL-2.0",
-      "name": "MacRandomizationEnabler",
-      "version": "v1",
-      "versionCode": 1,
-      "author": "63c",
-      "description": "Enable Mac Randomization on device's it's been left disabled.",
-      "states": {
-        "zipUrl": "https://ya0211.github.io/magisk-modules-alt-repo/modules/MacRandomizationEnabler/v1_1.zip",
-        "changelog": ""
       }
     },
     {
