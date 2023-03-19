@@ -1,0 +1,8 @@
+{
+  "id": "supl-replacer",
+  "update_to": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/supl-replacer/master/update.json",
+  "license": "BSD-3-Clause",
+  "added": 1679219787.567942,
+  "last_update": 1679219787.567942,
+  "versions": 1
+}
