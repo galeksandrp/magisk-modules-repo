@@ -1,6 +1,6 @@
 {
   "name": "Magisk Modules Alt Repo",
-  "timestamp": 1679132609.729132,
+  "timestamp": 1679218113.751381,
   "modules": [
     {
       "id": "acc",
@@ -155,19 +155,6 @@
       "description": "Initialize OpenRC for the default ChArch rootfs instance.",
       "states": {
         "zipUrl": "https://ya0211.github.io/magisk-modules-alt-repo/modules/charch_openrc/v1.1_2.zip",
-        "changelog": ""
-      }
-    },
-    {
-      "id": "charch_sshd",
-      "license": "GPL-3.0",
-      "name": "ChArch SSHD",
-      "version": "v1.0",
-      "versionCode": 1,
-      "author": "tytydraco",
-      "description": "Initialize SSHD for the default ChArch rootfs instance.",
-      "states": {
-        "zipUrl": "https://ya0211.github.io/magisk-modules-alt-repo/modules/charch_sshd/v1.0_1.zip",
         "changelog": ""
       }
     },
@@ -562,6 +549,19 @@
       }
     },
     {
+      "id": "MacRandomizationEnabler",
+      "license": "GPL-2.0",
+      "name": "MacRandomizationEnabler",
+      "version": "v1",
+      "versionCode": 1,
+      "author": "63c",
+      "description": "Enable Mac Randomization on device's it's been left disabled.",
+      "states": {
+        "zipUrl": "https://ya0211.github.io/magisk-modules-alt-repo/modules/MacRandomizationEnabler/v1_1.zip",
+        "changelog": ""
+      }
+    },
+    {
       "id": "magic-flash",
       "license": "GPL-3.0",
       "name": "Magic FlashTool (Terminal Emulator)",
@@ -636,19 +636,6 @@
       "description": "Ptrace-based MagiskHide, allows hiding root without need to enable Zygisk. Read DenyList as hidelist. Android 11+ is recommended.",
       "states": {
         "zipUrl": "https://ya0211.github.io/magisk-modules-alt-repo/modules/MagiskHide/1.10.3_16.zip",
-        "changelog": ""
-      }
-    },
-    {
-      "id": "magisk_proc_monitor",
-      "license": "GPL-3.0",
-      "name": "Process Monitor Tool",
-      "version": "2.2",
-      "versionCode": 9,
-      "author": "HuskyDG",
-      "description": "Provide the way for modules to run script whenever app process start. More information, please visit http://github.com/huskydg/magisk_proc_monitor",
-      "states": {
-        "zipUrl": "https://ya0211.github.io/magisk-modules-alt-repo/modules/magisk_proc_monitor/2.2_9.zip",
         "changelog": ""
       }
     },
@@ -848,19 +835,6 @@
       }
     },
     {
-      "id": "pdx213_assistant_camera_remap",
-      "license": "MIT",
-      "name": "Xperia 10 III GA Button Remapper",
-      "version": "v1.2",
-      "versionCode": 1,
-      "author": "lufei",
-      "description": "Remap the Google Assistant Button as a camera button.",
-      "states": {
-        "zipUrl": "https://ya0211.github.io/magisk-modules-alt-repo/modules/pdx213_assistant_camera_remap/v1.2_1.zip",
-        "changelog": ""
-      }
-    },
-    {
       "id": "PLEX_SKIP_INTRO_DPAD_CONTROLLER_FIX",
       "license": "",
       "name": "Plex \"Skip Intro\" DPad Controller Fix",
@@ -962,19 +936,6 @@
       "states": {
         "zipUrl": "https://ya0211.github.io/magisk-modules-alt-repo/modules/SomcGameEnhancer-Upgrade/v7.0.A.1.20_14681108.zip",
         "changelog": ""
-      }
-    },
-    {
-      "id": "supl-replacer",
-      "license": "BSD-3-Clause",
-      "name": "A-GPS SUPL replacer",
-      "version": "v2.2.1",
-      "versionCode": 5,
-      "author": "PlqnK, D3SOX",
-      "description": "Replace the SUPL (Secure User-Plane Location) provider in Android's gps.conf.",
-      "states": {
-        "zipUrl": "https://ya0211.github.io/magisk-modules-alt-repo/modules/supl-replacer/v2.2.1_5.zip",
-        "changelog": "https://ya0211.github.io/magisk-modules-alt-repo/modules/supl-replacer/v2.2.1_5.md"
       }
     },
     {
