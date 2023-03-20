@@ -1,0 +1,556 @@
+[
+  {
+    "id": "acc",
+    "update_to": "https://github.com/Magisk-Modules-Alt-Repo/acc.git",
+    "license": "GPL-3.0",
+    "changelog": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/acc/master/changelog.md"
+  },
+  {
+    "id": "AdGuardDNS4Magisk",
+    "update_to": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/AdGuardDNS4Magisk/main/update.json",
+    "license": "LGPL-3.0"
+  },
+  {
+    "id": "AdGuardDNS4Magisk-IPv6",
+    "update_to": "https://github.com/Magisk-Modules-Alt-Repo/AdGuardDNS4Magisk-IPv6.git",
+    "license": "LGPL-3.0",
+    "changelog": ""
+  },
+  {
+    "id": "AFWall-Boot-AntiLeak",
+    "update_to": "https://github.com/Magisk-Modules-Alt-Repo/AFWall-Boot-AntiLeak.git",
+    "license": "GPL-3.0",
+    "changelog": ""
+  },
+  {
+    "id": "audio-jitter-silencer",
+    "update_to": "https://github.com/Magisk-Modules-Alt-Repo/audio-jitter-silencer.git",
+    "license": "AGPL-3.0",
+    "changelog": ""
+  },
+  {
+    "id": "audio-misc-settings",
+    "update_to": "https://github.com/Magisk-Modules-Alt-Repo/audio-misc-settings.git",
+    "license": "AGPL-3.0",
+    "changelog": ""
+  },
+  {
+    "id": "backup",
+    "update_to": "https://github.com/Magisk-Modules-Alt-Repo/backup.git",
+    "license": "GPL-3.0",
+    "changelog": ""
+  },
+  {
+    "id": "Better-MIUI-Icons",
+    "update_to": "https://github.com/Magisk-Modules-Alt-Repo/Better-MIUI-Icons.git",
+    "license": "GPL-3.0",
+    "changelog": ""
+  },
+  {
+    "id": "BraviaEngine",
+    "update_to": "https://github.com/Magisk-Modules-Alt-Repo/BraviaEngine.git",
+    "license": "MIT",
+    "changelog": ""
+  },
+  {
+    "id": "BuiltIn-BusyBox",
+    "update_to": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/BuiltIn-BusyBox/main/update.json",
+    "license": "GPL-2.0"
+  },
+  {
+    "id": "charch",
+    "update_to": "https://github.com/Magisk-Modules-Alt-Repo/charch.git",
+    "license": "",
+    "changelog": ""
+  },
+  {
+    "id": "charch_dinit",
+    "update_to": "https://github.com/Magisk-Modules-Alt-Repo/charch_dinit.git",
+    "license": "GPL-3.0",
+    "changelog": ""
+  },
+  {
+    "id": "charch_openrc",
+    "update_to": "https://github.com/Magisk-Modules-Alt-Repo/charch_openrc.git",
+    "license": "GPL-3.0",
+    "changelog": ""
+  },
+  {
+    "id": "charch_sshd",
+    "update_to": "https://github.com/Magisk-Modules-Alt-Repo/charch_sshd.git",
+    "license": "GPL-3.0",
+    "changelog": ""
+  },
+  {
+    "id": "Clash4Magisk",
+    "update_to": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Clash4Magisk/master/update.json",
+    "license": "GPL-3.0"
+  },
+  {
+    "id": "CloudflareDNS4Magisk",
+    "update_to": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/CloudflareDNS4Magisk/master/update.json",
+    "license": "LGPL-3.0"
+  },
+  {
+    "id": "CloudflareDNS4Magisk-IPv6",
+    "update_to": "https://github.com/Magisk-Modules-Alt-Repo/CloudflareDNS4Magisk-IPv6.git",
+    "license": "LGPL-3.0",
+    "changelog": ""
+  },
+  {
+    "id": "cmdpatch",
+    "update_to": "https://github.com/Magisk-Modules-Alt-Repo/cmdpatch.git",
+    "license": "GPL-3.0",
+    "changelog": ""
+  },
+  {
+    "id": "com.omergoktas.Foundation",
+    "update_to": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/com.omergoktas.Foundation/master/update.json",
+    "license": "GPL-3.0"
+  },
+  {
+    "id": "custom-certificate-authorities",
+    "update_to": "https://github.com/Magisk-Modules-Alt-Repo/custom-certificate-authorities.git",
+    "license": "GPL-3.0",
+    "changelog": ""
+  },
+  {
+    "id": "CustomizedNavbar",
+    "update_to": "https://github.com/Magisk-Modules-Alt-Repo/CustomizedNavbar.git",
+    "license": "GPL-3.0",
+    "changelog": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/CustomizedNavbar/main/changelog.md"
+  },
+  {
+    "id": "DalvikHyperthreading",
+    "update_to": "https://github.com/Magisk-Modules-Alt-Repo/DalvikHyperthreading.git",
+    "license": "",
+    "changelog": ""
+  },
+  {
+    "id": "data_backup",
+    "update_to": "https://github.com/Magisk-Modules-Alt-Repo/data_backup.git",
+    "license": "MIT",
+    "changelog": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/data_backup/main/changelog.md"
+  },
+  {
+    "id": "data_isolation_support",
+    "update_to": "https://github.com/Magisk-Modules-Alt-Repo/data_isolation_support.git",
+    "license": "GPL-3.0",
+    "changelog": ""
+  },
+  {
+    "id": "Detach",
+    "update_to": "https://github.com/Magisk-Modules-Alt-Repo/Detach.git",
+    "license": "GPL-3.0",
+    "changelog": ""
+  },
+  {
+    "id": "djs",
+    "update_to": "https://github.com/Magisk-Modules-Alt-Repo/djs.git",
+    "license": "GPL-3.0",
+    "changelog": ""
+  },
+  {
+    "id": "drc-remover",
+    "update_to": "https://github.com/Magisk-Modules-Alt-Repo/drc-remover.git",
+    "license": "AGPL-3.0",
+    "changelog": ""
+  },
+  {
+    "id": "Evolve-Evo",
+    "update_to": "https://github.com/Magisk-Modules-Alt-Repo/Evolve-Evo.git",
+    "license": "",
+    "changelog": ""
+  },
+  {
+    "id": "ezme-dex-space",
+    "update_to": "https://github.com/Magisk-Modules-Alt-Repo/ezme-dex-space.git",
+    "license": "MIT",
+    "changelog": ""
+  },
+  {
+    "id": "ezme-nodebug",
+    "update_to": "https://github.com/Magisk-Modules-Alt-Repo/ezme-nodebug.git",
+    "license": "MIT",
+    "changelog": ""
+  },
+  {
+    "id": "fbind",
+    "update_to": "https://github.com/Magisk-Modules-Alt-Repo/fbind.git",
+    "license": "GPL-3.0",
+    "changelog": ""
+  },
+  {
+    "id": "Fdroid-Priv",
+    "update_to": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Fdroid-Priv/main/update.json",
+    "license": ""
+  },
+  {
+    "id": "FOSSAPPS",
+    "update_to": "https://github.com/Magisk-Modules-Alt-Repo/FOSSAPPS.git",
+    "license": "Apache-2.0",
+    "changelog": ""
+  },
+  {
+    "id": "frozen_magisk_app",
+    "update_to": "https://github.com/Magisk-Modules-Alt-Repo/frozen_magisk_app.git",
+    "license": "",
+    "changelog": ""
+  },
+  {
+    "id": "gaming",
+    "update_to": "https://github.com/Magisk-Modules-Alt-Repo/gaming.git",
+    "license": "GPL-3.0",
+    "changelog": ""
+  },
+  {
+    "id": "gboard-dict-3",
+    "update_to": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/gboard-dict-3/master/update.json",
+    "license": "MIT"
+  },
+  {
+    "id": "GlitchedCyberBoot",
+    "update_to": "https://github.com/Magisk-Modules-Alt-Repo/GlitchedCyberBoot.git",
+    "license": "",
+    "changelog": ""
+  },
+  {
+    "id": "GMS-Doze_Block_FindMyDevice",
+    "update_to": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/GMS-Doze_Block_FindMyDevice/main/update.json",
+    "license": "GPL-2.0"
+  },
+  {
+    "id": "GMSDoze",
+    "update_to": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/GMSDoze/main/update.json",
+    "license": "GPL-2.0"
+  },
+  {
+    "id": "Google-Sans",
+    "update_to": "https://github.com/Magisk-Modules-Alt-Repo/Google-Sans.git",
+    "license": "GPL-3.0",
+    "changelog": ""
+  },
+  {
+    "id": "Google-Sans-Plus",
+    "update_to": "https://github.com/Magisk-Modules-Alt-Repo/Google-Sans-Plus.git",
+    "license": "GPL-3.0",
+    "changelog": ""
+  },
+  {
+    "id": "Google_Product_Sans_Font",
+    "update_to": "https://github.com/Magisk-Modules-Alt-Repo/Google_Product_Sans_Font.git",
+    "license": "GPL-3.0",
+    "changelog": ""
+  },
+  {
+    "id": "heimdall-ndk",
+    "update_to": "https://github.com/Magisk-Modules-Alt-Repo/heimdall-ndk.git",
+    "license": "",
+    "changelog": ""
+  },
+  {
+    "id": "HideNavBar",
+    "update_to": "https://github.com/Magisk-Modules-Alt-Repo/HideNavBar.git",
+    "license": "GPL-3.0",
+    "changelog": ""
+  },
+  {
+    "id": "King-Tweaks",
+    "update_to": "https://github.com/Magisk-Modules-Alt-Repo/King-Tweaks.git",
+    "license": "GPL-3.0",
+    "changelog": ""
+  },
+  {
+    "id": "Lawnchair",
+    "update_to": "https://github.com/Magisk-Modules-Alt-Repo/Lawnchair.git",
+    "license": "",
+    "changelog": ""
+  },
+  {
+    "id": "lhroot",
+    "update_to": "https://github.com/Magisk-Modules-Alt-Repo/lhroot.git",
+    "license": "GPL-3.0",
+    "changelog": ""
+  },
+  {
+    "id": "Luz-Nocturna_Modded",
+    "update_to": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Luz-Nocturna_Modded/main/update.json",
+    "license": "GPL-2.0"
+  },
+  {
+    "id": "MacRandomizationEnabler",
+    "update_to": "https://github.com/Magisk-Modules-Alt-Repo/MacRandomizationEnabler.git",
+    "license": "GPL-2.0",
+    "changelog": ""
+  },
+  {
+    "id": "magic-flash",
+    "update_to": "https://github.com/Magisk-Modules-Alt-Repo/magic-flash.git",
+    "license": "GPL-3.0",
+    "changelog": ""
+  },
+  {
+    "id": "Magisk-Captive-Control",
+    "update_to": "https://github.com/Magisk-Modules-Alt-Repo/Magisk-Captive-Control.git",
+    "license": "GPL-3.0",
+    "changelog": ""
+  },
+  {
+    "id": "Magisk-DRM-Disabler",
+    "update_to": "https://github.com/Magisk-Modules-Alt-Repo/Magisk-DRM-Disabler.git",
+    "license": "GPL-3.0",
+    "changelog": ""
+  },
+  {
+    "id": "magisk-module-koruri-font",
+    "update_to": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/magisk-module-koruri-font/master/update.json",
+    "license": "WTFPL"
+  },
+  {
+    "id": "magisk-module-mejiro-font",
+    "update_to": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/magisk-module-mejiro-font/master/update.json",
+    "license": "WTFPL"
+  },
+  {
+    "id": "MagiskHide",
+    "update_to": "https://github.com/Magisk-Modules-Alt-Repo/MagiskHide.git",
+    "license": "GPL-3.0",
+    "changelog": ""
+  },
+  {
+    "id": "magisk_proc_monitor",
+    "update_to": "https://github.com/Magisk-Modules-Alt-Repo/magisk_proc_monitor.git",
+    "license": "GPL-3.0",
+    "changelog": ""
+  },
+  {
+    "id": "microG-GApps",
+    "update_to": "https://github.com/Magisk-Modules-Alt-Repo/microG-GApps.git",
+    "license": "",
+    "changelog": ""
+  },
+  {
+    "id": "microg_installer",
+    "update_to": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/microg_installer/master/update.json",
+    "license": "GPL-3.0"
+  },
+  {
+    "id": "MiXplorer",
+    "update_to": "https://github.com/Magisk-Modules-Alt-Repo/MiXplorer.git",
+    "license": "",
+    "changelog": ""
+  },
+  {
+    "id": "mkshrc",
+    "update_to": "https://github.com/Magisk-Modules-Alt-Repo/mkshrc.git",
+    "license": "GPL-3.0",
+    "changelog": ""
+  },
+  {
+    "id": "NavBar_Resize_AOSP",
+    "update_to": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/NavBar_Resize_AOSP/main/update.json",
+    "license": "GPL-2.0"
+  },
+  {
+    "id": "NavBar_Resize_MIUI",
+    "update_to": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/NavBar_Resize_MIUI/main/update.json",
+    "license": "GPL-2.0"
+  },
+  {
+    "id": "node",
+    "update_to": "https://github.com/Magisk-Modules-Alt-Repo/node.git",
+    "license": "MIT",
+    "changelog": ""
+  },
+  {
+    "id": "NoProcStatRestriction",
+    "update_to": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/NoProcStatRestriction/master/update.json",
+    "license": "WTFPL"
+  },
+  {
+    "id": "NoStorageRestrict",
+    "update_to": "https://github.com/Magisk-Modules-Alt-Repo/NoStorageRestrict.git",
+    "license": "",
+    "changelog": ""
+  },
+  {
+    "id": "NotchBarKiller",
+    "update_to": "https://github.com/Magisk-Modules-Alt-Repo/NotchBarKiller.git",
+    "license": "GPL-2.0",
+    "changelog": ""
+  },
+  {
+    "id": "OneController",
+    "update_to": "https://github.com/Magisk-Modules-Alt-Repo/OneController.git",
+    "license": "",
+    "changelog": ""
+  },
+  {
+    "id": "oneplus-8series-9r-camera-unlocker",
+    "update_to": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/oneplus-8series-9r-camera-unlocker/master/update.json",
+    "license": "GPL-2.0"
+  },
+  {
+    "id": "oneplus-9-9pro-camera-unlocker",
+    "update_to": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/oneplus-9-9pro-camera-unlocker/master/update.json",
+    "license": "GPL-2.0"
+  },
+  {
+    "id": "OnePlus6Oxygen_22.J.62_debloater",
+    "update_to": "https://github.com/Magisk-Modules-Alt-Repo/OnePlus6Oxygen_22.J.62_debloater.git",
+    "license": "",
+    "changelog": ""
+  },
+  {
+    "id": "oneplusdotfix",
+    "update_to": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/oneplusdotfix/master/update.json",
+    "license": "GPL-2.0"
+  },
+  {
+    "id": "open_fonts",
+    "update_to": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/open_fonts/master/update.json",
+    "license": "GPL-3.0"
+  },
+  {
+    "id": "open_webview",
+    "update_to": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/open_webview/master/update.json",
+    "license": "GPL-3.0"
+  },
+  {
+    "id": "pdx213_assistant_camera_remap",
+    "update_to": "https://github.com/Magisk-Modules-Alt-Repo/pdx213_assistant_camera_remap.git",
+    "license": "MIT",
+    "changelog": ""
+  },
+  {
+    "id": "PLEX_SKIP_INTRO_DPAD_CONTROLLER_FIX",
+    "update_to": "https://github.com/Magisk-Modules-Alt-Repo/PLEX_SKIP_INTRO_DPAD_CONTROLLER_FIX.git",
+    "license": "",
+    "changelog": ""
+  },
+  {
+    "id": "qdl-ndk",
+    "update_to": "https://github.com/Magisk-Modules-Alt-Repo/qdl-ndk.git",
+    "license": "",
+    "changelog": ""
+  },
+  {
+    "id": "QS_Rectangulares",
+    "update_to": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/QS_Rectangulares/main/update.json",
+    "license": "GPL-2.0"
+  },
+  {
+    "id": "RTKS",
+    "update_to": "https://github.com/Magisk-Modules-Alt-Repo/RTKS.git",
+    "license": "GPL-2.0",
+    "changelog": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/RTKS/stable/changelog.md"
+  },
+  {
+    "id": "saturation",
+    "update_to": "https://github.com/Magisk-Modules-Alt-Repo/saturation.git",
+    "license": "GPL-3.0",
+    "changelog": ""
+  },
+  {
+    "id": "selinux_mode",
+    "update_to": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/selinux_mode/main/update.json",
+    "license": "MIT"
+  },
+  {
+    "id": "sensitive_props",
+    "update_to": "https://github.com/Magisk-Modules-Alt-Repo/sensitive_props.git",
+    "license": "GPL-3.0",
+    "changelog": ""
+  },
+  {
+    "id": "SomcGameEnhancer-Upgrade",
+    "update_to": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/SomcGameEnhancer-Upgrade/main/update.json",
+    "license": "MIT"
+  },
+  {
+    "id": "supl-replacer",
+    "update_to": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/supl-replacer/master/update.json",
+    "license": "BSD-3-Clause"
+  },
+  {
+    "id": "SystemlessDebloater",
+    "update_to": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/SystemlessDebloater/main/update.json",
+    "license": "LGPL-2.1"
+  },
+  {
+    "id": "systemui-bootloop",
+    "update_to": "https://github.com/Magisk-Modules-Alt-Repo/systemui-bootloop.git",
+    "license": "GPL-3.0",
+    "changelog": ""
+  },
+  {
+    "id": "ToyBox-Ext",
+    "update_to": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/ToyBox-Ext/main/update.json",
+    "license": "0BSD"
+  },
+  {
+    "id": "trichromelibrary-squoosh",
+    "update_to": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/trichromelibrary-squoosh/master/update.json",
+    "license": "MIT"
+  },
+  {
+    "id": "ttf-twemoji",
+    "update_to": "https://github.com/Magisk-Modules-Alt-Repo/ttf-twemoji.git",
+    "license": "MIT",
+    "changelog": ""
+  },
+  {
+    "id": "unityfix",
+    "update_to": "https://github.com/Magisk-Modules-Alt-Repo/unityfix.git",
+    "license": "",
+    "changelog": ""
+  },
+  {
+    "id": "upx-ndk",
+    "update_to": "https://github.com/Magisk-Modules-Alt-Repo/upx-ndk.git",
+    "license": "",
+    "changelog": ""
+  },
+  {
+    "id": "usb-samplerate-unlocker",
+    "update_to": "https://github.com/Magisk-Modules-Alt-Repo/usb-samplerate-unlocker.git",
+    "license": "AGPL-3.0",
+    "changelog": ""
+  },
+  {
+    "id": "vintf-bypass",
+    "update_to": "https://github.com/Magisk-Modules-Alt-Repo/vintf-bypass.git",
+    "license": "GPL-3.0",
+    "changelog": ""
+  },
+  {
+    "id": "xhhttp",
+    "update_to": "https://github.com/Magisk-Modules-Alt-Repo/xhhttp.git",
+    "license": "MIT",
+    "changelog": ""
+  },
+  {
+    "id": "YAKT",
+    "update_to": "https://github.com/Magisk-Modules-Alt-Repo/YAKT.git",
+    "license": "MIT",
+    "changelog": ""
+  },
+  {
+    "id": "ytmusic_revancedinject",
+    "update_to": "https://github.com/Magisk-Modules-Alt-Repo/ytmusic_revancedinject.git",
+    "license": "",
+    "changelog": ""
+  },
+  {
+    "id": "ytrevancedinject",
+    "update_to": "https://github.com/Magisk-Modules-Alt-Repo/ytrevancedinject.git",
+    "license": "",
+    "changelog": ""
+  },
+  {
+    "id": "zram-swap-manager",
+    "update_to": "https://github.com/Magisk-Modules-Alt-Repo/zram-swap-manager.git",
+    "license": "GPL-3.0",
+    "changelog": ""
+  }
+]
