@@ -1,8 +1,9 @@
 {
-  "timestamp": 1677078366.470096,
+  "id": "CloudflareDNS4Magisk-IPv6",
+  "timestamp": 1673388915.0,
   "versions": [
     {
-      "timestamp": 1677078366.470096,
+      "timestamp": 1673388915.0,
       "version": "v2.7",
       "versionCode": 27,
       "zipUrl": "https://ya0211.github.io/magisk-modules-alt-repo/modules/CloudflareDNS4Magisk-IPv6/v2.7_27.zip",

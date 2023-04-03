@@ -1,8 +1,9 @@
 {
-  "timestamp": 1677079514.94034,
+  "id": "systemui-bootloop",
+  "timestamp": 1643775613.0,
   "versions": [
     {
-      "timestamp": 1677079514.94034,
+      "timestamp": 1643775613.0,
       "version": "v1.0.0",
       "versionCode": 100,
       "zipUrl": "https://ya0211.github.io/magisk-modules-alt-repo/modules/systemui-bootloop/v1.0.0_100.zip",

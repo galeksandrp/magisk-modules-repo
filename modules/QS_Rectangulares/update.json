@@ -1,12 +1,13 @@
 {
-  "timestamp": 1677330246.474416,
+  "id": "QS_Rectangulares",
+  "timestamp": 1660425389.0,
   "versions": [
     {
-      "timestamp": 1677330246.474416,
+      "timestamp": 1660425389.0,
       "version": "v1.0",
       "versionCode": 1,
       "zipUrl": "https://ya0211.github.io/magisk-modules-alt-repo/modules/QS_Rectangulares/v1.0_1.zip",
-      "changelog": ""
+      "changelog": "https://ya0211.github.io/magisk-modules-alt-repo/modules/QS_Rectangulares/v1.0_1.md"
     }
   ]
 }

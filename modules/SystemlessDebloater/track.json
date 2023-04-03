@@ -2,7 +2,8 @@
   "id": "SystemlessDebloater",
   "update_to": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/SystemlessDebloater/main/update.json",
   "license": "LGPL-2.1",
-  "added": 1677079514.94034,
-  "last_update": 1677764321.47924,
-  "versions": 2
+  "changelog": "",
+  "added": 1680542005.415533,
+  "last_update": 1677609312.0,
+  "versions": 1
 }

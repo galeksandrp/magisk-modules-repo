@@ -1,19 +1,13 @@
 {
-  "timestamp": 1678514920.923949,
+  "id": "ToyBox-Ext",
+  "timestamp": 1678041567.0,
   "versions": [
     {
-      "timestamp": 1678514920.923949,
+      "timestamp": 1678041567.0,
       "version": "1.0.6",
       "versionCode": 106,
       "zipUrl": "https://ya0211.github.io/magisk-modules-alt-repo/modules/ToyBox-Ext/1.0.6_106.zip",
       "changelog": "https://ya0211.github.io/magisk-modules-alt-repo/modules/ToyBox-Ext/1.0.6_106.md"
-    },
-    {
-      "timestamp": 1677079514.94034,
-      "version": "1.0.5",
-      "versionCode": 105,
-      "zipUrl": "https://raw.githubusercontent.com/ya0211/magisk-modules-alt-repo/main/modules/ToyBox-Ext/1.0.5_105.zip",
-      "changelog": "https://raw.githubusercontent.com/ya0211/magisk-modules-alt-repo/main/modules/ToyBox-Ext/1.0.5_105.md"
     }
   ]
 }

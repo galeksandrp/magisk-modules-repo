@@ -1,13 +1,13 @@
 {
   "name": "Magisk Modules Alt Repo",
-  "timestamp": 1679485337.908709,
+  "timestamp": 1680542778.410097,
   "modules": [
     {
       "id": "AFWall-Boot-AntiLeak",
       "license": "GPL-3.0",
-      "name": "AFWall Boot AntiLeak",
       "version": "v1.3",
       "versionCode": 4,
+      "name": "AFWall Boot AntiLeak",
       "author": "GrayJackFixxxer",
       "description": "A module to prevent internet access on boot BEFORE AfWall started and applied",
       "states": {
@@ -18,9 +18,9 @@
     {
       "id": "AdGuardDNS4Magisk-IPv6",
       "license": "LGPL-3.0",
-      "name": "AdGuardDNS4Magisk-IPv6",
       "version": "v2.7f",
       "versionCode": 27,
+      "name": "AdGuardDNS4Magisk-IPv6",
       "author": "Rom, TukangM",
       "description": "Using the \"AdGuard DNS\" DNS system-lessly! As simple as that and block ads and trackers.",
       "states": {
@@ -31,9 +31,9 @@
     {
       "id": "Better-MIUI-Icons",
       "license": "GPL-3.0",
-      "name": "Better MIUI Icons",
       "version": "MIUI12 v1",
       "versionCode": 1,
+      "name": "Better MIUI Icons",
       "author": "SpicyChair",
       "description": "Systemlessly install the nice icons from MiRoom to any MIUI 12-based ROM.",
       "states": {
@@ -44,9 +44,9 @@
     {
       "id": "BraviaEngine",
       "license": "MIT",
-      "name": "Sony Bravia Engine",
       "version": "v4.0.4",
       "versionCode": 4,
+      "name": "Sony Bravia Engine",
       "author": "Enggar Sulistyo",
       "description": "The Sony Mobile Bravia Engine X-Reality Super Vivid.",
       "states": {
@@ -57,9 +57,9 @@
     {
       "id": "BuiltIn-BusyBox",
       "license": "GPL-2.0",
-      "name": "BuiltIn BusyBox",
       "version": "1.0.4",
       "versionCode": 104,
+      "name": "BuiltIn BusyBox",
       "author": "zgfg @ xda",
       "description": "Systemless BusyBox installed by the Magisk built-in busybox binary",
       "states": {
@@ -70,9 +70,9 @@
     {
       "id": "Clash4Magisk",
       "license": "GPL-3.0",
-      "name": "Clash for Magisk",
       "version": "1.13.0",
       "versionCode": 101300022,
+      "name": "Clash for Magisk",
       "author": "Kry9toN",
       "description": "Clash meta core with service scripts for Android.",
       "states": {
@@ -83,9 +83,9 @@
     {
       "id": "CloudflareDNS4Magisk",
       "license": "LGPL-3.0",
-      "name": "CloudflareDNS4Magisk",
       "version": "v2.7",
       "versionCode": 27,
+      "name": "CloudflareDNS4Magisk",
       "author": "Rom",
       "description": "Using the new Cloudflare DNS system-lessly! As simple as that.",
       "states": {
@@ -96,9 +96,9 @@
     {
       "id": "CloudflareDNS4Magisk-IPv6",
       "license": "LGPL-3.0",
-      "name": "CloudflareDNS4Magisk-IPv6",
       "version": "v2.7",
       "versionCode": 27,
+      "name": "CloudflareDNS4Magisk-IPv6",
       "author": "Rom",
       "description": "Using the Cloudflare DNS system-lessly! As simple as that.",
       "states": {
@@ -109,22 +109,22 @@
     {
       "id": "CustomizedNavbar",
       "license": "GPL-3.0",
-      "name": "Customized Navbar",
       "version": "3.2",
       "versionCode": 5,
+      "name": "Customized Navbar",
       "author": "Pycm [4PDA]",
       "description": "Change Navbar Gesture Indicator color to match the theme's accent color, increase wide and thickness",
       "states": {
         "zipUrl": "https://ya0211.github.io/magisk-modules-alt-repo/modules/CustomizedNavbar/3.2_5.zip",
-        "changelog": ""
+        "changelog": "https://ya0211.github.io/magisk-modules-alt-repo/modules/CustomizedNavbar/3.2_5.md"
       }
     },
     {
       "id": "DalvikHyperthreading",
       "license": "",
-      "name": "DalvikHyperthreading",
       "version": "v2",
       "versionCode": 2,
+      "name": "DalvikHyperthreading",
       "author": "@LeanHijosdesusMadres [telegram]",
       "description": "This does is helps the multithread line to tell the cpu to easily do more faster proccessing without overheating.",
       "states": {
@@ -135,9 +135,9 @@
     {
       "id": "Detach",
       "license": "GPL-3.0",
-      "name": "Detach",
       "version": "v5.3",
       "versionCode": 530,
+      "name": "Detach",
       "author": "hinxnz, Rom, Sobuj53",
       "description": "Detach Market Links for Theme Ready Apps, originaly created by hinxnz, ported by Rom to works with Magisk.",
       "states": {
@@ -148,9 +148,9 @@
     {
       "id": "Evolve-Evo",
       "license": "",
-      "name": "Evolve-Evo-Sans",
       "version": "0.0.2",
       "versionCode": 13,
+      "name": "Evolve-Evo-Sans",
       "author": "Psk.It",
       "description": "font: Evolve Evo Sans",
       "states": {
@@ -161,9 +161,9 @@
     {
       "id": "Fdroid-Priv",
       "license": "",
-      "name": "F-Droid Privileged Extension",
       "version": "Version 0.2.13",
       "versionCode": 20220314,
+      "name": "F-Droid Privileged Extension",
       "author": "entr0pia@GitHub",
       "description": "Installs F-Droid Privileged Extension systemlessly",
       "states": {
@@ -174,35 +174,35 @@
     {
       "id": "GMS-Doze_Block_FindMyDevice",
       "license": "GPL-2.0",
-      "name": "GMS Doze (Bloquea \"Find My Device\")",
       "version": "v1.3B",
       "versionCode": 131,
+      "name": "GMS Doze (Bloquea \"Find My Device\")",
       "author": "CrazybytesVE",
       "description": "Aplica Doze a los Servicios de Google Play (GMS), maximizando bater\u00eda. INSTALAR LUEGO DE CONFIGURAR CUENTA GOOGLE. Esta versi\u00f3n bloquea 'Find My Device' de Google.",
       "states": {
         "zipUrl": "https://ya0211.github.io/magisk-modules-alt-repo/modules/GMS-Doze_Block_FindMyDevice/v1.3B_131.zip",
-        "changelog": ""
+        "changelog": "https://ya0211.github.io/magisk-modules-alt-repo/modules/GMS-Doze_Block_FindMyDevice/v1.3B_131.md"
       }
     },
     {
       "id": "GMSDoze",
       "license": "GPL-2.0",
-      "name": "GMS Doze",
       "version": "v1.3A",
       "versionCode": 130,
+      "name": "GMS Doze",
       "author": "CrazybytesVE",
       "description": "Aplica Doze a los Google Play Services (GMS), maximizando bater\u00eda. INSTALAR LUEGO DE CONFIGURAR CUENTA GOOGLE.",
       "states": {
         "zipUrl": "https://ya0211.github.io/magisk-modules-alt-repo/modules/GMSDoze/v1.3A_130.zip",
-        "changelog": ""
+        "changelog": "https://ya0211.github.io/magisk-modules-alt-repo/modules/GMSDoze/v1.3A_130.md"
       }
     },
     {
       "id": "Google-Sans",
       "license": "GPL-3.0",
-      "name": "Google Sans",
       "version": "v1.0",
       "versionCode": 1,
+      "name": "Google Sans",
       "author": "SourajitK",
       "description": "Apply Google Sans everywhere, systemlessly.",
       "states": {
@@ -213,9 +213,9 @@
     {
       "id": "Google-Sans-Plus",
       "license": "GPL-3.0",
-      "name": "Google Sans Plus",
       "version": "v1.0",
       "versionCode": 1,
+      "name": "Google Sans Plus",
       "author": "SourajitK",
       "description": "Apply Google Sans everywhere, systemlessly. (also contains leaked A11 emojis)",
       "states": {
@@ -226,9 +226,9 @@
     {
       "id": "HideNavBar",
       "license": "GPL-3.0",
-      "name": "Fullscreen/Immersive Gestures (Q-T)",
       "version": "v21.0",
       "versionCode": 55,
+      "name": "Fullscreen/Immersive Gestures (Q-T)",
       "author": "DanGLES3",
       "description": "Customize Android 10-13's navigation gestures ",
       "states": {
@@ -239,9 +239,9 @@
     {
       "id": "King-Tweaks",
       "license": "GPL-3.0",
-      "name": "King Tweaks Reborn\u2122",
       "version": "2.1.0-r1-(h4rm4nd3r",
       "versionCode": 250,
+      "name": "King Tweaks Reborn\u2122",
       "author": "pedro (pedrozzz0 @ GitHub)",
       "description": "null",
       "states": {
@@ -252,9 +252,9 @@
     {
       "id": "Lawnchair",
       "license": "",
-      "name": "Lawnchair full package",
       "version": "v12.1.0.Alpha.3",
       "versionCode": 29,
+      "name": "Lawnchair full package",
       "author": "Psk.It",
       "description": "Lawnchair launcher + icons + feeds + recents",
       "states": {
@@ -265,22 +265,22 @@
     {
       "id": "Luz-Nocturna_Modded",
       "license": "GPL-2.0",
-      "name": "Luz Nocturna Modded",
       "version": "v1.0",
       "versionCode": 1,
+      "name": "Luz Nocturna Modded",
       "author": "@CrazybytesVE",
       "description": "Este m\u00f3dulo modifica los valores m\u00ednimos de \"Luz Nocturna\" para que sean menos c\u00e1lidos (menos amarillentos). .",
       "states": {
         "zipUrl": "https://ya0211.github.io/magisk-modules-alt-repo/modules/Luz-Nocturna_Modded/v1.0_1.zip",
-        "changelog": ""
+        "changelog": "https://ya0211.github.io/magisk-modules-alt-repo/modules/Luz-Nocturna_Modded/v1.0_1.md"
       }
     },
     {
       "id": "MacRandomizationEnabler",
       "license": "GPL-2.0",
-      "name": "MacRandomizationEnabler",
       "version": "v1",
       "versionCode": 1,
+      "name": "MacRandomizationEnabler",
       "author": "63c",
       "description": "Enable Mac Randomization on device's it's been left disabled.",
       "states": {
@@ -291,9 +291,9 @@
     {
       "id": "Magisk-Captive-Control",
       "license": "GPL-3.0",
-      "name": "Magisk Captive Control (MCC)",
       "version": "v1.0.0",
       "versionCode": 100,
+      "name": "Magisk Captive Control (MCC)",
       "author": "Atrate",
       "description": "A Magisk Module aiming to control (change/disable) Android Captive Portal Detection.",
       "states": {
@@ -304,9 +304,9 @@
     {
       "id": "Magisk-DRM-Disabler",
       "license": "GPL-3.0",
-      "name": "Magisk DRM Disabler (MDD)",
       "version": "v1.3.1",
       "versionCode": 131,
+      "name": "Magisk DRM Disabler (MDD)",
       "author": "Atrate",
       "description": "A Magisk Module aiming to eliminate DRM from Android systemlessly.",
       "states": {
@@ -317,9 +317,9 @@
     {
       "id": "MagiskHide",
       "license": "GPL-3.0",
-      "name": "MagiskHide",
       "version": "1.10.3",
       "versionCode": 16,
+      "name": "MagiskHide",
       "author": "HuskyDG @MagiskDelta",
       "description": "Ptrace-based MagiskHide, allows hiding root without need to enable Zygisk. Read DenyList as hidelist. Android 11+ is recommended.",
       "states": {
@@ -330,9 +330,9 @@
     {
       "id": "MiXplorer",
       "license": "",
-      "name": "MiXplorer",
       "version": "v6.58.8_B23010320",
       "versionCode": 29,
+      "name": "MiXplorer",
       "author": "Psk.It",
       "description": "MiXplorer: archive + autotag + codecs + image + metadata + pdf + signer + smb + tagger    ",
       "states": {
@@ -343,35 +343,35 @@
     {
       "id": "NavBar_Resize_AOSP",
       "license": "GPL-2.0",
-      "name": "36DPI NavBar AOSP",
       "version": "v1.1",
       "versionCode": 11,
+      "name": "36DPI NavBar AOSP",
       "author": "CrazyBytesVE",
       "description": "Barra de Navegaci\u00f3n reducida a 36DPI, compatible con Android 8 y superiores. Probado en ROMs AOSP.",
       "states": {
         "zipUrl": "https://ya0211.github.io/magisk-modules-alt-repo/modules/NavBar_Resize_AOSP/v1.1_11.zip",
-        "changelog": ""
+        "changelog": "https://ya0211.github.io/magisk-modules-alt-repo/modules/NavBar_Resize_AOSP/v1.1_11.md"
       }
     },
     {
       "id": "NavBar_Resize_MIUI",
       "license": "GPL-2.0",
-      "name": "36DPI NavBar para Miui",
       "version": "v2.0",
       "versionCode": 2,
+      "name": "36DPI NavBar para Miui",
       "author": "CrazyBytesVE",
       "description": "Barra de Navegaci\u00f3n reducida a 36DPI, compatible con Android 8 y superiores (12.1 compatible). Probado en ROMs Miui 10 o superior (Miui 13 compatible).",
       "states": {
         "zipUrl": "https://ya0211.github.io/magisk-modules-alt-repo/modules/NavBar_Resize_MIUI/v2.0_2.zip",
-        "changelog": ""
+        "changelog": "https://ya0211.github.io/magisk-modules-alt-repo/modules/NavBar_Resize_MIUI/v2.0_2.md"
       }
     },
     {
       "id": "NoProcStatRestriction",
       "license": "WTFPL",
-      "name": "Remove /proc/stat restriction",
       "version": "v0.0.2",
       "versionCode": 2,
+      "name": "Remove /proc/stat restriction",
       "author": "LY",
       "description": "Remove /proc/stat restriction on Android O and above",
       "states": {
@@ -382,9 +382,9 @@
     {
       "id": "NoStorageRestrict",
       "license": "",
-      "name": "NoStorageRestrict",
       "version": "v5",
       "versionCode": 6,
+      "name": "NoStorageRestrict",
       "author": "DanGLES3",
       "description": "Disables the restriction of not being able to select certain folders (like downloads/sdcard) when prompted by apps",
       "states": {
@@ -395,9 +395,9 @@
     {
       "id": "OneController",
       "license": "",
-      "name": "1Controller - 1 Module to support all Controllers.",
       "version": "v1.5.2",
       "versionCode": 152,
+      "name": "1Controller - 1 Module to support all Controllers.",
       "author": "Electric1447",
       "description": "This module adds .kl file (keylayout) for Dualshock 4/3, Xbox Series X|S, Xbox One/S, Xbox 360.",
       "states": {
@@ -408,9 +408,9 @@
     {
       "id": "OnePlus6Oxygen_22.J.62_debloater",
       "license": "",
-      "name": "OxygenOS as /e/",
       "version": "v0.0.1",
       "versionCode": 30,
+      "name": "OxygenOS as /e/",
       "author": "Psk.It",
       "description": "OxygenOS -Google -Oneplus: less is more!",
       "states": {
@@ -421,9 +421,9 @@
     {
       "id": "PLEX_SKIP_INTRO_DPAD_CONTROLLER_FIX",
       "license": "",
-      "name": "Plex \"Skip Intro\" DPad Controller Fix",
       "version": "v1",
       "versionCode": 1,
+      "name": "Plex \"Skip Intro\" DPad Controller Fix",
       "author": "OhMyBahGosh",
       "description": "Magisk module that maps key code 28 to \"DPAD_ENTER\" instead of \"ENTER\".  This allows for the DPad \"OK\" button to work properly, so that when you press the \"OK\" button, it actually presses the \"Skip Intro\" button.  This fixes a very annoying, and long ignored issue encountered when using a DPad controller inside PLEX on Android TV.  Without this module, when you press the \"OK\" button on a DPad Controller when the \"Skip Intro\" button appears in plex, it'll bring up player controls instead of actually skipping the intro.",
       "states": {
@@ -434,35 +434,35 @@
     {
       "id": "QS_Rectangulares",
       "license": "GPL-2.0",
-      "name": "Quick Settings Modded",
       "version": "v1.0",
       "versionCode": 1,
+      "name": "Quick Settings Modded",
       "author": "@CrazybytesVE",
       "description": "Este m\u00f3dulo coloca los Quick Settings m\u00e1s rectangulares, con un fondo degradado.",
       "states": {
         "zipUrl": "https://ya0211.github.io/magisk-modules-alt-repo/modules/QS_Rectangulares/v1.0_1.zip",
-        "changelog": ""
+        "changelog": "https://ya0211.github.io/magisk-modules-alt-repo/modules/QS_Rectangulares/v1.0_1.md"
       }
     },
     {
       "id": "RTKS",
       "license": "GPL-2.0",
-      "name": "RaidenTweaks",
       "version": "v4.6.6",
       "versionCode": 466,
+      "name": "RaidenTweaks",
       "author": "@raidenkkj",
       "description": "Module focused on maximizing user experience, multiple profiles you can change!",
       "states": {
         "zipUrl": "https://ya0211.github.io/magisk-modules-alt-repo/modules/RTKS/v4.6.6_466.zip",
-        "changelog": ""
+        "changelog": "https://ya0211.github.io/magisk-modules-alt-repo/modules/RTKS/v4.6.6_466.md"
       }
     },
     {
       "id": "SomcGameEnhancer-Upgrade",
       "license": "MIT",
-      "name": "SomcGameEnhancer Upgrade",
       "version": "v7.0.A.1.20",
       "versionCode": 14681108,
+      "name": "SomcGameEnhancer Upgrade",
       "author": "entr0pia@GitHub",
       "description": "Upgrade SomcGameEnhancer for Old Xperia Devices, Android 12 only",
       "states": {
@@ -473,9 +473,9 @@
     {
       "id": "SystemlessDebloater",
       "license": "LGPL-2.1",
-      "name": "Systemless Debloater",
       "version": "1.5.1",
       "versionCode": 151,
+      "name": "Systemless Debloater",
       "author": "zgfg @ xda",
       "description": "Select and debloat preinstalled system apps. Supported up to SAR, Dynamic partitions and A13. Module must be installed through Magisk app, not TWRP - see OP instructions in the XDA thread.",
       "states": {
@@ -486,9 +486,9 @@
     {
       "id": "ToyBox-Ext",
       "license": "0BSD",
-      "name": "ToyBox (Ext)",
       "version": "1.0.6",
       "versionCode": 106,
+      "name": "ToyBox (Ext)",
       "author": "zgfg @ xda",
       "description": "Install (additional) toybox applets. SUPPORTED: ARMv7 and higher ",
       "states": {
@@ -499,35 +499,35 @@
     {
       "id": "YAKT",
       "license": "MIT",
-      "name": "Yet Another Kernel Tweaker",
-      "version": "v6",
+      "version": "v7",
       "versionCode": 1,
+      "name": "Yet Another Kernel Tweaker",
       "author": "NotZeetaa",
       "description": "This modules tweaks your kernel parameters.",
       "states": {
-        "zipUrl": "https://ya0211.github.io/magisk-modules-alt-repo/modules/YAKT/v6_1.zip",
+        "zipUrl": "https://ya0211.github.io/magisk-modules-alt-repo/modules/YAKT/v7_1.zip",
         "changelog": ""
       }
     },
     {
       "id": "acc",
       "license": "GPL-3.0",
-      "name": "Advanced Charging Controller (ACC)",
       "version": "v2022.6.4",
       "versionCode": 202206040,
+      "name": "Advanced Charging Controller (ACC)",
       "author": "VR25",
       "description": "Mainly intended for extending battery service life on Android devices. In a nutshell, this is achieved through limiting charging current, temperature, and voltage. Any root solution is supported. Regardless of whether the system is rooted with Magisk, the installation is always \"systemless\".",
       "states": {
         "zipUrl": "https://ya0211.github.io/magisk-modules-alt-repo/modules/acc/v2022.6.4_202206040.zip",
-        "changelog": ""
+        "changelog": "https://ya0211.github.io/magisk-modules-alt-repo/modules/acc/v2022.6.4_202206040.md"
       }
     },
     {
       "id": "audio-jitter-silencer",
       "license": "AGPL-3.0",
-      "name": "Audio jitter silencer",
       "version": "v1.0.1",
       "versionCode": 1001,
+      "name": "Audio jitter silencer",
       "author": "zyhk",
       "description": "Disabling very large audio jitter generators (w.r.t. battery draining & optimizations, and wireless connectivity) for reducing audio jitter distortion on all digital audio outputs.",
       "states": {
@@ -538,9 +538,9 @@
     {
       "id": "audio-misc-settings",
       "license": "AGPL-3.0",
-      "name": "Audio misc. settings",
       "version": "v1.2.4",
       "versionCode": 1204,
+      "name": "Audio misc. settings",
       "author": "zyhk",
       "description": "Setting audio misc. configuration values (e.g. 100 volume steps, raising the resampling quality, disabling the effects framework, etc.)",
       "states": {
@@ -551,9 +551,9 @@
     {
       "id": "backup",
       "license": "GPL-3.0",
-      "name": "Backup",
       "version": "v1.0",
       "versionCode": 1,
+      "name": "Backup",
       "author": "Draco",
       "description": "An easy CLI backup tool without using a custom recovery.",
       "states": {
@@ -564,9 +564,9 @@
     {
       "id": "charch",
       "license": "",
-      "name": "ChArch",
       "version": "v1.0",
       "versionCode": 1,
+      "name": "ChArch",
       "author": "tytydraco",
       "description": "An Android-patched Magisk Module implementation of ChArch.",
       "states": {
@@ -577,9 +577,9 @@
     {
       "id": "charch_dinit",
       "license": "GPL-3.0",
-      "name": "ChArch Dinit",
       "version": "v1.1",
       "versionCode": 2,
+      "name": "ChArch Dinit",
       "author": "supangat",
       "description": "Initialize Dinit init for the default ChArch rootfs instance.",
       "states": {
@@ -590,9 +590,9 @@
     {
       "id": "charch_openrc",
       "license": "GPL-3.0",
-      "name": "ChArch OpenRC",
       "version": "v1.1",
       "versionCode": 2,
+      "name": "ChArch OpenRC",
       "author": "tytydraco",
       "description": "Initialize OpenRC for the default ChArch rootfs instance.",
       "states": {
@@ -603,9 +603,9 @@
     {
       "id": "charch_sshd",
       "license": "GPL-3.0",
-      "name": "ChArch SSHD",
       "version": "v1.0",
       "versionCode": 1,
+      "name": "ChArch SSHD",
       "author": "tytydraco",
       "description": "Initialize SSHD for the default ChArch rootfs instance.",
       "states": {
@@ -616,9 +616,9 @@
     {
       "id": "cmdpatch",
       "license": "GPL-3.0",
-      "name": "CMD Patch",
       "version": "v1.0",
       "versionCode": 1,
+      "name": "CMD Patch",
       "author": "tytydraco",
       "description": "An Android Linux Kernel command line patch tool using Magisk's magiskboot binary.",
       "states": {
@@ -629,9 +629,9 @@
     {
       "id": "custom-certificate-authorities",
       "license": "GPL-3.0",
-      "name": "Custom Certificate Authorities",
       "version": "v1.0.1",
       "versionCode": 101,
+      "name": "Custom Certificate Authorities",
       "author": "whalehub (admin@datahoarder.dev)",
       "description": "This module adds custom certificate authorities from a pre-defined path on the Android file system to the system trust store.",
       "states": {
@@ -642,22 +642,22 @@
     {
       "id": "data_backup",
       "license": "MIT",
-      "name": "Data backup creator",
       "version": "v2.11",
       "versionCode": 4,
+      "name": "Data backup creator",
       "author": "ziand",
       "description": "Data backup creator for restoring by data_restore.zip from or Magisk module installer or TWRP",
       "states": {
         "zipUrl": "https://ya0211.github.io/magisk-modules-alt-repo/modules/data_backup/v2.11_4.zip",
-        "changelog": ""
+        "changelog": "https://ya0211.github.io/magisk-modules-alt-repo/modules/data_backup/v2.11_4.md"
       }
     },
     {
       "id": "data_isolation_support",
       "license": "GPL-3.0",
-      "name": "AppDataIsolation Legacy Support",
       "version": "1.2",
       "versionCode": 3,
+      "name": "AppDataIsolation Legacy Support",
       "author": "HuskyDG",
       "description": "Enable /data/data isolation for old Android version (Android 10 and lower). Require Magisk process monitor tool v1.1+",
       "states": {
@@ -668,9 +668,9 @@
     {
       "id": "djs",
       "license": "GPL-3.0",
-      "name": "Daily Job Scheduler (DJS)",
       "version": "v2021.11.3",
       "versionCode": 202111030,
+      "name": "Daily Job Scheduler (DJS)",
       "author": "VR25",
       "description": "Runs commands and scripts on boot and at HH:MM. Any root solution is supported. The installation is always \"system-less\", whether or not the system is rooted with Magisk.",
       "states": {
@@ -681,9 +681,9 @@
     {
       "id": "drc-remover",
       "license": "AGPL-3.0",
-      "name": "DRC remover",
       "version": "v1.1.0",
       "versionCode": 1100,
+      "name": "DRC remover",
       "author": "zyhk",
       "description": "A remover of DRC (Dynamic Range Control, i.e., compression) sticking to all audio outputs on some major devices.",
       "states": {
@@ -694,9 +694,9 @@
     {
       "id": "ezme-dex-space",
       "license": "MIT",
-      "name": "Space saving Ahead-of-Time",
       "version": "v1",
       "versionCode": 1000,
+      "name": "Space saving Ahead-of-Time",
       "author": "ez-me",
       "description": "Changes how Android's dex2oat compiles packages to save space, rather than focus on speed. ",
       "states": {
@@ -707,9 +707,9 @@
     {
       "id": "ezme-nodebug",
       "license": "MIT",
-      "name": "Hide UserDebug, Test-Keys and LineageOS",
       "version": "v1",
       "versionCode": 1000,
+      "name": "Hide UserDebug, Test-Keys and LineageOS",
       "author": "ez-me",
       "description": "Change some props and \"remove\" LineageOS ones",
       "states": {
@@ -720,9 +720,9 @@
     {
       "id": "fbind",
       "license": "GPL-3.0",
-      "name": "fbind",
       "version": "v2021.12.6",
       "versionCode": 202112060,
+      "name": "fbind",
       "author": "VR25 @ xda-developers",
       "description": "fbind is a versatile mounting utility for folders, disk images, LUKS/LUKS2 encrypted volumes, regular partitions and more.",
       "states": {
@@ -733,9 +733,9 @@
     {
       "id": "frozen_magisk_app",
       "license": "",
-      "name": "Frozen Magisk app",
       "version": "1.2",
       "versionCode": 3,
+      "name": "Frozen Magisk app",
       "author": "HuskyDG",
       "description": "Dynamic freezing Magisk app. Process Monitor Tool v2.1+ is required for this module to work.",
       "states": {
@@ -746,9 +746,9 @@
     {
       "id": "gaming",
       "license": "GPL-3.0",
-      "name": "GAMING\u4e5bMode",
       "version": "vFINAL",
       "versionCode": 5,
+      "name": "GAMING\u4e5bMode",
       "author": "AkiraSuper",
       "description": "null",
       "states": {
@@ -759,9 +759,9 @@
     {
       "id": "gboard-dict-3",
       "license": "MIT",
-      "name": "Gboard user_dict_3_3 \u8bcd\u5e93",
       "version": "v2.1.1",
       "versionCode": 20220513,
+      "name": "Gboard user_dict_3_3 \u8bcd\u5e93",
       "author": "entr0pia@GitHub",
       "description": "\u7528\u6237\u8bcd\u5178 (user_dict_3_3), \u652f\u6301\u7b80\u62fc\u548c\u53cc\u62fc. \u517158053\u4e2a\u8bcd\u6761. \u6839\u636e\u624b\u673a\u6027\u80fd\u4e0d\u540c, \u65b0\u8bcd\u5e93\u9700\u89811\u5206\u949f\u5de6\u53f3\u751f\u6548. \u6d4b\u8bd5\u65b9\u6cd5: \u201c\u5149\u00b7\u9047\u201d. \u82e5\u8bcd\u5e93\u5931\u6548, \u8bf7\u91cd\u65b0\u5237\u5165\u5e76\u9009\u62e9\u6062\u590d; \u518d\u4e0d\u884c\u9009\u62e9\u5168\u65b0\u5b89\u88c5",
       "states": {
@@ -772,9 +772,9 @@
     {
       "id": "heimdall-ndk",
       "license": "",
-      "name": "Heimdall For Android NDK",
       "version": "v2.0.2",
       "versionCode": 202,
+      "name": "Heimdall For Android NDK",
       "author": "JonesqPacMan\u2122",
       "description": " Heimdall is a tool for flashing firmware (aka ROMs) onto Samsung Galaxy series devices over a USB connection. It accomplishes this using the same protocol as Odin . This static binary support multi architectures built with the NDK",
       "states": {
@@ -785,9 +785,9 @@
     {
       "id": "lhroot",
       "license": "GPL-3.0",
-      "name": "Linux Chroot Installer",
       "version": "v2.2.0",
       "versionCode": 1,
+      "name": "Linux Chroot Installer",
       "author": "FerryAr",
       "description": "Systemless linux chroot installer and chroot boot script",
       "states": {
@@ -798,9 +798,9 @@
     {
       "id": "magic-flash",
       "license": "GPL-3.0",
-      "name": "Magic FlashTool (Terminal Emulator)",
       "version": "v1.6",
       "versionCode": 10006,
+      "name": "Magic FlashTool (Terminal Emulator)",
       "author": "HuskyDG",
       "description": "An android CLI flash tool without custom recoveries. Usage: flash [ZIP...]",
       "states": {
@@ -811,9 +811,9 @@
     {
       "id": "magisk-module-koruri-font",
       "license": "WTFPL",
-      "name": "Koruri Font",
       "version": "v25",
       "versionCode": 25,
+      "name": "Koruri Font",
       "author": "lindwurm,AndroPlus",
       "description": "Koruri font patch for Japanese users. Koruri is open source Japanese font.",
       "states": {
@@ -824,9 +824,9 @@
     {
       "id": "magisk-module-mejiro-font",
       "license": "WTFPL",
-      "name": "Mejiro Font",
       "version": "v19",
       "versionCode": 19,
+      "name": "Mejiro Font",
       "author": "AndroPlus",
       "description": "Mejiro font patch for Japanese users.",
       "states": {
@@ -837,9 +837,9 @@
     {
       "id": "magisk_proc_monitor",
       "license": "GPL-3.0",
-      "name": "Process Monitor Tool",
       "version": "2.2",
       "versionCode": 9,
+      "name": "Process Monitor Tool",
       "author": "HuskyDG",
       "description": "Provide the way for modules to run script whenever app process start. More information, please visit http://github.com/huskydg/magisk_proc_monitor",
       "states": {
@@ -850,9 +850,9 @@
     {
       "id": "microg_installer",
       "license": "GPL-3.0",
-      "name": "microG Installer Revived",
       "version": "Revived 3.2.0-0",
       "versionCode": 30200,
+      "name": "microG Installer Revived",
       "author": "nift4",
       "description": "Install microG GmsCore, GsfProxy, FakeStore (or Play Store if you want so) and MapsV1 to /system/",
       "states": {
@@ -863,9 +863,9 @@
     {
       "id": "mkshrc",
       "license": "GPL-3.0",
-      "name": "Systemless Mkshrc",
       "version": "1.3.4",
       "versionCode": 134,
+      "name": "Systemless Mkshrc",
       "author": "Der_Googler",
       "description": "Provide a systemless implementation of mkshrc for a better terminal experience on Android devices.",
       "states": {
@@ -876,9 +876,9 @@
     {
       "id": "node",
       "license": "MIT",
-      "name": "Systemless Node.js",
       "version": "1.4.8",
       "versionCode": 148,
+      "name": "Systemless Node.js",
       "author": "Der_Googler",
       "description": "Node.js is a cross-platform, open-source server environment that can run on Windows, Linux, Unix, macOS, and more.",
       "states": {
@@ -889,9 +889,9 @@
     {
       "id": "oneplus-8series-9r-camera-unlocker",
       "license": "GPL-2.0",
-      "name": "OnePlus 8 Series & 9R Camera Unlocker",
       "version": "v1.2",
       "versionCode": 1200,
+      "name": "OnePlus 8 Series & 9R Camera Unlocker",
       "author": "AnierinB, Cartesian8445, haiderijaz, JeusChrit, Luk1377, shadowstep",
       "description": "Unlocks features like 48MP RAW10 support, auxiliary lenses (in custom ROMs only), Zero Shutter Lag (ZSL), etc. on the OnePlus 8, 8 Pro, 8T, and 9R",
       "states": {
@@ -902,9 +902,9 @@
     {
       "id": "oneplus-9-9pro-camera-unlocker",
       "license": "GPL-2.0",
-      "name": "OnePlus 9 & 9 Pro Camera Unlocker",
       "version": "v1.2",
       "versionCode": 1200,
+      "name": "OnePlus 9 & 9 Pro Camera Unlocker",
       "author": "AnierinB, JeusChrit, Cartesian8445, Luk1377, sean6541, shadowstep",
       "description": "Unlocks face detection and all cameras for use by third party apps on the OnePlus 9 and 9 Pro",
       "states": {
@@ -915,9 +915,9 @@
     {
       "id": "oneplusdotfix",
       "license": "GPL-2.0",
-      "name": "OnePlus 5/5T DotFix",
       "version": "v6.3",
       "versionCode": 6300,
+      "name": "OnePlus 5/5T DotFix",
       "author": "Arnova8G2, defcomg, MrAimenify, shadowstep",
       "description": "This module replaces the necessary camera libraries with modified ones which fix the Dotted Pattern Overlay issue, Front Camera HDR-Enhanced as well as Portrait Mode using the Google Camera Mod on the OnePlus 5/5T",
       "states": {
@@ -928,9 +928,9 @@
     {
       "id": "open_fonts",
       "license": "GPL-3.0",
-      "name": "Open Fonts",
       "version": "3.1.0",
       "versionCode": 118,
+      "name": "Open Fonts",
       "author": "F3FFO",
       "description": "Open Fonts change your system fonts",
       "states": {
@@ -941,9 +941,9 @@
     {
       "id": "open_webview",
       "license": "GPL-3.0",
-      "name": "Open Webview",
       "version": "2.0.0",
       "versionCode": 103,
+      "name": "Open Webview",
       "author": "F3FFO",
       "description": "Open Webview change your system webview",
       "states": {
@@ -954,9 +954,9 @@
     {
       "id": "pdx213_assistant_camera_remap",
       "license": "MIT",
-      "name": "Xperia 10 III GA Button Remapper",
       "version": "v1.2",
       "versionCode": 1,
+      "name": "Xperia 10 III GA Button Remapper",
       "author": "lufei",
       "description": "Remap the Google Assistant Button as a camera button.",
       "states": {
@@ -967,9 +967,9 @@
     {
       "id": "qdl-ndk",
       "license": "",
-      "name": "QDL For Android NDK",
       "version": "v1.0",
       "versionCode": 20220806,
+      "name": "QDL For Android NDK",
       "author": "JonesqPacMan\u2122",
       "description": " Qualcomm Download (QDL) is open source flashtool that implements the Qualcomm Sahara and Firehose protocols, and can be used for program (or unbrick) MSM based devices. This static binary support multi architectures built with the NDK",
       "states": {
@@ -980,9 +980,9 @@
     {
       "id": "saturation",
       "license": "GPL-3.0",
-      "name": "Saturation",
       "version": "v1.1",
       "versionCode": 2,
+      "name": "Saturation",
       "author": "Draco",
       "description": "Increase the saturation of the panel to 2x.",
       "states": {
@@ -993,9 +993,9 @@
     {
       "id": "selinux_mode",
       "license": "MIT",
-      "name": "Selinux Mode Changer",
       "version": "2.6.2",
       "versionCode": 262,
+      "name": "Selinux Mode Changer",
       "author": "alicee98",
       "description": "Change Your Selinux Mode",
       "states": {
@@ -1006,9 +1006,9 @@
     {
       "id": "sensitive_props",
       "license": "GPL-3.0",
-      "name": "SafetyNet sensitive props",
       "version": "v3",
       "versionCode": 3,
+      "name": "SafetyNet sensitive props",
       "author": "HuskyDG",
       "description": "Reset sensitive properties to safe state and try to bypass Safetynet / Play Integrity",
       "states": {
@@ -1019,9 +1019,9 @@
     {
       "id": "supl-replacer",
       "license": "BSD-3-Clause",
-      "name": "A-GPS SUPL replacer",
       "version": "v2.2.1",
       "versionCode": 5,
+      "name": "A-GPS SUPL replacer",
       "author": "PlqnK, D3SOX",
       "description": "Replace the SUPL (Secure User-Plane Location) provider in Android's gps.conf.",
       "states": {
@@ -1032,9 +1032,9 @@
     {
       "id": "systemui-bootloop",
       "license": "GPL-3.0",
-      "name": "SystemUI Bootloop Saver",
       "version": "v1.0.0",
       "versionCode": 100,
+      "name": "SystemUI Bootloop Saver",
       "author": "n3rd3x3",
       "description": "A Magisk Module that aims to stop SystemUI from bootlooping.",
       "states": {
@@ -1045,9 +1045,9 @@
     {
       "id": "trichromelibrary-squoosh",
       "license": "MIT",
-      "name": "TrichromeLibrary Squoosh",
       "version": "v1.4",
       "versionCode": 20220623,
+      "name": "TrichromeLibrary Squoosh",
       "author": "entr0pia@GitHub",
       "description": "Remove the outdated TrichromeLibrary after reboot | \u91cd\u542f\u540e\u79fb\u9664\u8fc7\u65f6\u7684 TrichromeLibrary",
       "states": {
@@ -1058,9 +1058,9 @@
     {
       "id": "ttf-twemoji",
       "license": "MIT",
-      "name": "Twemoji replacer",
       "version": "v14.0.3",
       "versionCode": 1403,
+      "name": "Twemoji replacer",
       "author": "ez-me & Twitter",
       "description": "Changes your system emoji to Twemoji!",
       "states": {
@@ -1071,9 +1071,9 @@
     {
       "id": "unityfix",
       "license": "",
-      "name": "UnityFix",
       "version": "5.0",
       "versionCode": 5,
+      "name": "UnityFix",
       "author": "@LeanHijosdesusMadres [telegram]",
       "description": "Mejora el rendimiento de Call of Duty Mobile, Genshin Impact y otros juegos de motor Unity \u2022 Improves the performance of Call of Duty Mobile, Genshin Impact and other Unity engine games",
       "states": {
@@ -1084,9 +1084,9 @@
     {
       "id": "upx-ndk",
       "license": "",
-      "name": "UPX For Android NDK",
       "version": "v3.96",
       "versionCode": 396,
+      "name": "UPX For Android NDK",
       "author": "JonesqPacMan\u2122",
       "description": " UPX (Ultimate Packer for Executables) is a free and open source executable packer supporting a number of file formats from different operating systems . This static binary support multi architectures built with the NDK",
       "states": {
@@ -1097,9 +1097,9 @@
     {
       "id": "usb-samplerate-unlocker",
       "license": "AGPL-3.0",
-      "name": "USB Samplerate Unlocker",
       "version": "v1.4.1",
       "versionCode": 1401,
+      "name": "USB Samplerate Unlocker",
       "author": "zyhk",
       "description": "USB (HAL) audio class drivers have a limiter of sample rates at 96kHz. This mod unlocks the limiter.",
       "states": {
@@ -1110,9 +1110,9 @@
     {
       "id": "vintf-bypass",
       "license": "GPL-3.0",
-      "name": "VTS Check Bypass",
       "version": "v1.1",
       "versionCode": 2,
+      "name": "VTS Check Bypass",
       "author": "Draco",
       "description": "Disable HAL and Kernel config checks on boot.",
       "states": {
@@ -1123,9 +1123,9 @@
     {
       "id": "xhhttp",
       "license": "MIT",
-      "name": "xh for Android",
       "version": "v0.18.0",
       "versionCode": 180,
+      "name": "xh for Android",
       "author": "ducaale & Der_Googler",
       "description": "Friendly and fast tool for sending HTTP requests",
       "states": {
@@ -1136,9 +1136,9 @@
     {
       "id": "ytrevancedinject",
       "license": "",
-      "name": "YouTube ReVanced",
       "version": "18.01.36",
       "versionCode": 4,
+      "name": "YouTube ReVanced",
       "author": "HuskyDG",
       "description": "YouTube ReVanced repacked by HuskyDG. Require Magisk Process Monitor tool v2.1+ for Dynamic Mount",
       "states": {

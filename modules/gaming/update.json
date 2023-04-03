@@ -1,8 +1,9 @@
 {
-  "timestamp": 1677078366.470096,
+  "id": "gaming",
+  "timestamp": 1603068712.0,
   "versions": [
     {
-      "timestamp": 1677078366.470096,
+      "timestamp": 1603068712.0,
       "version": "vFINAL",
       "versionCode": 5,
       "zipUrl": "https://ya0211.github.io/magisk-modules-alt-repo/modules/gaming/vFINAL_5.zip",

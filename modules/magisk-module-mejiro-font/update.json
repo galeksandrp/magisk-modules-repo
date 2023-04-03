@@ -1,26 +1,13 @@
 {
-  "timestamp": 1677764321.47924,
+  "id": "magisk-module-mejiro-font",
+  "timestamp": 1677543320.0,
   "versions": [
     {
-      "timestamp": 1677764321.47924,
+      "timestamp": 1677543320.0,
       "version": "v19",
       "versionCode": 19,
       "zipUrl": "https://ya0211.github.io/magisk-modules-alt-repo/modules/magisk-module-mejiro-font/v19_19.zip",
       "changelog": "https://ya0211.github.io/magisk-modules-alt-repo/modules/magisk-module-mejiro-font/v19_19.md"
-    },
-    {
-      "timestamp": 1677130325.041362,
-      "version": "v18",
-      "versionCode": 18,
-      "zipUrl": "https://raw.githubusercontent.com/ya0211/magisk-modules-alt-repo/main/modules/magisk-module-mejiro-font/v18_18.zip",
-      "changelog": "https://raw.githubusercontent.com/ya0211/magisk-modules-alt-repo/main/modules/magisk-module-mejiro-font/v18_18.md"
-    },
-    {
-      "timestamp": 1677079514.94034,
-      "version": "v17",
-      "versionCode": 17,
-      "zipUrl": "https://raw.githubusercontent.com/ya0211/magisk-modules-alt-repo/main/modules/magisk-module-mejiro-font/v17_17.zip",
-      "changelog": "https://raw.githubusercontent.com/ya0211/magisk-modules-alt-repo/main/modules/magisk-module-mejiro-font/v17_17.md"
     }
   ]
 }

@@ -1,25 +1,12 @@
 {
-  "timestamp": 1678030916.689847,
+  "id": "MagiskHide",
+  "timestamp": 1677950994.0,
   "versions": [
     {
-      "timestamp": 1678030916.689847,
+      "timestamp": 1677950994.0,
       "version": "1.10.3",
       "versionCode": 16,
       "zipUrl": "https://ya0211.github.io/magisk-modules-alt-repo/modules/MagiskHide/1.10.3_16.zip",
-      "changelog": ""
-    },
-    {
-      "timestamp": 1677764321.47924,
-      "version": "1.10.2",
-      "versionCode": 15,
-      "zipUrl": "https://raw.githubusercontent.com/ya0211/magisk-modules-alt-repo/main/modules/MagiskHide/1.10.2_15.zip",
-      "changelog": ""
-    },
-    {
-      "timestamp": 1677330246.474416,
-      "version": "1.8",
-      "versionCode": 9,
-      "zipUrl": "https://raw.githubusercontent.com/ya0211/magisk-modules-alt-repo/main/modules/MagiskHide/1.8_9.zip",
       "changelog": ""
     }
   ]

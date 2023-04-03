@@ -2,7 +2,8 @@
   "id": "CloudflareDNS4Magisk",
   "update_to": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/CloudflareDNS4Magisk/master/update.json",
   "license": "LGPL-3.0",
-  "added": 1677078366.470096,
-  "last_update": 1677078366.470096,
+  "changelog": "",
+  "added": 1680541868.910362,
+  "last_update": 1644450020.0,
   "versions": 1
 }

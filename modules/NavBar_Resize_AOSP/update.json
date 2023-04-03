@@ -1,12 +1,13 @@
 {
-  "timestamp": 1677079514.94034,
+  "id": "NavBar_Resize_AOSP",
+  "timestamp": 1661028155.0,
   "versions": [
     {
-      "timestamp": 1677079514.94034,
+      "timestamp": 1661028155.0,
       "version": "v1.1",
       "versionCode": 11,
       "zipUrl": "https://ya0211.github.io/magisk-modules-alt-repo/modules/NavBar_Resize_AOSP/v1.1_11.zip",
-      "changelog": ""
+      "changelog": "https://ya0211.github.io/magisk-modules-alt-repo/modules/NavBar_Resize_AOSP/v1.1_11.md"
     }
   ]
 }

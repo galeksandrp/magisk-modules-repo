@@ -1,8 +1,9 @@
 {
-  "timestamp": 1677079514.94034,
+  "id": "Magisk-Captive-Control",
+  "timestamp": 1604596410.0,
   "versions": [
     {
-      "timestamp": 1677079514.94034,
+      "timestamp": 1604596410.0,
       "version": "v1.0.0",
       "versionCode": 100,
       "zipUrl": "https://ya0211.github.io/magisk-modules-alt-repo/modules/Magisk-Captive-Control/v1.0.0_100.zip",

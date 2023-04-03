@@ -1,8 +1,9 @@
 {
-  "timestamp": 1677078366.470096,
+  "id": "backup",
+  "timestamp": 1599015487.0,
   "versions": [
     {
-      "timestamp": 1677078366.470096,
+      "timestamp": 1599015487.0,
       "version": "v1.0",
       "versionCode": 1,
       "zipUrl": "https://ya0211.github.io/magisk-modules-alt-repo/modules/backup/v1.0_1.zip",
