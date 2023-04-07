@@ -1,6 +1,6 @@
 {
   "name": "Magisk Modules Alt Repo",
-  "timestamp": 1680542778.410097,
+  "timestamp": 1680852452.86658,
   "modules": [
     {
       "id": "AFWall-Boot-AntiLeak",
@@ -181,7 +181,7 @@
       "description": "Aplica Doze a los Servicios de Google Play (GMS), maximizando bater\u00eda. INSTALAR LUEGO DE CONFIGURAR CUENTA GOOGLE. Esta versi\u00f3n bloquea 'Find My Device' de Google.",
       "states": {
         "zipUrl": "https://ya0211.github.io/magisk-modules-alt-repo/modules/GMS-Doze_Block_FindMyDevice/v1.3B_131.zip",
-        "changelog": "https://ya0211.github.io/magisk-modules-alt-repo/modules/GMS-Doze_Block_FindMyDevice/v1.3B_131.md"
+        "changelog": ""
       }
     },
     {
@@ -194,7 +194,7 @@
       "description": "Aplica Doze a los Google Play Services (GMS), maximizando bater\u00eda. INSTALAR LUEGO DE CONFIGURAR CUENTA GOOGLE.",
       "states": {
         "zipUrl": "https://ya0211.github.io/magisk-modules-alt-repo/modules/GMSDoze/v1.3A_130.zip",
-        "changelog": "https://ya0211.github.io/magisk-modules-alt-repo/modules/GMSDoze/v1.3A_130.md"
+        "changelog": ""
       }
     },
     {
@@ -272,7 +272,7 @@
       "description": "Este m\u00f3dulo modifica los valores m\u00ednimos de \"Luz Nocturna\" para que sean menos c\u00e1lidos (menos amarillentos). .",
       "states": {
         "zipUrl": "https://ya0211.github.io/magisk-modules-alt-repo/modules/Luz-Nocturna_Modded/v1.0_1.zip",
-        "changelog": "https://ya0211.github.io/magisk-modules-alt-repo/modules/Luz-Nocturna_Modded/v1.0_1.md"
+        "changelog": ""
       }
     },
     {
@@ -350,7 +350,7 @@
       "description": "Barra de Navegaci\u00f3n reducida a 36DPI, compatible con Android 8 y superiores. Probado en ROMs AOSP.",
       "states": {
         "zipUrl": "https://ya0211.github.io/magisk-modules-alt-repo/modules/NavBar_Resize_AOSP/v1.1_11.zip",
-        "changelog": "https://ya0211.github.io/magisk-modules-alt-repo/modules/NavBar_Resize_AOSP/v1.1_11.md"
+        "changelog": ""
       }
     },
     {
@@ -363,7 +363,7 @@
       "description": "Barra de Navegaci\u00f3n reducida a 36DPI, compatible con Android 8 y superiores (12.1 compatible). Probado en ROMs Miui 10 o superior (Miui 13 compatible).",
       "states": {
         "zipUrl": "https://ya0211.github.io/magisk-modules-alt-repo/modules/NavBar_Resize_MIUI/v2.0_2.zip",
-        "changelog": "https://ya0211.github.io/magisk-modules-alt-repo/modules/NavBar_Resize_MIUI/v2.0_2.md"
+        "changelog": ""
       }
     },
     {
@@ -441,7 +441,7 @@
       "description": "Este m\u00f3dulo coloca los Quick Settings m\u00e1s rectangulares, con un fondo degradado.",
       "states": {
         "zipUrl": "https://ya0211.github.io/magisk-modules-alt-repo/modules/QS_Rectangulares/v1.0_1.zip",
-        "changelog": "https://ya0211.github.io/magisk-modules-alt-repo/modules/QS_Rectangulares/v1.0_1.md"
+        "changelog": ""
       }
     },
     {
@@ -473,14 +473,14 @@
     {
       "id": "SystemlessDebloater",
       "license": "LGPL-2.1",
-      "version": "1.5.1",
-      "versionCode": 151,
+      "version": "1.5.2",
+      "versionCode": 152,
       "name": "Systemless Debloater",
       "author": "zgfg @ xda",
       "description": "Select and debloat preinstalled system apps. Supported up to SAR, Dynamic partitions and A13. Module must be installed through Magisk app, not TWRP - see OP instructions in the XDA thread.",
       "states": {
-        "zipUrl": "https://ya0211.github.io/magisk-modules-alt-repo/modules/SystemlessDebloater/1.5.1_151.zip",
-        "changelog": "https://ya0211.github.io/magisk-modules-alt-repo/modules/SystemlessDebloater/1.5.1_151.md"
+        "zipUrl": "https://ya0211.github.io/magisk-modules-alt-repo/modules/SystemlessDebloater/1.5.2_152.zip",
+        "changelog": "https://ya0211.github.io/magisk-modules-alt-repo/modules/SystemlessDebloater/1.5.2_152.md"
       }
     },
     {
