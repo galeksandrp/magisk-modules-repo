@@ -1,6 +1,6 @@
 {
   "id": "open_webview",
-  "timestamp": 1668873163.0,
+  "timestamp": 1682256699.0,
   "versions": [
     {
       "timestamp": 1668873163.0,
@@ -8,6 +8,13 @@
       "versionCode": 103,
       "zipUrl": "https://ya0211.github.io/magisk-modules-alt-repo/modules/open_webview/2.0.0_103.zip",
       "changelog": "https://ya0211.github.io/magisk-modules-alt-repo/modules/open_webview/2.0.0_103.md"
+    },
+    {
+      "timestamp": 1682256699.0,
+      "version": "2.1.0",
+      "versionCode": 104,
+      "zipUrl": "https://ya0211.github.io/magisk-modules-alt-repo/modules/open_webview/2.1.0_104.zip",
+      "changelog": "https://ya0211.github.io/magisk-modules-alt-repo/modules/open_webview/2.1.0_104.md"
     }
   ]
 }
