@@ -1,6 +1,10 @@
 {
   "name": "Magisk Modules Alt Repo",
-  "timestamp": 1686566505.467126,
+  "timestamp": 1686904986.607008,
+  "metadata": {
+    "version": "1.0.0.55fac0a",
+    "versionCode": 243
+  },
   "modules": [
     {
       "id": "AFWall-Boot-AntiLeak",
@@ -525,14 +529,14 @@
     {
       "id": "audio-misc-settings",
       "name": "Audio misc. settings",
-      "version": "v1.3.0",
-      "versionCode": 1300,
+      "version": "v1.3.1",
+      "versionCode": 1301,
       "author": "zyhk",
       "description": "Setting audio misc. configuration values (e.g. 100 volume steps, raising the resampling quality, disabling the effects framework, etc.)",
       "license": "AGPL-3.0",
       "states": {
-        "zipUrl": "https://ya0211.github.io/magisk-modules-alt-repo/modules/audio-misc-settings/v1.3.0_1300.zip",
-        "changelog": "https://ya0211.github.io/magisk-modules-alt-repo/modules/audio-misc-settings/v1.3.0_1300.md"
+        "zipUrl": "https://ya0211.github.io/magisk-modules-alt-repo/modules/audio-misc-settings/v1.3.1_1301.zip",
+        "changelog": "https://ya0211.github.io/magisk-modules-alt-repo/modules/audio-misc-settings/v1.3.1_1301.md"
       }
     },
     {
@@ -851,12 +855,12 @@
       "id": "magisk_overlayfs",
       "name": "Magical Overlayfs",
       "author": "HuskyDG",
-      "version": "v3.0.3",
-      "versionCode": 30003,
+      "version": "v3.1.2",
+      "versionCode": 30102,
       "description": "Use OverlayFS to make read-only system partitions become read-write partitions. OverlayFS MUST be supported by kernel!",
       "license": "",
       "states": {
-        "zipUrl": "https://ya0211.github.io/magisk-modules-alt-repo/modules/magisk_overlayfs/v3.0.3_30003.zip",
+        "zipUrl": "https://ya0211.github.io/magisk-modules-alt-repo/modules/magisk_overlayfs/v3.1.2_30102.zip",
         "changelog": ""
       }
     },
@@ -1149,14 +1153,14 @@
     {
       "id": "usb-samplerate-unlocker",
       "name": "USB Samplerate Unlocker",
-      "version": "v1.5.0",
-      "versionCode": 1500,
+      "version": "v1.5.1",
+      "versionCode": 1501,
       "author": "zyhk",
       "description": "USB (HAL) audio class drivers have a limiter of sample rates at 96kHz. This mod unlocks the limiter.",
       "license": "AGPL-3.0",
       "states": {
-        "zipUrl": "https://ya0211.github.io/magisk-modules-alt-repo/modules/usb-samplerate-unlocker/v1.5.0_1500.zip",
-        "changelog": "https://ya0211.github.io/magisk-modules-alt-repo/modules/usb-samplerate-unlocker/v1.5.0_1500.md"
+        "zipUrl": "https://ya0211.github.io/magisk-modules-alt-repo/modules/usb-samplerate-unlocker/v1.5.1_1501.zip",
+        "changelog": "https://ya0211.github.io/magisk-modules-alt-repo/modules/usb-samplerate-unlocker/v1.5.1_1501.md"
       }
     },
     {
