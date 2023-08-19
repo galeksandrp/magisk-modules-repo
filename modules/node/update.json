@@ -1,0 +1,13 @@
+{
+  "id": "node",
+  "timestamp": 1692090808.0,
+  "versions": [
+    {
+      "timestamp": 1692090808.0,
+      "version": "1.4.9",
+      "versionCode": 149,
+      "zipUrl": "https://ya0211.github.io/magisk-modules-alt-repo/modules/node/1.4.9_149.zip",
+      "changelog": ""
+    }
+  ]
+}

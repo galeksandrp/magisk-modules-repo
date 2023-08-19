@@ -1,0 +1,13 @@
+{
+  "id": "pixel-tensor-audio-decompressor",
+  "timestamp": 1691055436.0,
+  "versions": [
+    {
+      "timestamp": 1691055436.0,
+      "version": "v2.1.0",
+      "versionCode": 210,
+      "zipUrl": "https://ya0211.github.io/magisk-modules-alt-repo/modules/pixel-tensor-audio-decompressor/v2.1.0_210.zip",
+      "changelog": ""
+    }
+  ]
+}

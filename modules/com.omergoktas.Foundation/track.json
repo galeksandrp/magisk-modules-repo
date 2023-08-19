@@ -2,6 +2,8 @@
   "id": "com.omergoktas.Foundation",
   "update_to": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/com.omergoktas.Foundation/master/update.json",
   "license": "GPL-3.0",
-  "changelog": "",
+  "homepage": "https://github.com/Magisk-Modules-Alt-Repo/com.omergoktas.Foundation",
+  "source": "https://github.com/Magisk-Modules-Alt-Repo/com.omergoktas.Foundation.git",
+  "support": "https://github.com/Magisk-Modules-Alt-Repo/com.omergoktas.Foundation/issues",
   "added": 1686562280.852298
 }

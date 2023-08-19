@@ -1,9 +1,12 @@
 {
   "id": "usb-samplerate-unlocker",
-  "update_to": "https://github.com/Magisk-Modules-Alt-Repo/usb-samplerate-unlocker.git",
-  "license": "AGPL-3.0",
+  "update_to": "git@github.com:Magisk-Modules-Alt-Repo/usb-samplerate-unlocker.git",
   "changelog": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/usb-samplerate-unlocker/master/changelog.md",
-  "added": 1680542019.723323,
-  "last_update": 1686569585.0,
+  "license": "AGPL-3.0",
+  "homepage": "https://github.com/Magisk-Modules-Alt-Repo/usb-samplerate-unlocker",
+  "source": "https://github.com/Magisk-Modules-Alt-Repo/usb-samplerate-unlocker.git",
+  "support": "https://github.com/Magisk-Modules-Alt-Repo/usb-samplerate-unlocker/issues",
+  "added": 1692474560.264467,
+  "last_update": 1691936757.0,
   "versions": 3
 }

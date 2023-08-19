@@ -1,8 +1,9 @@
 {
   "id": "qdl-ndk",
-  "update_to": "https://github.com/Magisk-Modules-Alt-Repo/qdl-ndk.git",
-  "license": "",
-  "changelog": "",
+  "update_to": "git@github.com:Magisk-Modules-Alt-Repo/qdl-ndk.git",
+  "homepage": "https://github.com/Magisk-Modules-Alt-Repo/qdl-ndk",
+  "source": "https://github.com/Magisk-Modules-Alt-Repo/qdl-ndk.git",
+  "support": "https://github.com/Magisk-Modules-Alt-Repo/qdl-ndk/issues",
   "added": 1680541990.741723,
   "last_update": 1659744733.0,
   "versions": 1

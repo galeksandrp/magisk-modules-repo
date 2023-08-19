@@ -1,7 +1,9 @@
 {
   "id": "NotchBarKiller",
-  "update_to": "https://github.com/Magisk-Modules-Alt-Repo/NotchBarKiller.git",
+  "update_to": "git@github.com:Magisk-Modules-Alt-Repo/NotchBarKiller.git",
   "license": "GPL-2.0",
-  "changelog": "",
+  "homepage": "https://github.com/Magisk-Modules-Alt-Repo/NotchBarKiller",
+  "source": "https://github.com/Magisk-Modules-Alt-Repo/NotchBarKiller.git",
+  "support": "https://github.com/Magisk-Modules-Alt-Repo/NotchBarKiller/issues",
   "added": 1680541972.348992
 }

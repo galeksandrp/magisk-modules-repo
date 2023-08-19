@@ -1,8 +1,9 @@
 {
   "id": "heimdall-ndk",
-  "update_to": "https://github.com/Magisk-Modules-Alt-Repo/heimdall-ndk.git",
-  "license": "",
-  "changelog": "",
+  "update_to": "git@github.com:Magisk-Modules-Alt-Repo/heimdall-ndk.git",
+  "homepage": "https://github.com/Magisk-Modules-Alt-Repo/heimdall-ndk",
+  "source": "https://github.com/Magisk-Modules-Alt-Repo/heimdall-ndk.git",
+  "support": "https://github.com/Magisk-Modules-Alt-Repo/heimdall-ndk/issues",
   "added": 1680541925.451657,
   "last_update": 1659743807.0,
   "versions": 1

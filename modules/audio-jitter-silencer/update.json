@@ -15,6 +15,13 @@
       "versionCode": 1002,
       "zipUrl": "https://ya0211.github.io/magisk-modules-alt-repo/modules/audio-jitter-silencer/v1.0.2_1002.zip",
       "changelog": "https://ya0211.github.io/magisk-modules-alt-repo/modules/audio-jitter-silencer/v1.0.2_1002.md"
+    },
+    {
+      "timestamp": 1691936403.0,
+      "version": "v1.0.4",
+      "versionCode": 1004,
+      "zipUrl": "https://ya0211.github.io/magisk-modules-alt-repo/modules/audio-jitter-silencer/v1.0.4_1004.zip",
+      "changelog": "https://ya0211.github.io/magisk-modules-alt-repo/modules/audio-jitter-silencer/v1.0.4_1004.md"
     }
   ]
 }

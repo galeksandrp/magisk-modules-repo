@@ -1,8 +1,9 @@
 {
   "id": "unityfix",
-  "update_to": "https://github.com/Magisk-Modules-Alt-Repo/unityfix.git",
-  "license": "",
-  "changelog": "",
+  "update_to": "git@github.com:Magisk-Modules-Alt-Repo/unityfix.git",
+  "homepage": "https://github.com/Magisk-Modules-Alt-Repo/unityfix",
+  "source": "https://github.com/Magisk-Modules-Alt-Repo/unityfix.git",
+  "support": "https://github.com/Magisk-Modules-Alt-Repo/unityfix/issues",
   "added": 1680542015.813553,
   "last_update": 1673557361.0,
   "versions": 1

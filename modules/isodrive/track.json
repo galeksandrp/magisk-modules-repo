@@ -1,8 +1,9 @@
 {
   "id": "isodrive",
-  "update_to": "https://github.com/Magisk-Modules-Alt-Repo/isodrive.git",
-  "license": "",
-  "changelog": "",
+  "update_to": "git@github.com:Magisk-Modules-Alt-Repo/isodrive.git",
+  "homepage": "https://github.com/Magisk-Modules-Alt-Repo/isodrive",
+  "source": "https://github.com/Magisk-Modules-Alt-Repo/isodrive.git",
+  "support": "https://github.com/Magisk-Modules-Alt-Repo/isodrive/issues",
   "added": 1686562362.400679,
   "last_update": 1685695745.0,
   "versions": 1

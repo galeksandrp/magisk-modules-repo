@@ -1,8 +1,9 @@
 {
   "id": "OneController",
-  "update_to": "https://github.com/Magisk-Modules-Alt-Repo/OneController.git",
-  "license": "",
-  "changelog": "",
+  "update_to": "git@github.com:Magisk-Modules-Alt-Repo/OneController.git",
+  "homepage": "https://github.com/Magisk-Modules-Alt-Repo/OneController",
+  "source": "https://github.com/Magisk-Modules-Alt-Repo/OneController.git",
+  "support": "https://github.com/Magisk-Modules-Alt-Repo/OneController/issues",
   "added": 1680541974.401325,
   "last_update": 1624492127.0,
   "versions": 1

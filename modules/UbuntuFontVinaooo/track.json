@@ -1,8 +1,10 @@
 {
   "id": "UbuntuFontVinaooo",
-  "update_to": "https://github.com/Magisk-Modules-Alt-Repo/UbuntuFontVinaooo.git",
+  "update_to": "git@github.com:Magisk-Modules-Alt-Repo/UbuntuFontVinaooo.git",
   "license": "MIT",
-  "changelog": "",
+  "homepage": "https://github.com/Magisk-Modules-Alt-Repo/UbuntuFontVinaooo",
+  "source": "https://github.com/Magisk-Modules-Alt-Repo/UbuntuFontVinaooo.git",
+  "support": "https://github.com/Magisk-Modules-Alt-Repo/UbuntuFontVinaooo/issues",
   "added": 1686562507.674932,
   "last_update": 1683467033.0,
   "versions": 1

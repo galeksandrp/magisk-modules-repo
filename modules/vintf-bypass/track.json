@@ -1,8 +1,10 @@
 {
   "id": "vintf-bypass",
-  "update_to": "https://github.com/Magisk-Modules-Alt-Repo/vintf-bypass.git",
+  "update_to": "git@github.com:Magisk-Modules-Alt-Repo/vintf-bypass.git",
   "license": "GPL-3.0",
-  "changelog": "",
+  "homepage": "https://github.com/Magisk-Modules-Alt-Repo/vintf-bypass",
+  "source": "https://github.com/Magisk-Modules-Alt-Repo/vintf-bypass.git",
+  "support": "https://github.com/Magisk-Modules-Alt-Repo/vintf-bypass/issues",
   "added": 1680542022.801648,
   "last_update": 1598025275.0,
   "versions": 1

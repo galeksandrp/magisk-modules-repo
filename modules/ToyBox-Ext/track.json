@@ -2,8 +2,11 @@
   "id": "ToyBox-Ext",
   "update_to": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/ToyBox-Ext/main/update.json",
   "license": "0BSD",
-  "changelog": "",
-  "added": 1680542009.627047,
-  "last_update": 1686000966.0,
-  "versions": 2
+  "homepage": "https://github.com/Magisk-Modules-Alt-Repo/ToyBox-Ext",
+  "source": "https://github.com/Magisk-Modules-Alt-Repo/ToyBox-Ext.git",
+  "support": "https://github.com/Magisk-Modules-Alt-Repo/ToyBox-Ext/issues",
+  "donate": "https://zgfg.github.io/PayPal.html",
+  "added": 1692474537.351281,
+  "last_update": 1691427222.0,
+  "versions": 3
 }

@@ -1,8 +1,10 @@
 {
   "id": "ezme-nodebug",
-  "update_to": "https://github.com/Magisk-Modules-Alt-Repo/ezme-nodebug.git",
+  "update_to": "git@github.com:Magisk-Modules-Alt-Repo/ezme-nodebug.git",
   "license": "MIT",
-  "changelog": "",
+  "homepage": "https://github.com/Magisk-Modules-Alt-Repo/ezme-nodebug",
+  "source": "https://github.com/Magisk-Modules-Alt-Repo/ezme-nodebug.git",
+  "support": "https://github.com/Magisk-Modules-Alt-Repo/ezme-nodebug/issues",
   "added": 1680541898.004424,
   "last_update": 1663012287.0,
   "versions": 1

@@ -1,7 +1,8 @@
 {
   "id": "GlitchedCyberBoot",
-  "update_to": "https://github.com/Magisk-Modules-Alt-Repo/GlitchedCyberBoot.git",
-  "license": "",
-  "changelog": "",
+  "update_to": "git@github.com:Magisk-Modules-Alt-Repo/GlitchedCyberBoot.git",
+  "homepage": "https://github.com/Magisk-Modules-Alt-Repo/GlitchedCyberBoot",
+  "source": "https://github.com/Magisk-Modules-Alt-Repo/GlitchedCyberBoot.git",
+  "support": "https://github.com/Magisk-Modules-Alt-Repo/GlitchedCyberBoot/issues",
   "added": 1680541912.707021
 }

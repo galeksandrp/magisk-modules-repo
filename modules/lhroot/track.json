@@ -1,8 +1,10 @@
 {
   "id": "lhroot",
-  "update_to": "https://github.com/Magisk-Modules-Alt-Repo/lhroot.git",
+  "update_to": "git@github.com:Magisk-Modules-Alt-Repo/lhroot.git",
   "license": "GPL-3.0",
-  "changelog": "",
+  "homepage": "https://github.com/Magisk-Modules-Alt-Repo/lhroot",
+  "source": "https://github.com/Magisk-Modules-Alt-Repo/lhroot.git",
+  "support": "https://github.com/Magisk-Modules-Alt-Repo/lhroot/issues",
   "added": 1680541934.461731,
   "last_update": 1676718135.0,
   "versions": 1

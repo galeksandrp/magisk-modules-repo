@@ -1,8 +1,11 @@
 {
   "id": "fbind",
-  "update_to": "https://github.com/Magisk-Modules-Alt-Repo/fbind.git",
+  "update_to": "git@github.com:Magisk-Modules-Alt-Repo/fbind.git",
   "license": "GPL-3.0",
-  "changelog": "",
+  "homepage": "https://github.com/VR-25/fbind",
+  "source": "https://github.com/Magisk-Modules-Alt-Repo/fbind.git",
+  "support": "https://github.com/Magisk-Modules-Alt-Repo/fbind/issues",
+  "donate": "https://patreon.com/VR25",
   "added": 1680541901.213438,
   "last_update": 1638809703.0,
   "versions": 1

@@ -1,7 +1,9 @@
 {
   "id": "FOSSAPPS",
-  "update_to": "https://github.com/Magisk-Modules-Alt-Repo/FOSSAPPS.git",
+  "update_to": "git@github.com:Magisk-Modules-Alt-Repo/FOSSAPPS.git",
   "license": "Apache-2.0",
-  "changelog": "",
+  "homepage": "https://github.com/Magisk-Modules-Alt-Repo/FOSSAPPS",
+  "source": "https://github.com/Magisk-Modules-Alt-Repo/FOSSAPPS.git",
+  "support": "https://github.com/Magisk-Modules-Alt-Repo/FOSSAPPS/issues",
   "added": 1686562325.600769
 }
