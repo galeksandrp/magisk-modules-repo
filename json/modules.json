@@ -2,7 +2,7 @@
   "name": "Magisk Modules Alt Repo",
   "metadata": {
     "version": 1,
-    "timestamp": 1692475434.469029
+    "timestamp": 1693760281.849425
   },
   "modules": [
     {
@@ -401,18 +401,11 @@
       },
       "versions": [
         {
-          "timestamp": 1659560395.0,
-          "version": "v1.3A",
-          "versionCode": 130,
-          "zipUrl": "https://ya0211.github.io/magisk-modules-alt-repo/modules/GMSDoze/v1.3A_130.zip",
-          "changelog": ""
-        },
-        {
           "timestamp": 1683468066.0,
           "version": "v1.4A",
           "versionCode": 140,
           "zipUrl": "https://ya0211.github.io/magisk-modules-alt-repo/modules/GMSDoze/v1.4A_140.zip",
-          "changelog": "https://ya0211.github.io/magisk-modules-alt-repo/modules/GMSDoze/v1.4A_140.md"
+          "changelog": ""
         }
       ]
     },
@@ -460,18 +453,11 @@
       },
       "versions": [
         {
-          "timestamp": 1659620310.0,
-          "version": "v1.3B",
-          "versionCode": 131,
-          "zipUrl": "https://ya0211.github.io/magisk-modules-alt-repo/modules/GMS-Doze_Block_FindMyDevice/v1.3B_131.zip",
-          "changelog": ""
-        },
-        {
           "timestamp": 1683468277.0,
           "version": "v1.4B",
           "versionCode": 141,
-          "zipUrl": "https://ya0211.github.io/magisk-modules-alt-repo/modules/GMS-Doze_Block_FindMyDevice/v1.4B_141.zip",
-          "changelog": "https://ya0211.github.io/magisk-modules-alt-repo/modules/GMS-Doze_Block_FindMyDevice/v1.4B_141.md"
+          "zipUrl": "https://ya0211.github.io/magisk-modules-alt-repo/modules/GMSDozeBlockFind/v1.4B_141.zip",
+          "changelog": ""
         }
       ]
     },
@@ -561,32 +547,6 @@
       ]
     },
     {
-      "id": "Lawnchair",
-      "name": "Lawnchair full package",
-      "version": "v12.1.0.Alpha.3",
-      "versionCode": 29,
-      "author": "Psk.It",
-      "description": "Lawnchair launcher + icons + feeds + recents",
-      "track": {
-        "type": "GIT",
-        "added": 1680541932.284262,
-        "license": "",
-        "homepage": "",
-        "source": "",
-        "support": "",
-        "donate": ""
-      },
-      "versions": [
-        {
-          "timestamp": 1652979626.0,
-          "version": "v12.1.0.Alpha.3",
-          "versionCode": 29,
-          "zipUrl": "https://ya0211.github.io/magisk-modules-alt-repo/modules/Lawnchair/v12.1.0.Alpha.3_29.zip",
-          "changelog": ""
-        }
-      ]
-    },
-    {
       "id": "Luz-Nocturna_Modded",
       "name": "Luz Nocturna Modded",
       "version": "v1.0",
@@ -639,6 +599,32 @@
       ]
     },
     {
+      "id": "Malwack",
+      "name": "Malwack | Anti-Malware & Ad Blocker",
+      "version": "v1.1",
+      "versionCode": 2,
+      "author": "Person0z",
+      "description": "Say goodbye to unwanted digital pests and send malware running with Malwack, your virtual fly swatter for the cyber world. It's like having a bouncer for your device \u2013 no entry for malware, bugs, or party crashers!",
+      "track": {
+        "type": "ONLINE_JSON",
+        "added": 1693757700.755931,
+        "license": "",
+        "homepage": "https://github.com/Magisk-Modules-Alt-Repo/Malwack",
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/Malwack.git",
+        "support": "https://github.com/Magisk-Modules-Alt-Repo/Malwack/issues",
+        "donate": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1693759898.394917,
+          "version": "v1.1",
+          "versionCode": 2,
+          "zipUrl": "https://ya0211.github.io/magisk-modules-alt-repo/modules/Malwack/v1.1_2.zip",
+          "changelog": "https://ya0211.github.io/magisk-modules-alt-repo/modules/Malwack/v1.1_2.md"
+        }
+      ]
+    },
+    {
       "id": "MiXplorer",
       "name": "MiXplorer",
       "version": "v6.58.8_B23010320",
@@ -685,7 +671,7 @@
           "timestamp": 1661028155.0,
           "version": "v1.1",
           "versionCode": 11,
-          "zipUrl": "https://ya0211.github.io/magisk-modules-alt-repo/modules/NavBar_Resize_AOSP/v1.1_11.zip",
+          "zipUrl": "https://ya0211.github.io/magisk-modules-alt-repo/modules/NavBar_Resize/v1.1_11.zip",
           "changelog": ""
         }
       ]
@@ -763,7 +749,7 @@
           "timestamp": 1665058819.0,
           "version": "v2.0",
           "versionCode": 2,
-          "zipUrl": "https://ya0211.github.io/magisk-modules-alt-repo/modules/NavBar_Resize_MIUI/v2.0_2.zip",
+          "zipUrl": "https://ya0211.github.io/magisk-modules-alt-repo/modules/NavBar_Resize_Miui10-11-12-13/v2.0_2.zip",
           "changelog": ""
         }
       ]
@@ -842,32 +828,6 @@
           "version": "v1.5.2",
           "versionCode": 152,
           "zipUrl": "https://ya0211.github.io/magisk-modules-alt-repo/modules/OneController/v1.5.2_152.zip",
-          "changelog": ""
-        }
-      ]
-    },
-    {
-      "id": "OnePlus6Oxygen_22.J.62_debloater",
-      "name": "OxygenOS as /e/",
-      "version": "v0.0.1",
-      "versionCode": 30,
-      "author": "Psk.It",
-      "description": "OxygenOS -Google -Oneplus: less is more!",
-      "track": {
-        "type": "GIT",
-        "added": 1680541979.527799,
-        "license": "",
-        "homepage": "",
-        "source": "",
-        "support": "",
-        "donate": ""
-      },
-      "versions": [
-        {
-          "timestamp": 1643666484.0,
-          "version": "v0.0.1",
-          "versionCode": 30,
-          "zipUrl": "https://ya0211.github.io/magisk-modules-alt-repo/modules/OnePlus6Oxygen_22.J.62_debloater/v0.0.1_30.zip",
           "changelog": ""
         }
       ]
@@ -1170,8 +1130,8 @@
     {
       "id": "audio-jitter-silencer",
       "name": "Audio jitter silencer",
-      "version": "v1.0.4",
-      "versionCode": 1004,
+      "version": "v1.0.5",
+      "versionCode": 1005,
       "author": "zyhk",
       "description": "Disabling very large audio jitter generators (w.r.t. battery draining & optimizations, and wireless connectivity) for reducing audio jitter distortion on all digital audio outputs.",
       "track": {
@@ -1185,13 +1145,6 @@
       },
       "versions": [
         {
-          "timestamp": 1680505886.0,
-          "version": "v1.0.1",
-          "versionCode": 1001,
-          "zipUrl": "https://ya0211.github.io/magisk-modules-alt-repo/modules/audio-jitter-silencer/v1.0.1_1001.zip",
-          "changelog": ""
-        },
-        {
           "timestamp": 1681206641.0,
           "version": "v1.0.2",
           "versionCode": 1002,
@@ -1204,6 +1157,13 @@
           "versionCode": 1004,
           "zipUrl": "https://ya0211.github.io/magisk-modules-alt-repo/modules/audio-jitter-silencer/v1.0.4_1004.zip",
           "changelog": "https://ya0211.github.io/magisk-modules-alt-repo/modules/audio-jitter-silencer/v1.0.4_1004.md"
+        },
+        {
+          "timestamp": 1693302157.0,
+          "version": "v1.0.5",
+          "versionCode": 1005,
+          "zipUrl": "https://ya0211.github.io/magisk-modules-alt-repo/modules/audio-jitter-silencer/v1.0.5_1005.zip",
+          "changelog": "https://ya0211.github.io/magisk-modules-alt-repo/modules/audio-jitter-silencer/v1.0.5_1005.md"
         }
       ]
     },
@@ -1489,6 +1449,32 @@
       ]
     },
     {
+      "id": "data_restore_Courier",
+      "name": "Courier of data_restore script for MAGISK-TWRP",
+      "version": "v2.14",
+      "versionCode": 8,
+      "author": "ziand",
+      "description": "Courier of latest version data_restore script to folder /sdcard.",
+      "track": {
+        "type": "GIT",
+        "added": 1693757543.39259,
+        "license": "MIT",
+        "homepage": "https://github.com/Magisk-Modules-Alt-Repo/data_restore_Courier",
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/data_restore_Courier.git",
+        "support": "https://github.com/Magisk-Modules-Alt-Repo/data_restore_Courier/issues",
+        "donate": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1686221785.0,
+          "version": "v2.14",
+          "versionCode": 8,
+          "zipUrl": "https://ya0211.github.io/magisk-modules-alt-repo/modules/data_restore_Courier/v2.14_8.zip",
+          "changelog": "https://ya0211.github.io/magisk-modules-alt-repo/modules/data_restore_Courier/v2.14_8.md"
+        }
+      ]
+    },
+    {
       "id": "djs",
       "name": "Daily Job Scheduler (DJS)",
       "version": "v2021.11.3",
@@ -1620,8 +1606,8 @@
           "timestamp": 1677543460.0,
           "version": "v25",
           "versionCode": 25,
-          "zipUrl": "https://ya0211.github.io/magisk-modules-alt-repo/modules/magisk-module-koruri-font/v25_25.zip",
-          "changelog": "https://ya0211.github.io/magisk-modules-alt-repo/modules/magisk-module-koruri-font/v25_25.md"
+          "zipUrl": "https://ya0211.github.io/magisk-modules-alt-repo/modules/font-koruri-n/v25_25.zip",
+          "changelog": "https://ya0211.github.io/magisk-modules-alt-repo/modules/font-koruri-n/v25_25.md"
         }
       ]
     },
@@ -1672,8 +1658,8 @@
           "timestamp": 1677543320.0,
           "version": "v19",
           "versionCode": 19,
-          "zipUrl": "https://ya0211.github.io/magisk-modules-alt-repo/modules/magisk-module-mejiro-font/v19_19.zip",
-          "changelog": "https://ya0211.github.io/magisk-modules-alt-repo/modules/magisk-module-mejiro-font/v19_19.md"
+          "zipUrl": "https://ya0211.github.io/magisk-modules-alt-repo/modules/font-mejiro-oshi/v19_19.zip",
+          "changelog": "https://ya0211.github.io/magisk-modules-alt-repo/modules/font-mejiro-oshi/v19_19.md"
         }
       ]
     },
@@ -1810,8 +1796,8 @@
     {
       "id": "isodrive",
       "name": "Isodrive",
-      "version": "1.2",
-      "versionCode": 12,
+      "version": "2.1",
+      "versionCode": 21,
       "author": "Marcel Alexandru Nitan",
       "description": "Use your mobile device to boot Linux distributions/ISO files on your PC",
       "track": {
@@ -1829,6 +1815,13 @@
           "version": "1.2",
           "versionCode": 12,
           "zipUrl": "https://ya0211.github.io/magisk-modules-alt-repo/modules/isodrive/1.2_12.zip",
+          "changelog": ""
+        },
+        {
+          "timestamp": 1693645620.0,
+          "version": "2.1",
+          "versionCode": 21,
+          "zipUrl": "https://ya0211.github.io/magisk-modules-alt-repo/modules/isodrive/2.1_21.zip",
           "changelog": ""
         }
       ]
@@ -1906,33 +1899,7 @@
           "timestamp": 1604596410.0,
           "version": "v1.0.0",
           "versionCode": 100,
-          "zipUrl": "https://ya0211.github.io/magisk-modules-alt-repo/modules/Magisk-Captive-Control/v1.0.0_100.zip",
-          "changelog": ""
-        }
-      ]
-    },
-    {
-      "id": "magisk-captive-control",
-      "name": "Magisk Captive Control (MCC)",
-      "version": "v1.0.0",
-      "versionCode": 100,
-      "author": "Atrate",
-      "description": "A Magisk Module aiming to control (change/disable) Android Captive Portal Detection.",
-      "track": {
-        "type": "GIT",
-        "added": 1680541942.177756,
-        "license": "GPL-3.0",
-        "homepage": "",
-        "source": "",
-        "support": "",
-        "donate": ""
-      },
-      "versions": [
-        {
-          "timestamp": 1604596410.0,
-          "version": "v1.0.0",
-          "versionCode": 100,
-          "zipUrl": "https://ya0211.github.io/magisk-modules-alt-repo/modules/Magisk-Captive-Control/v1.0.0_100.zip",
+          "zipUrl": "https://ya0211.github.io/magisk-modules-alt-repo/modules/magisk-captive-control/v1.0.0_100.zip",
           "changelog": ""
         }
       ]
@@ -1958,33 +1925,7 @@
           "timestamp": 1612778235.0,
           "version": "v1.3.1",
           "versionCode": 131,
-          "zipUrl": "https://ya0211.github.io/magisk-modules-alt-repo/modules/Magisk-DRM-Disabler/v1.3.1_131.zip",
-          "changelog": ""
-        }
-      ]
-    },
-    {
-      "id": "magisk-drm-disabler",
-      "name": "Magisk DRM Disabler (MDD)",
-      "version": "v1.3.1",
-      "versionCode": 131,
-      "author": "Atrate",
-      "description": "A Magisk Module aiming to eliminate DRM from Android systemlessly.",
-      "track": {
-        "type": "GIT",
-        "added": 1680541944.291712,
-        "license": "GPL-3.0",
-        "homepage": "",
-        "source": "",
-        "support": "",
-        "donate": ""
-      },
-      "versions": [
-        {
-          "timestamp": 1612778235.0,
-          "version": "v1.3.1",
-          "versionCode": 131,
-          "zipUrl": "https://ya0211.github.io/magisk-modules-alt-repo/modules/Magisk-DRM-Disabler/v1.3.1_131.zip",
+          "zipUrl": "https://ya0211.github.io/magisk-modules-alt-repo/modules/magisk-drm-disabler/v1.3.1_131.zip",
           "changelog": ""
         }
       ]
@@ -2069,33 +2010,7 @@
           "timestamp": 1677950994.0,
           "version": "1.10.3",
           "versionCode": 16,
-          "zipUrl": "https://ya0211.github.io/magisk-modules-alt-repo/modules/MagiskHide/1.10.3_16.zip",
-          "changelog": ""
-        }
-      ]
-    },
-    {
-      "id": "magiskhide",
-      "name": "MagiskHide",
-      "version": "1.10.3",
-      "versionCode": 16,
-      "author": "HuskyDG @MagiskDelta",
-      "description": "Ptrace-based MagiskHide, allows hiding root without need to enable Zygisk. Read DenyList as hidelist. Android 11+ is recommended.",
-      "track": {
-        "type": "GIT",
-        "added": 1680541949.617763,
-        "license": "GPL-3.0",
-        "homepage": "",
-        "source": "",
-        "support": "",
-        "donate": ""
-      },
-      "versions": [
-        {
-          "timestamp": 1677950994.0,
-          "version": "1.10.3",
-          "versionCode": 16,
-          "zipUrl": "https://ya0211.github.io/magisk-modules-alt-repo/modules/MagiskHide/1.10.3_16.zip",
+          "zipUrl": "https://ya0211.github.io/magisk-modules-alt-repo/modules/magiskhide/1.10.3_16.zip",
           "changelog": ""
         }
       ]
@@ -2213,40 +2128,7 @@
           "timestamp": 1692090808.0,
           "version": "1.4.9",
           "versionCode": 149,
-          "zipUrl": "https://ya0211.github.io/magisk-modules-alt-repo/modules/node/1.4.9_149.zip",
-          "changelog": ""
-        }
-      ]
-    },
-    {
-      "id": "node_on_android",
-      "name": "Systemless Node.js",
-      "version": "1.4.9",
-      "versionCode": 149,
-      "author": "Der_Googler",
-      "description": "Node.js is a cross-platform, open-source server environment that can run on Windows, Linux, Unix, macOS, and more.",
-      "track": {
-        "type": "GIT",
-        "added": 1680541966.821365,
-        "license": "MIT",
-        "homepage": "",
-        "source": "",
-        "support": "",
-        "donate": ""
-      },
-      "versions": [
-        {
-          "timestamp": 1678722333.0,
-          "version": "1.4.8",
-          "versionCode": 148,
-          "zipUrl": "https://ya0211.github.io/magisk-modules-alt-repo/modules/node/1.4.8_148.zip",
-          "changelog": ""
-        },
-        {
-          "timestamp": 1686393982.0,
-          "version": "1.4.9",
-          "versionCode": 149,
-          "zipUrl": "https://ya0211.github.io/magisk-modules-alt-repo/modules/node/1.4.9_149.zip",
+          "zipUrl": "https://ya0211.github.io/magisk-modules-alt-repo/modules/node_on_android/1.4.9_149.zip",
           "changelog": ""
         }
       ]
@@ -2422,6 +2304,32 @@
       ]
     },
     {
+      "id": "perf-limit-xiaomi-12",
+      "name": "Performance limit for Xiaomi 12",
+      "version": "v2.3",
+      "versionCode": 23,
+      "author": "mgrybyk",
+      "description": "Limit CPU and GPU performance to desired level on Xiaomi devices with Qualcomm Gen 1 CPU",
+      "track": {
+        "type": "GIT",
+        "added": 1693757774.403082,
+        "license": "MIT",
+        "homepage": "https://github.com/Magisk-Modules-Alt-Repo/perf-limit-xiaomi-12",
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/perf-limit-xiaomi-12.git",
+        "support": "https://github.com/Magisk-Modules-Alt-Repo/perf-limit-xiaomi-12/issues",
+        "donate": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1693673248.0,
+          "version": "v2.3",
+          "versionCode": 23,
+          "zipUrl": "https://ya0211.github.io/magisk-modules-alt-repo/modules/perf-limit-xiaomi-12/v2.3_23.zip",
+          "changelog": ""
+        }
+      ]
+    },
+    {
       "id": "pixel-tensor-audio-decompressor",
       "name": "Pixel Tensor Audio Decompressor",
       "version": "v2.1.0",
@@ -2572,7 +2480,33 @@
           "timestamp": 1690305811.0,
           "version": "v2",
           "versionCode": 3,
-          "zipUrl": "https://ya0211.github.io/magisk-modules-alt-repo/modules/Simple_BootloopSaver/v2_3.zip",
+          "zipUrl": "https://ya0211.github.io/magisk-modules-alt-repo/modules/simple_bootloopsaver/v2_3.zip",
+          "changelog": ""
+        }
+      ]
+    },
+    {
+      "id": "smallbattery",
+      "name": "Small Battery",
+      "version": "v1",
+      "versionCode": 1,
+      "author": "@LeanHijosdesusMadres [telegram]",
+      "description": "This module makes the system think that it has a smaller battery than normal, which will apply more precise adjustments to save battery. @modulostk",
+      "track": {
+        "type": "GIT",
+        "added": 1693757817.384662,
+        "license": "",
+        "homepage": "https://github.com/Magisk-Modules-Alt-Repo/smallbattery",
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/smallbattery.git",
+        "support": "https://github.com/Magisk-Modules-Alt-Repo/smallbattery/issues",
+        "donate": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1692753832.0,
+          "version": "v1",
+          "versionCode": 1,
+          "zipUrl": "https://ya0211.github.io/magisk-modules-alt-repo/modules/smallbattery/v1_1.zip",
           "changelog": ""
         }
       ]
@@ -2820,33 +2754,33 @@
           "timestamp": 1638809703.0,
           "version": "v2021.12.6",
           "versionCode": 202112060,
-          "zipUrl": "https://ya0211.github.io/magisk-modules-alt-repo/modules/fbind/v2021.12.6_202112060.zip",
+          "zipUrl": "https://ya0211.github.io/magisk-modules-alt-repo/modules/vr25.fbind/v2021.12.6_202112060.zip",
           "changelog": ""
         }
       ]
     },
     {
-      "id": "vr25.fbind",
-      "name": "fbind",
-      "version": "v2021.12.6",
-      "versionCode": 202112060,
-      "author": "VR25 @ xda-developers",
-      "description": "fbind is a versatile mounting utility for folders, disk images, LUKS/LUKS2 encrypted volumes, regular partitions and more.",
+      "id": "wifi-bonding-nolog",
+      "name": "Wi-Fi Bonding NoLog [Qcom]",
+      "version": "v7",
+      "versionCode": 7,
+      "author": "simonsmh x \u6c34\u9f99&\u9ece\u6728\u6c50 x @LeanHijosdesusMadres \u00d7 @Xizi1.5",
+      "description": "To know and test all the functions of this module visit github or @modulostk [telegram]",
       "track": {
         "type": "GIT",
-        "added": 1680541901.213438,
-        "license": "GPL-3.0",
-        "homepage": "",
-        "source": "",
-        "support": "",
+        "added": 1693757874.905925,
+        "license": "",
+        "homepage": "https://github.com/Magisk-Modules-Alt-Repo/wifi-bonding-nolog",
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/wifi-bonding-nolog.git",
+        "support": "https://github.com/Magisk-Modules-Alt-Repo/wifi-bonding-nolog/issues",
         "donate": ""
       },
       "versions": [
         {
-          "timestamp": 1638809703.0,
-          "version": "v2021.12.6",
-          "versionCode": 202112060,
-          "zipUrl": "https://ya0211.github.io/magisk-modules-alt-repo/modules/fbind/v2021.12.6_202112060.zip",
+          "timestamp": 1692631701.0,
+          "version": "v7",
+          "versionCode": 7,
+          "zipUrl": "https://ya0211.github.io/magisk-modules-alt-repo/modules/wifi-bonding-nolog/v7_7.zip",
           "changelog": ""
         }
       ]

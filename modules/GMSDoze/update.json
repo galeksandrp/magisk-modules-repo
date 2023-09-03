@@ -3,18 +3,11 @@
   "timestamp": 1683468066.0,
   "versions": [
     {
-      "timestamp": 1659560395.0,
-      "version": "v1.3A",
-      "versionCode": 130,
-      "zipUrl": "https://ya0211.github.io/magisk-modules-alt-repo/modules/GMSDoze/v1.3A_130.zip",
-      "changelog": ""
-    },
-    {
       "timestamp": 1683468066.0,
       "version": "v1.4A",
       "versionCode": 140,
       "zipUrl": "https://ya0211.github.io/magisk-modules-alt-repo/modules/GMSDoze/v1.4A_140.zip",
-      "changelog": "https://ya0211.github.io/magisk-modules-alt-repo/modules/GMSDoze/v1.4A_140.md"
+      "changelog": ""
     }
   ]
 }

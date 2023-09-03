@@ -1,0 +1,13 @@
+{
+  "id": "perf-limit-xiaomi-12",
+  "timestamp": 1693673248.0,
+  "versions": [
+    {
+      "timestamp": 1693673248.0,
+      "version": "v2.3",
+      "versionCode": 23,
+      "zipUrl": "https://ya0211.github.io/magisk-modules-alt-repo/modules/perf-limit-xiaomi-12/v2.3_23.zip",
+      "changelog": ""
+    }
+  ]
+}
