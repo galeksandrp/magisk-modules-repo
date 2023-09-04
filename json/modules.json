@@ -2,7 +2,7 @@
   "name": "Magisk Modules Alt Repo",
   "metadata": {
     "version": 1,
-    "timestamp": 1693761846.12957
+    "timestamp": 1693811319.257041
   },
   "modules": [
     {
@@ -601,8 +601,8 @@
     {
       "id": "Malwack",
       "name": "Malwack | Anti-Malware & Ad Blocker",
-      "version": "v1.1",
-      "versionCode": 2,
+      "version": "v1.3",
+      "versionCode": 4,
       "author": "Person0z",
       "description": "Say goodbye to unwanted digital pests and send malware running with Malwack, your virtual fly swatter for the cyber world. It's like having a bouncer for your device \u2013 no entry for malware, bugs, or party crashers!",
       "track": {
@@ -621,6 +621,13 @@
           "versionCode": 2,
           "zipUrl": "https://ya0211.github.io/magisk-modules-alt-repo/modules/Malwack/v1.1_2.zip",
           "changelog": "https://ya0211.github.io/magisk-modules-alt-repo/modules/Malwack/v1.1_2.md"
+        },
+        {
+          "timestamp": 1693811313.526514,
+          "version": "v1.3",
+          "versionCode": 4,
+          "zipUrl": "https://ya0211.github.io/magisk-modules-alt-repo/modules/Malwack/v1.3_4.zip",
+          "changelog": "https://ya0211.github.io/magisk-modules-alt-repo/modules/Malwack/v1.3_4.md"
         }
       ]
     },
@@ -723,7 +730,7 @@
           "timestamp": 1665058819.0,
           "version": "v2.0",
           "versionCode": 2,
-          "zipUrl": "https://ya0211.github.io/magisk-modules-alt-repo/modules/NavBar_Resize_MIUI/v2.0_2.zip",
+          "zipUrl": "https://ya0211.github.io/magisk-modules-alt-repo/modules/NavBar_Resize_Miui10-11-12-13/v2.0_2.zip",
           "changelog": ""
         }
       ]
