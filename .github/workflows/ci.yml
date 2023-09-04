@@ -1,0 +1,52 @@
+name: CI
+on:
+  schedule:
+    - cron: '0 21 * * *'
+
+jobs:
+  push_commit:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 1
+
+      - name: Checkout util
+        uses: actions/checkout@v3
+        with:
+          repository: ya0211/magisk-modules-repo-util
+          path: util
+
+      - name: Set up Git
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+         python-version: '3.8'
+         cache: 'pip'
+
+      - name: Install dependencies
+        run: pip install -r util/requirements.txt
+
+      - name: Sync
+        run: |
+          python util/cli.py sync
+
+      - name: Check
+        run: |
+          python util/cli.py check -I -U -E
+
+      - name: Index and Push
+        run: |
+          python util/cli.py index --push
+          
+      - name: Upload logs
+        if: success()
+        uses: actions/upload-artifact@v3
+        with:
+          name: logs
+          path: log/*.log
