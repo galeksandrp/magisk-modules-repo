@@ -15,6 +15,13 @@
       "versionCode": 4,
       "zipUrl": "https://ya0211.github.io/magisk-modules-alt-repo/modules/Malwack/v1.3_4.zip",
       "changelog": "https://ya0211.github.io/magisk-modules-alt-repo/modules/Malwack/v1.3_4.md"
+    },
+    {
+      "timestamp": 1693861530.113241,
+      "version": "v1.4",
+      "versionCode": 5,
+      "zipUrl": "https://ya0211.github.io/magisk-modules-alt-repo/modules/Malwack/v1.4_5.zip",
+      "changelog": "https://ya0211.github.io/magisk-modules-alt-repo/modules/Malwack/v1.4_5.md"
     }
   ]
 }
