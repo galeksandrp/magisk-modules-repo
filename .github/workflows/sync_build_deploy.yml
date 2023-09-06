@@ -33,6 +33,7 @@ jobs:
         uses: actions/checkout@v4
         with:
           ref: ${{ github.ref }}
+          ssh-key: ${{ secrets.SSH_PRIVATE_KEY }}
 
       - name: Checkout util
         uses: actions/checkout@v4
@@ -74,6 +75,7 @@ jobs:
           if [ -f versions_diff.md ]; then
             echo "## Versions Diff" >> $GITHUB_STEP_SUMMARY
             echo "$(cat versions_diff.md)" >> $GITHUB_STEP_SUMMARY
+            rm versions_diff.md
           fi
           
       - name: Write latest versions to summary
