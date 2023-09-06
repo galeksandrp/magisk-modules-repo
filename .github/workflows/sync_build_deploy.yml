@@ -32,14 +32,19 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
         with:
-          ref: ${{ github.ref }}
-          ssh-key: ${{ secrets.SSH_PRIVATE_KEY }}
+          fetch-depth: 1
 
       - name: Checkout util
         uses: actions/checkout@v4
         with:
           repository: ya0211/magisk-modules-repo-util
           path: util
+
+      - name: Set up SSH
+        uses: MrSquaare/ssh-setup-action@v2
+        with:
+          host: github.com
+          private-key: ${{ secrets.SSH_PRIVATE_KEY }}
 
       - name: Set up Git
         run: |
@@ -64,11 +69,6 @@ jobs:
         run: |
           python util/cli.py check -I -U -E
 
-      - name: Index and Push
-        if: ${{ env.IS_SYNC == 'true' }}
-        run: |
-          python util/cli.py index --push
-
       - name: Write versions diff to summary
         if: ${{ env.IS_SYNC == 'true' }}
         run: |
@@ -84,6 +84,11 @@ jobs:
           python util/cli.py index --table > latest_versions.md
           echo "## Latest Versions" >> $GITHUB_STEP_SUMMARY
           echo "$(cat latest_versions.md)" >> $GITHUB_STEP_SUMMARY
+
+      - name: Index and Push
+        if: ${{ env.IS_SYNC == 'true' }}
+        run: |
+          python util/cli.py index --push
           
       - name: Upload logs
         uses: actions/upload-artifact@v3
