@@ -2,7 +2,7 @@
   "name": "Magisk Modules Alt Repo",
   "metadata": {
     "version": 1,
-    "timestamp": 1693948011.627419
+    "timestamp": 1693977151.731517
   },
   "modules": [
     {
@@ -575,8 +575,8 @@
     {
       "id": "Malwack",
       "name": "Malwack | Anti-Malware & Ad Blocker",
-      "version": "v2.0",
-      "versionCode": 6,
+      "version": "v2.1",
+      "versionCode": 7,
       "author": "Person0z",
       "description": "Say goodbye to unwanted digital pests and send malware running with Malwack, your virtual fly swatter for the cyber world. It's like having a bouncer for your device \u2013 no entry for malware, bugs, or party crashers!",
       "track": {
@@ -590,13 +590,6 @@
       },
       "versions": [
         {
-          "timestamp": 1693811313.526514,
-          "version": "v1.3",
-          "versionCode": 4,
-          "zipUrl": "https://ya0211.github.io/magisk-modules-alt-repo/modules/Malwack/v1.3_4.zip",
-          "changelog": "https://ya0211.github.io/magisk-modules-alt-repo/modules/Malwack/v1.3_4.md"
-        },
-        {
           "timestamp": 1693861530.113241,
           "version": "v1.4",
           "versionCode": 5,
@@ -609,6 +602,13 @@
           "versionCode": 6,
           "zipUrl": "https://ya0211.github.io/magisk-modules-alt-repo/modules/Malwack/v2.0_6.zip",
           "changelog": "https://ya0211.github.io/magisk-modules-alt-repo/modules/Malwack/v2.0_6.md"
+        },
+        {
+          "timestamp": 1693977147.941886,
+          "version": "v2.1",
+          "versionCode": 7,
+          "zipUrl": "https://ya0211.github.io/magisk-modules-alt-repo/modules/Malwack/v2.1_7.zip",
+          "changelog": "https://ya0211.github.io/magisk-modules-alt-repo/modules/Malwack/v2.1_7.md"
         }
       ]
     },
