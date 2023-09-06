@@ -32,19 +32,13 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
         with:
-          fetch-depth: 1
+          ref: ${{ github.ref }}
 
       - name: Checkout util
         uses: actions/checkout@v4
         with:
           repository: ya0211/magisk-modules-repo-util
           path: util
-
-      - name: Set up SSH
-        uses: MrSquaare/ssh-setup-action@v2
-        with:
-          host: github.com
-          private-key: ${{ secrets.SSH_PRIVATE_KEY }}
 
       - name: Set up Git
         run: |
@@ -63,11 +57,11 @@ jobs:
       - name: Sync
         if: ${{ env.IS_SYNC == 'true' }}
         run: |
-          sudo python util/cli.py sync --diff versions_diff.md
+          python util/cli.py sync --diff versions_diff.md
 
       - name: Check
         run: |
-          sudo python util/cli.py check -I -U -E
+          python util/cli.py check -I -U -E
 
       - name: Write versions diff to summary
         if: ${{ env.IS_SYNC == 'true' }}
@@ -75,20 +69,20 @@ jobs:
           if [ -f versions_diff.md ]; then
             echo "## Versions Diff" >> $GITHUB_STEP_SUMMARY
             echo "$(cat versions_diff.md)" >> $GITHUB_STEP_SUMMARY
-            sudo rm versions_diff.md
+            rm versions_diff.md
           fi
           
       - name: Write latest versions to summary
         if: ${{ env.IS_SYNC != 'true' }}
         run: |
-          sudo python util/cli.py index --table > latest_versions.md
+          python util/cli.py index --table > latest_versions.md
           echo "## Latest Versions" >> $GITHUB_STEP_SUMMARY
           echo "$(cat latest_versions.md)" >> $GITHUB_STEP_SUMMARY
 
       - name: Index and Push
         if: ${{ env.IS_SYNC == 'true' }}
         run: |
-          sudo python util/cli.py index --push
+          python util/cli.py index --push
           
       - name: Upload logs
         uses: actions/upload-artifact@v3
