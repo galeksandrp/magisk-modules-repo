@@ -2,7 +2,7 @@
   "name": "Magisk Modules Alt Repo",
   "metadata": {
     "version": 1,
-    "timestamp": 1693982244.464502
+    "timestamp": 1693996676.389309
   },
   "modules": [
     {
@@ -2190,8 +2190,8 @@
     {
       "id": "perf-limit-xiaomi-12",
       "name": "Performance limit for Xiaomi 12",
-      "version": "v2.3",
-      "versionCode": 23,
+      "version": "v2.4",
+      "versionCode": 24,
       "author": "mgrybyk",
       "description": "Limit CPU and GPU performance to desired level on Xiaomi devices with Qualcomm Gen 1 CPU",
       "track": {
@@ -2209,6 +2209,13 @@
           "version": "v2.3",
           "versionCode": 23,
           "zipUrl": "https://ya0211.github.io/magisk-modules-alt-repo/modules/perf-limit-xiaomi-12/v2.3_23.zip",
+          "changelog": ""
+        },
+        {
+          "timestamp": 1693840007.0,
+          "version": "v2.4",
+          "versionCode": 24,
+          "zipUrl": "https://ya0211.github.io/magisk-modules-alt-repo/modules/perf-limit-xiaomi-12/v2.4_24.zip",
           "changelog": ""
         }
       ]
