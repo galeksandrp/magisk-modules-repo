@@ -63,11 +63,11 @@ jobs:
       - name: Sync
         if: ${{ env.IS_SYNC == 'true' }}
         run: |
-          python util/cli.py sync --diff versions_diff.md
+          sudo python util/cli.py sync --diff versions_diff.md
 
       - name: Check
         run: |
-          python util/cli.py check -I -U -E
+          sudo python util/cli.py check -I -U -E
 
       - name: Write versions diff to summary
         if: ${{ env.IS_SYNC == 'true' }}
@@ -75,20 +75,20 @@ jobs:
           if [ -f versions_diff.md ]; then
             echo "## Versions Diff" >> $GITHUB_STEP_SUMMARY
             echo "$(cat versions_diff.md)" >> $GITHUB_STEP_SUMMARY
-            rm versions_diff.md
+            sudo rm versions_diff.md
           fi
           
       - name: Write latest versions to summary
         if: ${{ env.IS_SYNC != 'true' }}
         run: |
-          python util/cli.py index --table > latest_versions.md
+          sudo python util/cli.py index --table > latest_versions.md
           echo "## Latest Versions" >> $GITHUB_STEP_SUMMARY
           echo "$(cat latest_versions.md)" >> $GITHUB_STEP_SUMMARY
 
       - name: Index and Push
         if: ${{ env.IS_SYNC == 'true' }}
         run: |
-          python util/cli.py index --push
+          sudo python util/cli.py index --push
           
       - name: Upload logs
         uses: actions/upload-artifact@v3
