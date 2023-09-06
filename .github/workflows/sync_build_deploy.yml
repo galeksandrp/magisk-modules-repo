@@ -38,6 +38,7 @@ jobs:
         uses: actions/checkout@v4
         with:
           repository: ya0211/magisk-modules-repo-util
+          ref: ci
           path: util
 
       - name: Set up Git
