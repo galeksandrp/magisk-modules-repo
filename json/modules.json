@@ -2,7 +2,7 @@
   "name": "Magisk Modules Alt Repo",
   "metadata": {
     "version": 1,
-    "timestamp": 1694293557.829094
+    "timestamp": 1694379912.575741
   },
   "modules": [
     {
@@ -1850,8 +1850,8 @@
     {
       "id": "magisk_proc_monitor",
       "name": "Process Monitor Tool",
-      "version": "2.2",
-      "versionCode": 9,
+      "version": "2.3",
+      "versionCode": 10,
       "author": "HuskyDG",
       "description": "Provide the way for modules to run script whenever app process start. More information, please visit http://github.com/huskydg/magisk_proc_monitor",
       "track": {
@@ -1869,6 +1869,13 @@
           "version": "2.2",
           "versionCode": 9,
           "zipUrl": "https://ya0211.github.io/magisk-modules-alt-repo/modules/magisk_proc_monitor/2.2_9.zip",
+          "changelog": ""
+        },
+        {
+          "timestamp": 1694360679.0,
+          "version": "2.3",
+          "versionCode": 10,
+          "zipUrl": "https://ya0211.github.io/magisk-modules-alt-repo/modules/magisk_proc_monitor/2.3_10.zip",
           "changelog": ""
         }
       ]
