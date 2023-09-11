@@ -1,5 +1,6 @@
 {
   "id": "BuiltIn-BusyBox",
+  "enable": true,
   "update_to": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/BuiltIn-BusyBox/main/update.json",
   "license": "GPL-2.0",
   "homepage": "https://github.com/Magisk-Modules-Alt-Repo/BuiltIn-BusyBox",

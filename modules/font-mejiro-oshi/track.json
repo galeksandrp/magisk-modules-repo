@@ -1,5 +1,6 @@
 {
   "id": "font-mejiro-oshi",
+  "enable": true,
   "update_to": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/magisk-module-mejiro-font/master/update.json",
   "license": "WTFPL",
   "added": 1680541947.365189,

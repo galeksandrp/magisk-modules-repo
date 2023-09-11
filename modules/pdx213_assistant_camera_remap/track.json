@@ -1,5 +1,6 @@
 {
   "id": "pdx213_assistant_camera_remap",
+  "enable": true,
   "update_to": "git@github.com:Magisk-Modules-Alt-Repo/pdx213_assistant_camera_remap.git",
   "license": "MIT",
   "homepage": "https://github.com/Magisk-Modules-Alt-Repo/pdx213_assistant_camera_remap",

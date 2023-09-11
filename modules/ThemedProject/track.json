@@ -1,5 +1,6 @@
 {
   "id": "ThemedProject",
+  "enable": true,
   "update_to": "git@github.com:Magisk-Modules-Alt-Repo/ThemedProject.git",
   "license": "UNKNOWN",
   "homepage": "https://github.com/Magisk-Modules-Alt-Repo/ThemedProject",

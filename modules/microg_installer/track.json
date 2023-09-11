@@ -1,5 +1,6 @@
 {
   "id": "microg_installer",
+  "enable": true,
   "update_to": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/microg_installer/master/update.json",
   "license": "GPL-3.0",
   "added": 1680541955.313628,

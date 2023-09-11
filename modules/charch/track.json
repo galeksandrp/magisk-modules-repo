@@ -1,5 +1,6 @@
 {
   "id": "charch",
+  "enable": true,
   "update_to": "git@github.com:Magisk-Modules-Alt-Repo/charch.git",
   "homepage": "https://github.com/Magisk-Modules-Alt-Repo/charch",
   "source": "https://github.com/Magisk-Modules-Alt-Repo/charch.git",

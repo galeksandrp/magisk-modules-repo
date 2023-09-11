@@ -1,5 +1,6 @@
 {
   "id": "BraviaEngine",
+  "enable": true,
   "update_to": "git@github.com:Magisk-Modules-Alt-Repo/BraviaEngine.git",
   "license": "MIT",
   "homepage": "https://github.com/Magisk-Modules-Alt-Repo/BraviaEngine",

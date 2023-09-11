@@ -1,5 +1,6 @@
 {
   "id": "heimdall-ndk",
+  "enable": true,
   "update_to": "git@github.com:Magisk-Modules-Alt-Repo/heimdall-ndk.git",
   "homepage": "https://github.com/Magisk-Modules-Alt-Repo/heimdall-ndk",
   "source": "https://github.com/Magisk-Modules-Alt-Repo/heimdall-ndk.git",

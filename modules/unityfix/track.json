@@ -1,5 +1,6 @@
 {
   "id": "unityfix",
+  "enable": true,
   "update_to": "git@github.com:Magisk-Modules-Alt-Repo/unityfix.git",
   "homepage": "https://github.com/Magisk-Modules-Alt-Repo/unityfix",
   "source": "https://github.com/Magisk-Modules-Alt-Repo/unityfix.git",

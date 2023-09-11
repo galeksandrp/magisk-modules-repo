@@ -1,5 +1,6 @@
 {
   "id": "gboard-dict-3",
+  "enable": true,
   "update_to": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/gboard-dict-3/master/update.json",
   "license": "MIT",
   "homepage": "https://github.com/Magisk-Modules-Alt-Repo/gboard-dict-3",

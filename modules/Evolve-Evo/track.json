@@ -1,5 +1,6 @@
 {
   "id": "Evolve-Evo",
+  "enable": true,
   "update_to": "git@github.com:Magisk-Modules-Alt-Repo/Evolve-Evo.git",
   "homepage": "https://github.com/Magisk-Modules-Alt-Repo/Evolve-Evo",
   "source": "https://github.com/Magisk-Modules-Alt-Repo/Evolve-Evo.git",

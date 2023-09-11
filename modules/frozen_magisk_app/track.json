@@ -1,5 +1,6 @@
 {
   "id": "frozen_magisk_app",
+  "enable": true,
   "update_to": "git@github.com:Magisk-Modules-Alt-Repo/frozen_magisk_app.git",
   "homepage": "https://github.com/Magisk-Modules-Alt-Repo/frozen_magisk_app",
   "source": "https://github.com/Magisk-Modules-Alt-Repo/frozen_magisk_app.git",

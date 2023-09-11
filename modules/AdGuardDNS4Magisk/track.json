@@ -1,5 +1,6 @@
 {
   "id": "AdGuardDNS4Magisk",
+  "enable": true,
   "update_to": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/AdGuardDNS4Magisk/main/update.json",
   "license": "LGPL-3.0",
   "homepage": "https://github.com/Magisk-Modules-Alt-Repo/AdGuardDNS4Magisk",

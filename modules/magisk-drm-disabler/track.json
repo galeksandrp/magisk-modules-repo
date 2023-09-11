@@ -1,5 +1,6 @@
 {
   "id": "magisk-drm-disabler",
+  "enable": true,
   "update_to": "git@github.com:Magisk-Modules-Alt-Repo/Magisk-DRM-Disabler.git",
   "license": "GPL-3.0",
   "homepage": "https://gitlab.com/atrate/magisk-drm-disabler",

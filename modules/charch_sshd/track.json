@@ -1,5 +1,6 @@
 {
   "id": "charch_sshd",
+  "enable": true,
   "update_to": "git@github.com:Magisk-Modules-Alt-Repo/charch_sshd.git",
   "license": "GPL-3.0",
   "homepage": "https://github.com/Magisk-Modules-Alt-Repo/charch_sshd",

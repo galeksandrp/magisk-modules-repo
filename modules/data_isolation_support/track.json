@@ -1,5 +1,6 @@
 {
   "id": "data_isolation_support",
+  "enable": true,
   "update_to": "git@github.com:Magisk-Modules-Alt-Repo/data_isolation_support.git",
   "license": "GPL-3.0",
   "homepage": "https://github.com/Magisk-Modules-Alt-Repo/data_isolation_support",

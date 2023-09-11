@@ -1,5 +1,6 @@
 {
   "id": "FluentEmojiMagisk",
+  "enable": true,
   "update_to": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/FluentEmojiMagisk/main/update.json",
   "license": "UNKNOWN",
   "homepage": "https://github.com/Magisk-Modules-Alt-Repo/FluentEmojiMagisk",

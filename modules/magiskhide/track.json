@@ -1,5 +1,6 @@
 {
   "id": "magiskhide",
+  "enable": true,
   "update_to": "git@github.com:Magisk-Modules-Alt-Repo/MagiskHide.git",
   "license": "GPL-3.0",
   "homepage": "https://github.com/Magisk-Modules-Alt-Repo/MagiskHide",

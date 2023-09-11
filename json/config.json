@@ -1,11 +1,7 @@
 {
-  "NAME": "Magisk Modules Alt Repo",
-  "BASE_URL": "https://ya0211.github.io/magisk-modules-alt-repo/",
-  "MAX_NUM": 3,
-  "ENABLE_LOG": true,
-  "LOG_DIR": "log",
-  "ENV": {
-    "CONFIG_VERSION": 1,
-    "TRACK_VERSION": 1
-  }
+  "name": "Magisk Modules Alt Repo",
+  "base_url": "https://ya0211.github.io/magisk-modules-alt-repo/",
+  "max_num": 3,
+  "enable_log": true,
+  "log_dir": "log"
 }

@@ -1,5 +1,6 @@
 {
   "id": "lhroot",
+  "enable": true,
   "update_to": "git@github.com:Magisk-Modules-Alt-Repo/lhroot.git",
   "license": "GPL-3.0",
   "homepage": "https://github.com/Magisk-Modules-Alt-Repo/lhroot",

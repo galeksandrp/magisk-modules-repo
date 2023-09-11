@@ -1,5 +1,6 @@
 {
   "id": "ttf-twemoji",
+  "enable": true,
   "update_to": "git@github.com:Magisk-Modules-Alt-Repo/ttf-twemoji.git",
   "license": "MIT",
   "homepage": "https://github.com/Magisk-Modules-Alt-Repo/ttf-twemoji",

@@ -1,5 +1,6 @@
 {
   "id": "charch_openrc",
+  "enable": true,
   "update_to": "git@github.com:Magisk-Modules-Alt-Repo/charch_openrc.git",
   "license": "GPL-3.0",
   "homepage": "https://github.com/Magisk-Modules-Alt-Repo/charch_openrc",

@@ -1,5 +1,6 @@
 {
   "id": "ytrevancedinject",
+  "enable": true,
   "update_to": "git@github.com:Magisk-Modules-Alt-Repo/ytrevancedinject.git",
   "homepage": "https://github.com/Magisk-Modules-Alt-Repo/ytrevancedinject",
   "source": "https://github.com/Magisk-Modules-Alt-Repo/ytrevancedinject.git",

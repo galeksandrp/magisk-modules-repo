@@ -1,5 +1,6 @@
 {
   "id": "magisk_overlayfs",
+  "enable": true,
   "update_to": "git@github.com:Magisk-Modules-Alt-Repo/magisk_overlayfs.git",
   "homepage": "https://github.com/Magisk-Modules-Alt-Repo/magisk_overlayfs",
   "source": "https://github.com/Magisk-Modules-Alt-Repo/magisk_overlayfs.git",

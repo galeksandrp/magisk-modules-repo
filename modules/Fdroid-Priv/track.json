@@ -1,5 +1,6 @@
 {
   "id": "Fdroid-Priv",
+  "enable": true,
   "update_to": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Fdroid-Priv/main/update.json",
   "homepage": "https://github.com/Magisk-Modules-Alt-Repo/Fdroid-Priv",
   "source": "https://github.com/Magisk-Modules-Alt-Repo/Fdroid-Priv.git",

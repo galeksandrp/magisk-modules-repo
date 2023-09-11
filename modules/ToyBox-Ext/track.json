@@ -1,5 +1,6 @@
 {
   "id": "ToyBox-Ext",
+  "enable": true,
   "update_to": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/ToyBox-Ext/main/update.json",
   "license": "0BSD",
   "homepage": "https://github.com/Magisk-Modules-Alt-Repo/ToyBox-Ext",
