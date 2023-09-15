@@ -2,7 +2,7 @@
   "name": "Magisk Modules Alt Repo",
   "metadata": {
     "version": 1,
-    "timestamp": 1694725588.935625
+    "timestamp": 1694811941.824663
   },
   "modules": [
     {
@@ -575,8 +575,8 @@
     {
       "id": "Malwack",
       "name": "Malwack | Anti-Malware & Ad Blocker",
-      "version": "v2.1",
-      "versionCode": 7,
+      "version": "v2.3",
+      "versionCode": 9,
       "author": "Person0z",
       "description": "Say goodbye to unwanted digital pests and send malware running with Malwack, your virtual fly swatter for the cyber world. It's like having a bouncer for your device \u2013 no entry for malware, bugs, or party crashers!",
       "track": {
@@ -590,13 +590,6 @@
       },
       "versions": [
         {
-          "timestamp": 1693861530.113241,
-          "version": "v1.4",
-          "versionCode": 5,
-          "zipUrl": "https://ya0211.github.io/magisk-modules-alt-repo/modules/Malwack/v1.4_5.zip",
-          "changelog": "https://ya0211.github.io/magisk-modules-alt-repo/modules/Malwack/v1.4_5.md"
-        },
-        {
           "timestamp": 1693907863.310618,
           "version": "v2.0",
           "versionCode": 6,
@@ -609,6 +602,13 @@
           "versionCode": 7,
           "zipUrl": "https://ya0211.github.io/magisk-modules-alt-repo/modules/Malwack/v2.1_7.zip",
           "changelog": "https://ya0211.github.io/magisk-modules-alt-repo/modules/Malwack/v2.1_7.md"
+        },
+        {
+          "timestamp": 1694811917.203532,
+          "version": "v2.3",
+          "versionCode": 9,
+          "zipUrl": "https://ya0211.github.io/magisk-modules-alt-repo/modules/Malwack/v2.3_9.zip",
+          "changelog": "https://ya0211.github.io/magisk-modules-alt-repo/modules/Malwack/v2.3_9.md"
         }
       ]
     },
@@ -908,8 +908,8 @@
     {
       "id": "ThemedProject",
       "name": "Themed Project",
-      "version": "23.09.11",
-      "versionCode": 230911,
+      "version": "23.09.15",
+      "versionCode": 230915,
       "author": "Osanosa",
       "description": "http://www.themed.pro",
       "track": {
@@ -923,13 +923,6 @@
       },
       "versions": [
         {
-          "timestamp": 1685660514.0,
-          "version": "23.06.02",
-          "versionCode": 230602,
-          "zipUrl": "https://ya0211.github.io/magisk-modules-alt-repo/modules/ThemedProject/23.06.02_230602.zip",
-          "changelog": ""
-        },
-        {
           "timestamp": 1691610914.0,
           "version": "23.08.09",
           "versionCode": 230809,
@@ -941,6 +934,13 @@
           "version": "23.09.11",
           "versionCode": 230911,
           "zipUrl": "https://ya0211.github.io/magisk-modules-alt-repo/modules/ThemedProject/23.09.11_230911.zip",
+          "changelog": ""
+        },
+        {
+          "timestamp": 1694808799.0,
+          "version": "23.09.15",
+          "versionCode": 230915,
+          "zipUrl": "https://ya0211.github.io/magisk-modules-alt-repo/modules/ThemedProject/23.09.15_230915.zip",
           "changelog": ""
         }
       ]
