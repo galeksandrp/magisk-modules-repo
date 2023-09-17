@@ -2,13 +2,6 @@
   "id": "ThemedProject",
   "versions": [
     {
-      "timestamp": 1691610914.0,
-      "version": "23.08.09",
-      "versionCode": 230809,
-      "zipUrl": "https://ya0211.github.io/magisk-modules-alt-repo/modules/ThemedProject/23.08.09_230809.zip",
-      "changelog": ""
-    },
-    {
       "timestamp": 1694459164.0,
       "version": "23.09.11",
       "versionCode": 230911,
@@ -20,6 +13,13 @@
       "version": "23.09.15",
       "versionCode": 230915,
       "zipUrl": "https://ya0211.github.io/magisk-modules-alt-repo/modules/ThemedProject/23.09.15_230915.zip",
+      "changelog": ""
+    },
+    {
+      "timestamp": 1694974205.0,
+      "version": "23.09.17",
+      "versionCode": 230917,
+      "zipUrl": "https://ya0211.github.io/magisk-modules-alt-repo/modules/ThemedProject/23.09.17_230917.zip",
       "changelog": ""
     }
   ],

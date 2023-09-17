@@ -8,6 +8,13 @@
       "versionCode": 149,
       "zipUrl": "https://ya0211.github.io/magisk-modules-alt-repo/modules/node_on_android/1.4.9_149.zip",
       "changelog": ""
+    },
+    {
+      "timestamp": 1694966927.0,
+      "version": "1.5.0",
+      "versionCode": 150,
+      "zipUrl": "https://ya0211.github.io/magisk-modules-alt-repo/modules/node_on_android/1.5.0_150.zip",
+      "changelog": ""
     }
   ]
 }
