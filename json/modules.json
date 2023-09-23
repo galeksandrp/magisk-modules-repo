@@ -2,7 +2,7 @@
   "name": "Magisk Modules Alt Repo",
   "metadata": {
     "version": 1,
-    "timestamp": 1695416715.477006
+    "timestamp": 1695503115.230874
   },
   "modules": [
     {
@@ -2159,8 +2159,8 @@
     {
       "id": "open_webview",
       "name": "Open Webview",
-      "version": "2.1.0",
-      "versionCode": 104,
+      "version": "2.3.0",
+      "versionCode": 106,
       "author": "F3FFO",
       "description": "Open Webview change your system webview",
       "track": {
@@ -2186,6 +2186,13 @@
           "versionCode": 104,
           "zipUrl": "https://ya0211.github.io/magisk-modules-alt-repo/modules/open_webview/2.1.0_104.zip",
           "changelog": "https://ya0211.github.io/magisk-modules-alt-repo/modules/open_webview/2.1.0_104.md"
+        },
+        {
+          "timestamp": 1695479227.0,
+          "version": "2.3.0",
+          "versionCode": 106,
+          "zipUrl": "https://ya0211.github.io/magisk-modules-alt-repo/modules/open_webview/2.3.0_106.zip",
+          "changelog": "https://ya0211.github.io/magisk-modules-alt-repo/modules/open_webview/2.3.0_106.md"
         }
       ]
     },
