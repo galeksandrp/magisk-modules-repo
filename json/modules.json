@@ -2,7 +2,7 @@
   "name": "Magisk Modules Alt Repo",
   "metadata": {
     "version": 1,
-    "timestamp": 1696194327.435714
+    "timestamp": 1696234527.362764
   },
   "modules": [
     {
@@ -224,32 +224,6 @@
           "versionCode": 27,
           "zipUrl": "https://ya0211.github.io/magisk-modules-alt-repo/modules/CloudflareDNS4Magisk-IPv6/v2.7_27.zip",
           "changelog": ""
-        }
-      ]
-    },
-    {
-      "id": "CustomizedNavbar",
-      "name": "Customized Navbar",
-      "version": "3.2",
-      "versionCode": 5,
-      "author": "Pycm [4PDA]",
-      "description": "Change Navbar Gesture Indicator color to match the theme's accent color, increase wide and thickness",
-      "track": {
-        "type": "GIT",
-        "added": 1680541879.470619,
-        "license": "GPL-3.0",
-        "homepage": "https://github.com/Magisk-Modules-Alt-Repo/CustomizedNavbar",
-        "source": "https://github.com/Magisk-Modules-Alt-Repo/CustomizedNavbar.git",
-        "support": "https://github.com/Magisk-Modules-Alt-Repo/CustomizedNavbar/issues",
-        "donate": ""
-      },
-      "versions": [
-        {
-          "timestamp": 1680734245.0,
-          "version": "3.2",
-          "versionCode": 5,
-          "zipUrl": "https://ya0211.github.io/magisk-modules-alt-repo/modules/CustomizedNavbar/3.2_5.zip",
-          "changelog": "https://ya0211.github.io/magisk-modules-alt-repo/modules/CustomizedNavbar/3.2_5.md"
         }
       ]
     },
@@ -2015,8 +1989,8 @@
     {
       "id": "node_on_android",
       "name": "Systemless Node.js",
-      "version": "1.5.0",
-      "versionCode": 150,
+      "version": "1.5.1",
+      "versionCode": 151,
       "author": "Der_Googler",
       "description": "Node.js is a cross-platform, open-source server environment that can run on Windows, Linux, Unix, macOS, and more.",
       "track": {
@@ -2041,6 +2015,13 @@
           "version": "1.5.0",
           "versionCode": 150,
           "zipUrl": "https://ya0211.github.io/magisk-modules-alt-repo/modules/node_on_android/1.5.0_150.zip",
+          "changelog": ""
+        },
+        {
+          "timestamp": 1696175366.0,
+          "version": "1.5.1",
+          "versionCode": 151,
+          "zipUrl": "https://ya0211.github.io/magisk-modules-alt-repo/modules/node_on_android/1.5.1_151.zip",
           "changelog": ""
         }
       ]
