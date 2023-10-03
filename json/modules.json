@@ -2,7 +2,7 @@
   "name": "Magisk Modules Alt Repo",
   "metadata": {
     "version": 1,
-    "timestamp": 1696280749.842234
+    "timestamp": 1696367157.549537
   },
   "modules": [
     {
@@ -849,10 +849,10 @@
     {
       "id": "SystemlessDebloater",
       "name": "Systemless Debloater",
-      "version": "1.5.3",
-      "versionCode": 153,
+      "version": "1.5.4",
+      "versionCode": 154,
       "author": "zgfg @ xda",
-      "description": "Select and debloat preinstalled system apps. Supported up to SAR, Dynamic partitions and A13. Module must be installed through Magisk app, not TWRP - see OP instructions in the XDA thread.",
+      "description": "Select and debloat preinstalled system apps. Successfully tested on up to SAR, Dynamic partitions and A13. Module must be installed through Magisk app, not TWRP - see OP instructions in the XDA thread.",
       "track": {
         "type": "ONLINE_JSON",
         "added": 1680542005.415533,
@@ -876,6 +876,13 @@
           "versionCode": 153,
           "zipUrl": "https://ya0211.github.io/magisk-modules-alt-repo/modules/SystemlessDebloater/1.5.3_153.zip",
           "changelog": "https://ya0211.github.io/magisk-modules-alt-repo/modules/SystemlessDebloater/1.5.3_153.md"
+        },
+        {
+          "timestamp": 1696314908.0,
+          "version": "1.5.4",
+          "versionCode": 154,
+          "zipUrl": "https://ya0211.github.io/magisk-modules-alt-repo/modules/SystemlessDebloater/1.5.4_154.zip",
+          "changelog": "https://ya0211.github.io/magisk-modules-alt-repo/modules/SystemlessDebloater/1.5.4_154.md"
         }
       ]
     },
@@ -2577,8 +2584,8 @@
     {
       "id": "usb-samplerate-unlocker",
       "name": "USB Samplerate Unlocker",
-      "version": "v1.5.2",
-      "versionCode": 1502,
+      "version": "v1.5.3",
+      "versionCode": 1503,
       "author": "zyhk",
       "description": "USB (HAL) audio class drivers have a limiter of sample rates at 96kHz. This mod unlocks the limiter.",
       "track": {
@@ -2592,13 +2599,6 @@
       },
       "versions": [
         {
-          "timestamp": 1681301324.0,
-          "version": "v1.5.0",
-          "versionCode": 1500,
-          "zipUrl": "https://ya0211.github.io/magisk-modules-alt-repo/modules/usb-samplerate-unlocker/v1.5.0_1500.zip",
-          "changelog": "https://ya0211.github.io/magisk-modules-alt-repo/modules/usb-samplerate-unlocker/v1.5.0_1500.md"
-        },
-        {
           "timestamp": 1686569585.0,
           "version": "v1.5.1",
           "versionCode": 1501,
@@ -2611,6 +2611,13 @@
           "versionCode": 1502,
           "zipUrl": "https://ya0211.github.io/magisk-modules-alt-repo/modules/usb-samplerate-unlocker/v1.5.2_1502.zip",
           "changelog": "https://ya0211.github.io/magisk-modules-alt-repo/modules/usb-samplerate-unlocker/v1.5.2_1502.md"
+        },
+        {
+          "timestamp": 1696318252.0,
+          "version": "v1.5.3",
+          "versionCode": 1503,
+          "zipUrl": "https://ya0211.github.io/magisk-modules-alt-repo/modules/usb-samplerate-unlocker/v1.5.3_1503.zip",
+          "changelog": "https://ya0211.github.io/magisk-modules-alt-repo/modules/usb-samplerate-unlocker/v1.5.3_1503.md"
         }
       ]
     },

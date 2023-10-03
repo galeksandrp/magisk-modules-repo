@@ -15,6 +15,13 @@
       "versionCode": 153,
       "zipUrl": "https://ya0211.github.io/magisk-modules-alt-repo/modules/SystemlessDebloater/1.5.3_153.zip",
       "changelog": "https://ya0211.github.io/magisk-modules-alt-repo/modules/SystemlessDebloater/1.5.3_153.md"
+    },
+    {
+      "timestamp": 1696314908.0,
+      "version": "1.5.4",
+      "versionCode": 154,
+      "zipUrl": "https://ya0211.github.io/magisk-modules-alt-repo/modules/SystemlessDebloater/1.5.4_154.zip",
+      "changelog": "https://ya0211.github.io/magisk-modules-alt-repo/modules/SystemlessDebloater/1.5.4_154.md"
     }
   ]
 }
