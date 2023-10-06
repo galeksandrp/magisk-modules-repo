@@ -2,7 +2,7 @@
   "name": "Magisk Modules Alt Repo",
   "metadata": {
     "version": 1,
-    "timestamp": 1696539952.880525
+    "timestamp": 1696626344.43811
   },
   "modules": [
     {
@@ -1996,8 +1996,8 @@
     {
       "id": "node_on_android",
       "name": "Systemless Node.js",
-      "version": "1.5.1",
-      "versionCode": 151,
+      "version": "1.5.2",
+      "versionCode": 152,
       "author": "Der_Googler",
       "description": "Node.js is a cross-platform, open-source server environment that can run on Windows, Linux, Unix, macOS, and more.",
       "track": {
@@ -2011,13 +2011,6 @@
       },
       "versions": [
         {
-          "timestamp": 1692090808.0,
-          "version": "1.4.9",
-          "versionCode": 149,
-          "zipUrl": "https://ya0211.github.io/magisk-modules-alt-repo/modules/node_on_android/1.4.9_149.zip",
-          "changelog": ""
-        },
-        {
           "timestamp": 1694966927.0,
           "version": "1.5.0",
           "versionCode": 150,
@@ -2029,6 +2022,13 @@
           "version": "1.5.1",
           "versionCode": 151,
           "zipUrl": "https://ya0211.github.io/magisk-modules-alt-repo/modules/node_on_android/1.5.1_151.zip",
+          "changelog": ""
+        },
+        {
+          "timestamp": 1696588537.0,
+          "version": "1.5.2",
+          "versionCode": 152,
+          "zipUrl": "https://ya0211.github.io/magisk-modules-alt-repo/modules/node_on_android/1.5.2_152.zip",
           "changelog": ""
         }
       ]
