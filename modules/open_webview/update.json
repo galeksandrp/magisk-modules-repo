@@ -3,13 +3,6 @@
   "timestamp": 1682256699.0,
   "versions": [
     {
-      "timestamp": 1668873163.0,
-      "version": "2.0.0",
-      "versionCode": 103,
-      "zipUrl": "https://ya0211.github.io/magisk-modules-alt-repo/modules/open_webview/2.0.0_103.zip",
-      "changelog": "https://ya0211.github.io/magisk-modules-alt-repo/modules/open_webview/2.0.0_103.md"
-    },
-    {
       "timestamp": 1682256699.0,
       "version": "2.1.0",
       "versionCode": 104,
@@ -22,6 +15,13 @@
       "versionCode": 106,
       "zipUrl": "https://ya0211.github.io/magisk-modules-alt-repo/modules/open_webview/2.3.0_106.zip",
       "changelog": "https://ya0211.github.io/magisk-modules-alt-repo/modules/open_webview/2.3.0_106.md"
+    },
+    {
+      "timestamp": 1696769051.0,
+      "version": "2.3.1",
+      "versionCode": 231,
+      "zipUrl": "https://ya0211.github.io/magisk-modules-alt-repo/modules/open_webview/2.3.1_231.zip",
+      "changelog": "https://ya0211.github.io/magisk-modules-alt-repo/modules/open_webview/2.3.1_231.md"
     }
   ]
 }
