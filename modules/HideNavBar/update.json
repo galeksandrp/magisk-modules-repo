@@ -15,6 +15,13 @@
       "versionCode": 56,
       "zipUrl": "https://ya0211.github.io/magisk-modules-alt-repo/modules/HideNavBar/v22.0_56.zip",
       "changelog": ""
+    },
+    {
+      "timestamp": 1696885332.0,
+      "version": "v23.0",
+      "versionCode": 58,
+      "zipUrl": "https://ya0211.github.io/magisk-modules-alt-repo/modules/HideNavBar/v23.0_58.zip",
+      "changelog": ""
     }
   ]
 }
