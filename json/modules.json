@@ -2,7 +2,7 @@
   "name": "Magisk Modules Alt Repo",
   "metadata": {
     "version": 1,
-    "timestamp": 1697403929.156281
+    "timestamp": 1697490338.984267
   },
   "modules": [
     {
@@ -556,8 +556,8 @@
     {
       "id": "Malwack",
       "name": "Malwack | Anti-Malware & Ad Blocker",
-      "version": "v2.5",
-      "versionCode": 11,
+      "version": "v2.6",
+      "versionCode": 12,
       "author": "Person0z",
       "description": "Say goodbye to unwanted digital pests and send malware running with Malwack, your virtual fly swatter for the cyber world. It's like having a bouncer for your device \u2013 no entry for malware, bugs, or party crashers!",
       "track": {
@@ -571,13 +571,6 @@
       },
       "versions": [
         {
-          "timestamp": 1694811917.203532,
-          "version": "v2.3",
-          "versionCode": 9,
-          "zipUrl": "https://ya0211.github.io/magisk-modules-alt-repo/modules/Malwack/v2.3_9.zip",
-          "changelog": "https://ya0211.github.io/magisk-modules-alt-repo/modules/Malwack/v2.3_9.md"
-        },
-        {
           "timestamp": 1695762331.317446,
           "version": "v2.4",
           "versionCode": 10,
@@ -590,6 +583,13 @@
           "versionCode": 11,
           "zipUrl": "https://ya0211.github.io/magisk-modules-alt-repo/modules/Malwack/v2.5_11.zip",
           "changelog": "https://ya0211.github.io/magisk-modules-alt-repo/modules/Malwack/v2.5_11.md"
+        },
+        {
+          "timestamp": 1697490306.580705,
+          "version": "v2.6",
+          "versionCode": 12,
+          "zipUrl": "https://ya0211.github.io/magisk-modules-alt-repo/modules/Malwack/v2.6_12.zip",
+          "changelog": "https://ya0211.github.io/magisk-modules-alt-repo/modules/Malwack/v2.6_12.md"
         }
       ]
     },
@@ -1028,10 +1028,10 @@
     {
       "id": "acc",
       "name": "Advanced Charging Controller (ACC)",
-      "version": "v2023.8.19",
-      "versionCode": 202308190,
+      "version": "v2023.10.16",
+      "versionCode": 202310160,
       "author": "VR25",
-      "description": "Mainly intended for extending battery service life on Android devices. In a nutshell, this is achieved through limiting charging current, temperature, and voltage. Any root solution is supported. Regardless of whether the system is rooted with Magisk, the installation is always \"systemless\".",
+      "description": "Extend your battery's service life by controlling charging current, temperature, and voltage. Any root solution is supported. The installation is always \"systemless\". Works on Android and KaiOS.",
       "track": {
         "type": "GIT",
         "added": 1692474162.25533,
@@ -1055,6 +1055,13 @@
           "versionCode": 202308190,
           "zipUrl": "https://ya0211.github.io/magisk-modules-alt-repo/modules/acc/v2023.8.19_202308190.zip",
           "changelog": "https://ya0211.github.io/magisk-modules-alt-repo/modules/acc/v2023.8.19_202308190.md"
+        },
+        {
+          "timestamp": 1697485290.0,
+          "version": "v2023.10.16",
+          "versionCode": 202310160,
+          "zipUrl": "https://ya0211.github.io/magisk-modules-alt-repo/modules/acc/v2023.10.16_202310160.zip",
+          "changelog": "https://ya0211.github.io/magisk-modules-alt-repo/modules/acc/v2023.10.16_202310160.md"
         }
       ]
     },

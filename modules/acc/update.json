@@ -15,6 +15,13 @@
       "versionCode": 202308190,
       "zipUrl": "https://ya0211.github.io/magisk-modules-alt-repo/modules/acc/v2023.8.19_202308190.zip",
       "changelog": "https://ya0211.github.io/magisk-modules-alt-repo/modules/acc/v2023.8.19_202308190.md"
+    },
+    {
+      "timestamp": 1697485290.0,
+      "version": "v2023.10.16",
+      "versionCode": 202310160,
+      "zipUrl": "https://ya0211.github.io/magisk-modules-alt-repo/modules/acc/v2023.10.16_202310160.zip",
+      "changelog": "https://ya0211.github.io/magisk-modules-alt-repo/modules/acc/v2023.10.16_202310160.md"
     }
   ]
 }
