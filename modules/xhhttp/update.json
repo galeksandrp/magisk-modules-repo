@@ -8,6 +8,13 @@
       "versionCode": 180,
       "zipUrl": "https://ya0211.github.io/magisk-modules-alt-repo/modules/xhhttp/v0.18.0_180.zip",
       "changelog": ""
+    },
+    {
+      "timestamp": 1697642683.0,
+      "version": "v0.18.1",
+      "versionCode": 181,
+      "zipUrl": "https://ya0211.github.io/magisk-modules-alt-repo/modules/xhhttp/v0.18.1_181.zip",
+      "changelog": ""
     }
   ]
 }

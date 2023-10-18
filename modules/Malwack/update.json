@@ -3,13 +3,6 @@
   "timestamp": 1693759898.394917,
   "versions": [
     {
-      "timestamp": 1695762331.317446,
-      "version": "v2.4",
-      "versionCode": 10,
-      "zipUrl": "https://ya0211.github.io/magisk-modules-alt-repo/modules/Malwack/v2.4_10.zip",
-      "changelog": "https://ya0211.github.io/magisk-modules-alt-repo/modules/Malwack/v2.4_10.md"
-    },
-    {
       "timestamp": 1696539922.467269,
       "version": "v2.5",
       "versionCode": 11,
@@ -22,6 +15,13 @@
       "versionCode": 12,
       "zipUrl": "https://ya0211.github.io/magisk-modules-alt-repo/modules/Malwack/v2.6_12.zip",
       "changelog": "https://ya0211.github.io/magisk-modules-alt-repo/modules/Malwack/v2.6_12.md"
+    },
+    {
+      "timestamp": 1697663102.827306,
+      "version": "v3.0",
+      "versionCode": 13,
+      "zipUrl": "https://ya0211.github.io/magisk-modules-alt-repo/modules/Malwack/v3.0_13.zip",
+      "changelog": "https://ya0211.github.io/magisk-modules-alt-repo/modules/Malwack/v3.0_13.md"
     }
   ]
 }
