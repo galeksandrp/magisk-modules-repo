@@ -2,7 +2,7 @@
   "name": "Magisk Modules Alt Repo",
   "metadata": {
     "version": 1,
-    "timestamp": 1697835934.694466
+    "timestamp": 1697922339.213256
   },
   "modules": [
     {
@@ -2716,8 +2716,8 @@
     {
       "id": "xhhttp",
       "name": "xh for Android",
-      "version": "v0.18.1",
-      "versionCode": 181,
+      "version": "v0.19.2",
+      "versionCode": 192,
       "author": "ducaale & Der_Googler",
       "description": "Friendly and fast tool for sending HTTP requests",
       "track": {
@@ -2743,14 +2743,21 @@
           "versionCode": 181,
           "zipUrl": "https://ya0211.github.io/magisk-modules-alt-repo/modules/xhhttp/v0.18.1_181.zip",
           "changelog": ""
+        },
+        {
+          "timestamp": 1697918539.0,
+          "version": "v0.19.2",
+          "versionCode": 192,
+          "zipUrl": "https://ya0211.github.io/magisk-modules-alt-repo/modules/xhhttp/v0.19.2_192.zip",
+          "changelog": ""
         }
       ]
     },
     {
       "id": "xmlpak-RE",
       "name": "xmlpak-RE \u2013 a road to vendor apps",
-      "version": "v6.0",
-      "versionCode": 60,
+      "version": "v8.0",
+      "versionCode": 80,
       "author": "Rushi Ranpise ,RKBDI, Tadi (j1505243 at xda)",
       "description": "This module enables you to download and install vendor apps from Google Play. Compatibility is not guaranteed.",
       "track": {
@@ -2769,6 +2776,13 @@
           "versionCode": 60,
           "zipUrl": "https://ya0211.github.io/magisk-modules-alt-repo/modules/xmlpak-RE/v6.0_60.zip",
           "changelog": "https://ya0211.github.io/magisk-modules-alt-repo/modules/xmlpak-RE/v6.0_60.md"
+        },
+        {
+          "timestamp": 1697914942.0,
+          "version": "v8.0",
+          "versionCode": 80,
+          "zipUrl": "https://ya0211.github.io/magisk-modules-alt-repo/modules/xmlpak-RE/v8.0_80.zip",
+          "changelog": "https://ya0211.github.io/magisk-modules-alt-repo/modules/xmlpak-RE/v8.0_80.md"
         }
       ]
     },
