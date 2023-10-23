@@ -2,7 +2,6 @@
   "id": "OneController",
   "enable": true,
   "update_to": "git@github.com:Magisk-Modules-Alt-Repo/OneController.git",
-  "homepage": "https://github.com/Magisk-Modules-Alt-Repo/OneController",
   "source": "https://github.com/Magisk-Modules-Alt-Repo/OneController.git",
   "support": "https://github.com/Magisk-Modules-Alt-Repo/OneController/issues",
   "added": 1680541974.401325,

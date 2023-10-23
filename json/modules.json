@@ -2,7 +2,7 @@
   "name": "Magisk Modules Alt Repo",
   "metadata": {
     "version": 1,
-    "timestamp": 1698008747.950061
+    "timestamp": 1698063057.979476
   },
   "modules": [
     {
@@ -16,7 +16,7 @@
         "type": "GIT",
         "added": 1680541843.891351,
         "license": "GPL-3.0",
-        "homepage": "https://github.com/Magisk-Modules-Alt-Repo/AFWall-Boot-AntiLeak",
+        "homepage": "",
         "source": "https://github.com/Magisk-Modules-Alt-Repo/AFWall-Boot-AntiLeak.git",
         "support": "https://github.com/Magisk-Modules-Alt-Repo/AFWall-Boot-AntiLeak/issues",
         "donate": ""
@@ -42,7 +42,7 @@
         "type": "GIT",
         "added": 1680541841.682238,
         "license": "LGPL-3.0",
-        "homepage": "https://github.com/Magisk-Modules-Alt-Repo/AdGuardDNS4Magisk-IPv6",
+        "homepage": "",
         "source": "https://github.com/Magisk-Modules-Alt-Repo/AdGuardDNS4Magisk-IPv6.git",
         "support": "https://github.com/Magisk-Modules-Alt-Repo/AdGuardDNS4Magisk-IPv6/issues",
         "donate": ""
@@ -68,7 +68,7 @@
         "type": "GIT",
         "added": 1680541853.25358,
         "license": "GPL-3.0",
-        "homepage": "https://github.com/Magisk-Modules-Alt-Repo/Better-MIUI-Icons",
+        "homepage": "",
         "source": "https://github.com/Magisk-Modules-Alt-Repo/Better-MIUI-Icons.git",
         "support": "https://github.com/Magisk-Modules-Alt-Repo/Better-MIUI-Icons/issues",
         "donate": ""
@@ -94,7 +94,7 @@
         "type": "GIT",
         "added": 1680541855.305427,
         "license": "MIT",
-        "homepage": "https://github.com/Magisk-Modules-Alt-Repo/BraviaEngine",
+        "homepage": "",
         "source": "https://github.com/Magisk-Modules-Alt-Repo/BraviaEngine.git",
         "support": "https://github.com/Magisk-Modules-Alt-Repo/BraviaEngine/issues",
         "donate": "https://enggarsulistyo.github.io"
@@ -120,7 +120,7 @@
         "type": "ONLINE_JSON",
         "added": 1692474230.968044,
         "license": "GPL-2.0",
-        "homepage": "https://github.com/Magisk-Modules-Alt-Repo/BuiltIn-BusyBox",
+        "homepage": "",
         "source": "https://github.com/Magisk-Modules-Alt-Repo/BuiltIn-BusyBox.git",
         "support": "https://github.com/Magisk-Modules-Alt-Repo/BuiltIn-BusyBox/issues",
         "donate": "https://zgfg.github.io/PayPal.html"
@@ -160,7 +160,7 @@
         "type": "ONLINE_JSON",
         "added": 1680541867.483523,
         "license": "GPL-3.0",
-        "homepage": "https://github.com/Magisk-Modules-Alt-Repo/Clash4Magisk",
+        "homepage": "",
         "source": "https://github.com/Magisk-Modules-Alt-Repo/Clash4Magisk.git",
         "support": "https://github.com/Magisk-Modules-Alt-Repo/Clash4Magisk/issues",
         "donate": ""
@@ -186,7 +186,7 @@
         "type": "ONLINE_JSON",
         "added": 1680541868.910362,
         "license": "LGPL-3.0",
-        "homepage": "https://github.com/Magisk-Modules-Alt-Repo/CloudflareDNS4Magisk",
+        "homepage": "",
         "source": "https://github.com/Magisk-Modules-Alt-Repo/CloudflareDNS4Magisk.git",
         "support": "https://github.com/Magisk-Modules-Alt-Repo/CloudflareDNS4Magisk/issues",
         "donate": ""
@@ -212,7 +212,7 @@
         "type": "GIT",
         "added": 1680541870.970941,
         "license": "LGPL-3.0",
-        "homepage": "https://github.com/Magisk-Modules-Alt-Repo/CloudflareDNS4Magisk-IPv6",
+        "homepage": "",
         "source": "https://github.com/Magisk-Modules-Alt-Repo/CloudflareDNS4Magisk-IPv6.git",
         "support": "https://github.com/Magisk-Modules-Alt-Repo/CloudflareDNS4Magisk-IPv6/issues",
         "donate": ""
@@ -238,7 +238,7 @@
         "type": "GIT",
         "added": 1680541881.414948,
         "license": "",
-        "homepage": "https://github.com/Magisk-Modules-Alt-Repo/DalvikHyperthreading",
+        "homepage": "",
         "source": "https://github.com/Magisk-Modules-Alt-Repo/DalvikHyperthreading.git",
         "support": "https://github.com/Magisk-Modules-Alt-Repo/DalvikHyperthreading/issues",
         "donate": ""
@@ -264,7 +264,7 @@
         "type": "GIT",
         "added": 1680541887.662185,
         "license": "GPL-3.0",
-        "homepage": "https://github.com/Magisk-Modules-Alt-Repo/Detach",
+        "homepage": "",
         "source": "https://github.com/Magisk-Modules-Alt-Repo/Detach.git",
         "support": "https://github.com/Magisk-Modules-Alt-Repo/Detach/issues",
         "donate": ""
@@ -290,7 +290,7 @@
         "type": "GIT",
         "added": 1680541894.011069,
         "license": "",
-        "homepage": "https://github.com/Magisk-Modules-Alt-Repo/Evolve-Evo",
+        "homepage": "",
         "source": "https://github.com/Magisk-Modules-Alt-Repo/Evolve-Evo.git",
         "support": "https://github.com/Magisk-Modules-Alt-Repo/Evolve-Evo/issues",
         "donate": ""
@@ -316,7 +316,7 @@
         "type": "ONLINE_JSON",
         "added": 1680541902.617836,
         "license": "",
-        "homepage": "https://github.com/Magisk-Modules-Alt-Repo/Fdroid-Priv",
+        "homepage": "",
         "source": "https://github.com/Magisk-Modules-Alt-Repo/Fdroid-Priv.git",
         "support": "https://github.com/Magisk-Modules-Alt-Repo/Fdroid-Priv/issues",
         "donate": ""
@@ -342,7 +342,7 @@
         "type": "ONLINE_JSON",
         "added": 1692472868.037896,
         "license": "UNKNOWN",
-        "homepage": "https://github.com/Magisk-Modules-Alt-Repo/FluentEmojiMagisk",
+        "homepage": "",
         "source": "https://github.com/Magisk-Modules-Alt-Repo/FluentEmojiMagisk.git",
         "support": "https://github.com/Magisk-Modules-Alt-Repo/FluentEmojiMagisk/issues",
         "donate": ""
@@ -368,7 +368,7 @@
         "type": "ONLINE_JSON",
         "added": 1680541915.965666,
         "license": "GPL-2.0",
-        "homepage": "https://github.com/Magisk-Modules-Alt-Repo/GMSDoze",
+        "homepage": "",
         "source": "https://github.com/Magisk-Modules-Alt-Repo/GMSDoze.git",
         "support": "https://github.com/Magisk-Modules-Alt-Repo/GMSDoze/issues",
         "donate": ""
@@ -420,7 +420,7 @@
         "type": "GIT",
         "added": 1680541918.690187,
         "license": "GPL-3.0",
-        "homepage": "https://github.com/Magisk-Modules-Alt-Repo/Google-Sans",
+        "homepage": "",
         "source": "https://github.com/Magisk-Modules-Alt-Repo/Google-Sans.git",
         "support": "https://github.com/Magisk-Modules-Alt-Repo/Google-Sans/issues",
         "donate": ""
@@ -446,7 +446,7 @@
         "type": "GIT",
         "added": 1680541920.944197,
         "license": "GPL-3.0",
-        "homepage": "https://github.com/Magisk-Modules-Alt-Repo/Google-Sans-Plus",
+        "homepage": "",
         "source": "https://github.com/Magisk-Modules-Alt-Repo/Google-Sans-Plus.git",
         "support": "https://github.com/Magisk-Modules-Alt-Repo/Google-Sans-Plus/issues",
         "donate": ""
@@ -472,7 +472,7 @@
         "type": "GIT",
         "added": 1692474369.872873,
         "license": "GPL-3.0",
-        "homepage": "https://github.com/Magisk-Modules-Alt-Repo/HideNavBar",
+        "homepage": "",
         "source": "https://github.com/Magisk-Modules-Alt-Repo/HideNavBar.git",
         "support": "https://github.com/Magisk-Modules-Alt-Repo/HideNavBar/issues",
         "donate": ""
@@ -512,7 +512,7 @@
         "type": "ONLINE_JSON",
         "added": 1680541936.064604,
         "license": "GPL-2.0",
-        "homepage": "https://github.com/Magisk-Modules-Alt-Repo/Luz-Nocturna_Modded",
+        "homepage": "",
         "source": "https://github.com/Magisk-Modules-Alt-Repo/Luz-Nocturna_Modded.git",
         "support": "https://github.com/Magisk-Modules-Alt-Repo/Luz-Nocturna_Modded/issues",
         "donate": ""
@@ -538,7 +538,7 @@
         "type": "GIT",
         "added": 1680541938.045765,
         "license": "GPL-2.0",
-        "homepage": "https://github.com/Magisk-Modules-Alt-Repo/MacRandomizationEnabler",
+        "homepage": "",
         "source": "https://github.com/Magisk-Modules-Alt-Repo/MacRandomizationEnabler.git",
         "support": "https://github.com/Magisk-Modules-Alt-Repo/MacRandomizationEnabler/issues",
         "donate": ""
@@ -564,7 +564,7 @@
         "type": "ONLINE_JSON",
         "added": 1693757700.755931,
         "license": "",
-        "homepage": "https://github.com/Magisk-Modules-Alt-Repo/Malwack",
+        "homepage": "",
         "source": "https://github.com/Magisk-Modules-Alt-Repo/Malwack.git",
         "support": "https://github.com/Magisk-Modules-Alt-Repo/Malwack/issues",
         "donate": ""
@@ -604,7 +604,7 @@
         "type": "GIT",
         "added": 1680541958.835092,
         "license": "",
-        "homepage": "https://github.com/Magisk-Modules-Alt-Repo/MiXplorer",
+        "homepage": "",
         "source": "https://github.com/Magisk-Modules-Alt-Repo/MiXplorer.git",
         "support": "https://github.com/Magisk-Modules-Alt-Repo/MiXplorer/issues",
         "donate": ""
@@ -656,7 +656,7 @@
         "type": "ONLINE_JSON",
         "added": 1680541964.887119,
         "license": "GPL-2.0",
-        "homepage": "https://github.com/Magisk-Modules-Alt-Repo/NavBar_Resize_MIUI",
+        "homepage": "",
         "source": "https://github.com/Magisk-Modules-Alt-Repo/NavBar_Resize_MIUI.git",
         "support": "https://github.com/Magisk-Modules-Alt-Repo/NavBar_Resize_MIUI/issues",
         "donate": ""
@@ -682,7 +682,7 @@
         "type": "ONLINE_JSON",
         "added": 1680541968.256236,
         "license": "WTFPL",
-        "homepage": "https://github.com/Young-Lord/NoProcStatRestriction",
+        "homepage": "",
         "source": "https://github.com/Magisk-Modules-Alt-Repo/NoProcStatRestriction.git",
         "support": "https://github.com/Magisk-Modules-Alt-Repo/NoProcStatRestriction/issues",
         "donate": ""
@@ -708,7 +708,7 @@
         "type": "GIT",
         "added": 1680541970.414424,
         "license": "",
-        "homepage": "https://github.com/Magisk-Modules-Alt-Repo/NoStorageRestrict",
+        "homepage": "",
         "source": "https://github.com/Magisk-Modules-Alt-Repo/NoStorageRestrict.git",
         "support": "https://github.com/Magisk-Modules-Alt-Repo/NoStorageRestrict/issues",
         "donate": ""
@@ -734,7 +734,7 @@
         "type": "GIT",
         "added": 1680541974.401325,
         "license": "",
-        "homepage": "https://github.com/Magisk-Modules-Alt-Repo/OneController",
+        "homepage": "",
         "source": "https://github.com/Magisk-Modules-Alt-Repo/OneController.git",
         "support": "https://github.com/Magisk-Modules-Alt-Repo/OneController/issues",
         "donate": ""
@@ -760,7 +760,7 @@
         "type": "GIT",
         "added": 1680541988.735895,
         "license": "",
-        "homepage": "https://github.com/Magisk-Modules-Alt-Repo/PLEX_SKIP_INTRO_DPAD_CONTROLLER_FIX",
+        "homepage": "",
         "source": "https://github.com/Magisk-Modules-Alt-Repo/PLEX_SKIP_INTRO_DPAD_CONTROLLER_FIX.git",
         "support": "https://github.com/Magisk-Modules-Alt-Repo/PLEX_SKIP_INTRO_DPAD_CONTROLLER_FIX/issues",
         "donate": ""
@@ -786,7 +786,7 @@
         "type": "ONLINE_JSON",
         "added": 1680541992.3419,
         "license": "GPL-2.0",
-        "homepage": "https://github.com/Magisk-Modules-Alt-Repo/QS_Rectangulares",
+        "homepage": "",
         "source": "https://github.com/Magisk-Modules-Alt-Repo/QS_Rectangulares.git",
         "support": "https://github.com/Magisk-Modules-Alt-Repo/QS_Rectangulares/issues",
         "donate": ""
@@ -812,7 +812,7 @@
         "type": "GIT",
         "added": 1680541994.369191,
         "license": "GPL-2.0",
-        "homepage": "https://github.com/Magisk-Modules-Alt-Repo/RTKS",
+        "homepage": "",
         "source": "https://github.com/Magisk-Modules-Alt-Repo/RTKS.git",
         "support": "https://github.com/Magisk-Modules-Alt-Repo/RTKS/issues",
         "donate": ""
@@ -838,7 +838,7 @@
         "type": "ONLINE_JSON",
         "added": 1680542001.843641,
         "license": "MIT",
-        "homepage": "https://github.com/Magisk-Modules-Alt-Repo/SomcGameEnhancer-Upgrade",
+        "homepage": "",
         "source": "https://github.com/Magisk-Modules-Alt-Repo/SomcGameEnhancer-Upgrade.git",
         "support": "https://github.com/Magisk-Modules-Alt-Repo/SomcGameEnhancer-Upgrade/issues",
         "donate": ""
@@ -864,7 +864,7 @@
         "type": "ONLINE_JSON",
         "added": 1680542005.415533,
         "license": "LGPL-2.1",
-        "homepage": "https://github.com/Magisk-Modules-Alt-Repo/SystemlessDebloater",
+        "homepage": "",
         "source": "https://github.com/Magisk-Modules-Alt-Repo/SystemlessDebloater.git",
         "support": "https://github.com/Magisk-Modules-Alt-Repo/SystemlessDebloater/issues",
         "donate": "https://zgfg.github.io/PayPal.html"
@@ -904,7 +904,7 @@
         "type": "GIT",
         "added": 1692474533.941541,
         "license": "UNKNOWN",
-        "homepage": "https://github.com/Magisk-Modules-Alt-Repo/ThemedProject",
+        "homepage": "",
         "source": "https://github.com/Magisk-Modules-Alt-Repo/ThemedProject.git",
         "support": "https://github.com/Magisk-Modules-Alt-Repo/ThemedProject/issues",
         "donate": ""
@@ -944,7 +944,7 @@
         "type": "ONLINE_JSON",
         "added": 1692474537.351281,
         "license": "0BSD",
-        "homepage": "https://github.com/Magisk-Modules-Alt-Repo/ToyBox-Ext",
+        "homepage": "",
         "source": "https://github.com/Magisk-Modules-Alt-Repo/ToyBox-Ext.git",
         "support": "https://github.com/Magisk-Modules-Alt-Repo/ToyBox-Ext/issues",
         "donate": "https://zgfg.github.io/PayPal.html"
@@ -984,7 +984,7 @@
         "type": "GIT",
         "added": 1686562507.674932,
         "license": "MIT",
-        "homepage": "https://github.com/Magisk-Modules-Alt-Repo/UbuntuFontVinaooo",
+        "homepage": "",
         "source": "https://github.com/Magisk-Modules-Alt-Repo/UbuntuFontVinaooo.git",
         "support": "https://github.com/Magisk-Modules-Alt-Repo/UbuntuFontVinaooo/issues",
         "donate": ""
@@ -1010,7 +1010,7 @@
         "type": "GIT",
         "added": 1680542028.263412,
         "license": "MIT",
-        "homepage": "https://github.com/Magisk-Modules-Alt-Repo/YAKT",
+        "homepage": "",
         "source": "https://github.com/Magisk-Modules-Alt-Repo/YAKT.git",
         "support": "https://github.com/Magisk-Modules-Alt-Repo/YAKT/issues",
         "donate": ""
@@ -1036,7 +1036,7 @@
         "type": "GIT",
         "added": 1692474162.25533,
         "license": "GPL-3.0",
-        "homepage": "https://github.com/VR-25/acc",
+        "homepage": "",
         "source": "https://github.com/Magisk-Modules-Alt-Repo/acc.git",
         "support": "",
         "donate": "https://patreon.com/VR25"
@@ -1076,7 +1076,7 @@
         "type": "GIT",
         "added": 1692474211.305633,
         "license": "AGPL-3.0",
-        "homepage": "https://github.com/Magisk-Modules-Alt-Repo/audio-jitter-silencer",
+        "homepage": "",
         "source": "https://github.com/Magisk-Modules-Alt-Repo/audio-jitter-silencer.git",
         "support": "https://github.com/Magisk-Modules-Alt-Repo/audio-jitter-silencer/issues",
         "donate": ""
@@ -1116,7 +1116,7 @@
         "type": "GIT",
         "added": 1692474215.589094,
         "license": "AGPL-3.0",
-        "homepage": "https://github.com/Magisk-Modules-Alt-Repo/audio-misc-settings",
+        "homepage": "",
         "source": "https://github.com/Magisk-Modules-Alt-Repo/audio-misc-settings.git",
         "support": "https://github.com/Magisk-Modules-Alt-Repo/audio-misc-settings/issues",
         "donate": ""
@@ -1156,7 +1156,7 @@
         "type": "GIT",
         "added": 1680541851.002999,
         "license": "GPL-3.0",
-        "homepage": "https://github.com/Magisk-Modules-Alt-Repo/backup",
+        "homepage": "",
         "source": "https://github.com/Magisk-Modules-Alt-Repo/backup.git",
         "support": "https://github.com/Magisk-Modules-Alt-Repo/backup/issues",
         "donate": ""
@@ -1182,7 +1182,7 @@
         "type": "GIT",
         "added": 1680541858.886285,
         "license": "",
-        "homepage": "https://github.com/Magisk-Modules-Alt-Repo/charch",
+        "homepage": "",
         "source": "https://github.com/Magisk-Modules-Alt-Repo/charch.git",
         "support": "https://github.com/Magisk-Modules-Alt-Repo/charch/issues",
         "donate": ""
@@ -1208,7 +1208,7 @@
         "type": "GIT",
         "added": 1680541861.100776,
         "license": "GPL-3.0",
-        "homepage": "https://github.com/Magisk-Modules-Alt-Repo/charch_dinit",
+        "homepage": "",
         "source": "https://github.com/Magisk-Modules-Alt-Repo/charch_dinit.git",
         "support": "https://github.com/Magisk-Modules-Alt-Repo/charch_dinit/issues",
         "donate": ""
@@ -1234,7 +1234,7 @@
         "type": "GIT",
         "added": 1680541863.228826,
         "license": "GPL-3.0",
-        "homepage": "https://github.com/Magisk-Modules-Alt-Repo/charch_openrc",
+        "homepage": "",
         "source": "https://github.com/Magisk-Modules-Alt-Repo/charch_openrc.git",
         "support": "https://github.com/Magisk-Modules-Alt-Repo/charch_openrc/issues",
         "donate": ""
@@ -1260,7 +1260,7 @@
         "type": "GIT",
         "added": 1680541865.81606,
         "license": "GPL-3.0",
-        "homepage": "https://github.com/Magisk-Modules-Alt-Repo/charch_sshd",
+        "homepage": "",
         "source": "https://github.com/Magisk-Modules-Alt-Repo/charch_sshd.git",
         "support": "https://github.com/Magisk-Modules-Alt-Repo/charch_sshd/issues",
         "donate": ""
@@ -1286,7 +1286,7 @@
         "type": "GIT",
         "added": 1680541873.124456,
         "license": "GPL-3.0",
-        "homepage": "https://github.com/Magisk-Modules-Alt-Repo/cmdpatch",
+        "homepage": "",
         "source": "https://github.com/Magisk-Modules-Alt-Repo/cmdpatch.git",
         "support": "https://github.com/Magisk-Modules-Alt-Repo/cmdpatch/issues",
         "donate": ""
@@ -1312,7 +1312,7 @@
         "type": "GIT",
         "added": 1680541876.963847,
         "license": "GPL-3.0",
-        "homepage": "https://github.com/whalehub/custom-certificate-authorities",
+        "homepage": "",
         "source": "https://github.com/Magisk-Modules-Alt-Repo/custom-certificate-authorities.git",
         "support": "https://github.com/Magisk-Modules-Alt-Repo/custom-certificate-authorities/issues",
         "donate": ""
@@ -1338,7 +1338,7 @@
         "type": "GIT",
         "added": 1680541883.465463,
         "license": "MIT",
-        "homepage": "https://github.com/Magisk-Modules-Alt-Repo/data_backup",
+        "homepage": "",
         "source": "https://github.com/Magisk-Modules-Alt-Repo/data_backup.git",
         "support": "",
         "donate": ""
@@ -1371,7 +1371,7 @@
         "type": "GIT",
         "added": 1680541885.513692,
         "license": "GPL-3.0",
-        "homepage": "https://github.com/Magisk-Modules-Alt-Repo/data_isolation_support",
+        "homepage": "",
         "source": "https://github.com/Magisk-Modules-Alt-Repo/data_isolation_support.git",
         "support": "https://github.com/Magisk-Modules-Alt-Repo/data_isolation_support/issues",
         "donate": ""
@@ -1397,7 +1397,7 @@
         "type": "GIT",
         "added": 1693757543.39259,
         "license": "MIT",
-        "homepage": "https://github.com/Magisk-Modules-Alt-Repo/data_restore_Courier",
+        "homepage": "",
         "source": "https://github.com/Magisk-Modules-Alt-Repo/data_restore_Courier.git",
         "support": "https://github.com/Magisk-Modules-Alt-Repo/data_restore_Courier/issues",
         "donate": ""
@@ -1423,7 +1423,7 @@
         "type": "GIT",
         "added": 1680541889.915128,
         "license": "GPL-3.0",
-        "homepage": "https://github.com/VR-25/djs",
+        "homepage": "",
         "source": "https://github.com/Magisk-Modules-Alt-Repo/djs.git",
         "support": "",
         "donate": "https://patreon.com/VR25"
@@ -1449,7 +1449,7 @@
         "type": "GIT",
         "added": 1680541892.066052,
         "license": "AGPL-3.0",
-        "homepage": "https://github.com/Magisk-Modules-Alt-Repo/drc-remover",
+        "homepage": "",
         "source": "https://github.com/Magisk-Modules-Alt-Repo/drc-remover.git",
         "support": "https://github.com/Magisk-Modules-Alt-Repo/drc-remover/issues",
         "donate": ""
@@ -1482,7 +1482,7 @@
         "type": "GIT",
         "added": 1680541896.05897,
         "license": "MIT",
-        "homepage": "https://github.com/Magisk-Modules-Alt-Repo/ezme-dex-space",
+        "homepage": "",
         "source": "https://github.com/Magisk-Modules-Alt-Repo/ezme-dex-space.git",
         "support": "https://github.com/Magisk-Modules-Alt-Repo/ezme-dex-space/issues",
         "donate": ""
@@ -1508,7 +1508,7 @@
         "type": "GIT",
         "added": 1680541898.004424,
         "license": "MIT",
-        "homepage": "https://github.com/Magisk-Modules-Alt-Repo/ezme-nodebug",
+        "homepage": "",
         "source": "https://github.com/Magisk-Modules-Alt-Repo/ezme-nodebug.git",
         "support": "https://github.com/Magisk-Modules-Alt-Repo/ezme-nodebug/issues",
         "donate": ""
@@ -1586,7 +1586,7 @@
         "type": "GIT",
         "added": 1680541906.610466,
         "license": "",
-        "homepage": "https://github.com/Magisk-Modules-Alt-Repo/frozen_magisk_app",
+        "homepage": "",
         "source": "https://github.com/Magisk-Modules-Alt-Repo/frozen_magisk_app.git",
         "support": "https://github.com/Magisk-Modules-Alt-Repo/frozen_magisk_app/issues",
         "donate": ""
@@ -1612,7 +1612,7 @@
         "type": "GIT",
         "added": 1680541909.269935,
         "license": "GPL-3.0",
-        "homepage": "https://github.com/Magisk-Modules-Alt-Repo/gaming",
+        "homepage": "",
         "source": "https://github.com/Magisk-Modules-Alt-Repo/gaming.git",
         "support": "https://github.com/Magisk-Modules-Alt-Repo/gaming/issues",
         "donate": ""
@@ -1638,7 +1638,7 @@
         "type": "ONLINE_JSON",
         "added": 1680541910.816994,
         "license": "MIT",
-        "homepage": "https://github.com/Magisk-Modules-Alt-Repo/gboard-dict-3",
+        "homepage": "",
         "source": "https://github.com/Magisk-Modules-Alt-Repo/gboard-dict-3.git",
         "support": "https://github.com/Magisk-Modules-Alt-Repo/gboard-dict-3/issues",
         "donate": ""
@@ -1664,7 +1664,7 @@
         "type": "GIT",
         "added": 1680541925.451657,
         "license": "",
-        "homepage": "https://github.com/Magisk-Modules-Alt-Repo/heimdall-ndk",
+        "homepage": "",
         "source": "https://github.com/Magisk-Modules-Alt-Repo/heimdall-ndk.git",
         "support": "https://github.com/Magisk-Modules-Alt-Repo/heimdall-ndk/issues",
         "donate": ""
@@ -1690,7 +1690,7 @@
         "type": "GIT",
         "added": 1686562362.400679,
         "license": "",
-        "homepage": "https://github.com/Magisk-Modules-Alt-Repo/isodrive",
+        "homepage": "",
         "source": "https://github.com/Magisk-Modules-Alt-Repo/isodrive.git",
         "support": "https://github.com/Magisk-Modules-Alt-Repo/isodrive/issues",
         "donate": ""
@@ -1723,7 +1723,7 @@
         "type": "GIT",
         "added": 1680541934.461731,
         "license": "GPL-3.0",
-        "homepage": "https://github.com/Magisk-Modules-Alt-Repo/lhroot",
+        "homepage": "",
         "source": "https://github.com/Magisk-Modules-Alt-Repo/lhroot.git",
         "support": "https://github.com/Magisk-Modules-Alt-Repo/lhroot/issues",
         "donate": ""
@@ -1749,7 +1749,7 @@
         "type": "GIT",
         "added": 1680541940.093895,
         "license": "GPL-3.0",
-        "homepage": "https://github.com/Magisk-Modules-Alt-Repo/magic-flash",
+        "homepage": "",
         "source": "https://github.com/Magisk-Modules-Alt-Repo/magic-flash.git",
         "support": "https://github.com/Magisk-Modules-Alt-Repo/magic-flash/issues",
         "donate": ""
@@ -1775,7 +1775,7 @@
         "type": "GIT",
         "added": 1680541942.177756,
         "license": "GPL-3.0",
-        "homepage": "https://github.com/Magisk-Modules-Alt-Repo/Magisk-Captive-Control",
+        "homepage": "",
         "source": "https://github.com/Magisk-Modules-Alt-Repo/Magisk-Captive-Control.git",
         "support": "https://github.com/Magisk-Modules-Alt-Repo/Magisk-Captive-Control/issues",
         "donate": ""
@@ -1827,7 +1827,7 @@
         "type": "GIT",
         "added": 1686562396.873108,
         "license": "",
-        "homepage": "https://github.com/Magisk-Modules-Alt-Repo/magisk_overlayfs",
+        "homepage": "",
         "source": "https://github.com/Magisk-Modules-Alt-Repo/magisk_overlayfs.git",
         "support": "https://github.com/Magisk-Modules-Alt-Repo/magisk_overlayfs/issues",
         "donate": ""
@@ -1860,7 +1860,7 @@
         "type": "GIT",
         "added": 1680541951.768585,
         "license": "GPL-3.0",
-        "homepage": "https://github.com/Magisk-Modules-Alt-Repo/magisk_proc_monitor",
+        "homepage": "",
         "source": "https://github.com/Magisk-Modules-Alt-Repo/magisk_proc_monitor.git",
         "support": "https://github.com/Magisk-Modules-Alt-Repo/magisk_proc_monitor/issues",
         "donate": ""
@@ -1893,7 +1893,7 @@
         "type": "GIT",
         "added": 1680541949.617763,
         "license": "GPL-3.0",
-        "homepage": "https://github.com/Magisk-Modules-Alt-Repo/MagiskHide",
+        "homepage": "",
         "source": "https://github.com/Magisk-Modules-Alt-Repo/MagiskHide.git",
         "support": "https://github.com/Magisk-Modules-Alt-Repo/MagiskHide/issues",
         "donate": ""
@@ -1919,7 +1919,7 @@
         "type": "GIT",
         "added": 1686562403.330229,
         "license": "",
-        "homepage": "https://github.com/Magisk-Modules-Alt-Repo/microG-GApps",
+        "homepage": "",
         "source": "https://github.com/Magisk-Modules-Alt-Repo/microG-GApps.git",
         "support": "https://github.com/Magisk-Modules-Alt-Repo/microG-GApps/issues",
         "donate": ""
@@ -1978,7 +1978,7 @@
         "type": "GIT",
         "added": 1680541961.188782,
         "license": "GPL-3.0",
-        "homepage": "https://github.com/Magisk-Modules-Alt-Repo/mkshrc",
+        "homepage": "",
         "source": "https://github.com/Magisk-Modules-Alt-Repo/mkshrc.git",
         "support": "https://github.com/Magisk-Modules-Alt-Repo/mkshrc/issues",
         "donate": ""
@@ -2018,7 +2018,7 @@
         "type": "GIT",
         "added": 1692472986.529323,
         "license": "MIT",
-        "homepage": "https://github.com/Magisk-Modules-Alt-Repo/node",
+        "homepage": "",
         "source": "https://github.com/Magisk-Modules-Alt-Repo/node.git",
         "support": "https://github.com/Magisk-Modules-Alt-Repo/node/issues",
         "donate": ""
@@ -2058,7 +2058,7 @@
         "type": "ONLINE_JSON",
         "added": 1680541975.943228,
         "license": "GPL-2.0",
-        "homepage": "https://github.com/Magisk-Modules-Alt-Repo/oneplus-8series-9r-camera-unlocker",
+        "homepage": "",
         "source": "https://github.com/Magisk-Modules-Alt-Repo/oneplus-8series-9r-camera-unlocker.git",
         "support": "https://github.com/Magisk-Modules-Alt-Repo/oneplus-8series-9r-camera-unlocker/issues",
         "donate": ""
@@ -2084,7 +2084,7 @@
         "type": "ONLINE_JSON",
         "added": 1680541977.582204,
         "license": "GPL-2.0",
-        "homepage": "https://github.com/Magisk-Modules-Alt-Repo/oneplus-9-9pro-camera-unlocker",
+        "homepage": "",
         "source": "https://github.com/Magisk-Modules-Alt-Repo/oneplus-9-9pro-camera-unlocker.git",
         "support": "https://github.com/Magisk-Modules-Alt-Repo/oneplus-9-9pro-camera-unlocker/issues",
         "donate": ""
@@ -2110,7 +2110,7 @@
         "type": "ONLINE_JSON",
         "added": 1680541981.063983,
         "license": "GPL-2.0",
-        "homepage": "https://github.com/Magisk-Modules-Alt-Repo/oneplusdotfix",
+        "homepage": "",
         "source": "https://github.com/Magisk-Modules-Alt-Repo/oneplusdotfix.git",
         "support": "https://github.com/Magisk-Modules-Alt-Repo/oneplusdotfix/issues",
         "donate": ""
@@ -2136,7 +2136,7 @@
         "type": "ONLINE_JSON",
         "added": 1680541982.658018,
         "license": "GPL-3.0",
-        "homepage": "https://github.com/Magisk-Modules-Alt-Repo/open_fonts",
+        "homepage": "",
         "source": "https://github.com/Magisk-Modules-Alt-Repo/open_fonts.git",
         "support": "https://github.com/Magisk-Modules-Alt-Repo/open_fonts/issues",
         "donate": "https://www.paypal.me/f3ff0"
@@ -2169,7 +2169,7 @@
         "type": "ONLINE_JSON",
         "added": 1680541984.243244,
         "license": "GPL-3.0",
-        "homepage": "https://github.com/Magisk-Modules-Alt-Repo/open_webview",
+        "homepage": "",
         "source": "https://github.com/Magisk-Modules-Alt-Repo/open_webview.git",
         "support": "https://github.com/Magisk-Modules-Alt-Repo/open_webview/issues",
         "donate": "https://www.paypal.me/f3ff0"
@@ -2209,7 +2209,7 @@
         "type": "GIT",
         "added": 1680541986.687548,
         "license": "MIT",
-        "homepage": "https://github.com/Magisk-Modules-Alt-Repo/pdx213_assistant_camera_remap",
+        "homepage": "",
         "source": "https://github.com/Magisk-Modules-Alt-Repo/pdx213_assistant_camera_remap.git",
         "support": "https://github.com/Magisk-Modules-Alt-Repo/pdx213_assistant_camera_remap/issues",
         "donate": ""
@@ -2235,7 +2235,7 @@
         "type": "GIT",
         "added": 1693757774.403082,
         "license": "MIT",
-        "homepage": "https://github.com/Magisk-Modules-Alt-Repo/perf-limit-xiaomi-12",
+        "homepage": "",
         "source": "https://github.com/Magisk-Modules-Alt-Repo/perf-limit-xiaomi-12.git",
         "support": "https://github.com/Magisk-Modules-Alt-Repo/perf-limit-xiaomi-12/issues",
         "donate": ""
@@ -2268,7 +2268,7 @@
         "type": "GIT",
         "added": 1692473027.318955,
         "license": "",
-        "homepage": "https://github.com/JoshuaDoes/pixel-tensor-audio-decompressor",
+        "homepage": "",
         "source": "https://github.com/Magisk-Modules-Alt-Repo/pixel-tensor-audio-decompressor.git",
         "support": "https://github.com/Magisk-Modules-Alt-Repo/pixel-tensor-audio-decompressor/issues",
         "donate": ""
@@ -2294,7 +2294,7 @@
         "type": "GIT",
         "added": 1680541990.741723,
         "license": "",
-        "homepage": "https://github.com/Magisk-Modules-Alt-Repo/qdl-ndk",
+        "homepage": "",
         "source": "https://github.com/Magisk-Modules-Alt-Repo/qdl-ndk.git",
         "support": "https://github.com/Magisk-Modules-Alt-Repo/qdl-ndk/issues",
         "donate": ""
@@ -2320,7 +2320,7 @@
         "type": "GIT",
         "added": 1680541996.470392,
         "license": "GPL-3.0",
-        "homepage": "https://github.com/Magisk-Modules-Alt-Repo/saturation",
+        "homepage": "",
         "source": "https://github.com/Magisk-Modules-Alt-Repo/saturation.git",
         "support": "https://github.com/Magisk-Modules-Alt-Repo/saturation/issues",
         "donate": ""
@@ -2346,7 +2346,7 @@
         "type": "ONLINE_JSON",
         "added": 1680541997.952613,
         "license": "MIT",
-        "homepage": "https://github.com/Magisk-Modules-Alt-Repo/selinux_mode",
+        "homepage": "",
         "source": "https://github.com/Magisk-Modules-Alt-Repo/selinux_mode.git",
         "support": "https://github.com/Magisk-Modules-Alt-Repo/selinux_mode/issues",
         "donate": ""
@@ -2372,7 +2372,7 @@
         "type": "GIT",
         "added": 1680542000.109128,
         "license": "GPL-3.0",
-        "homepage": "https://github.com/Magisk-Modules-Alt-Repo/sensitive_props",
+        "homepage": "",
         "source": "https://github.com/Magisk-Modules-Alt-Repo/sensitive_props.git",
         "support": "https://github.com/Magisk-Modules-Alt-Repo/sensitive_props/issues",
         "donate": ""
@@ -2398,7 +2398,7 @@
         "type": "GIT",
         "added": 1692473057.888212,
         "license": "GPL-3.0",
-        "homepage": "https://github.com/Magisk-Modules-Alt-Repo/Simple_BootloopSaver",
+        "homepage": "",
         "source": "https://github.com/Magisk-Modules-Alt-Repo/Simple_BootloopSaver.git",
         "support": "https://github.com/Magisk-Modules-Alt-Repo/Simple_BootloopSaver/issues",
         "donate": ""
@@ -2424,7 +2424,7 @@
         "type": "GIT",
         "added": 1693757817.384662,
         "license": "",
-        "homepage": "https://github.com/Magisk-Modules-Alt-Repo/smallbattery",
+        "homepage": "",
         "source": "https://github.com/Magisk-Modules-Alt-Repo/smallbattery.git",
         "support": "https://github.com/Magisk-Modules-Alt-Repo/smallbattery/issues",
         "donate": ""
@@ -2450,7 +2450,7 @@
         "type": "ONLINE_JSON",
         "added": 1680542003.892583,
         "license": "BSD-3-Clause",
-        "homepage": "https://github.com/Magisk-Modules-Alt-Repo/supl-replacer",
+        "homepage": "",
         "source": "https://github.com/Magisk-Modules-Alt-Repo/supl-replacer.git",
         "support": "https://github.com/Magisk-Modules-Alt-Repo/supl-replacer/issues",
         "donate": ""
@@ -2502,7 +2502,7 @@
         "type": "ONLINE_JSON",
         "added": 1680542011.678236,
         "license": "MIT",
-        "homepage": "https://github.com/Magisk-Modules-Alt-Repo/trichromelibrary-squoosh",
+        "homepage": "",
         "source": "https://github.com/Magisk-Modules-Alt-Repo/trichromelibrary-squoosh.git",
         "support": "https://github.com/Magisk-Modules-Alt-Repo/trichromelibrary-squoosh/issues",
         "donate": ""
@@ -2528,7 +2528,7 @@
         "type": "GIT",
         "added": 1680542013.722605,
         "license": "MIT",
-        "homepage": "https://github.com/Magisk-Modules-Alt-Repo/ttf-twemoji",
+        "homepage": "",
         "source": "https://github.com/Magisk-Modules-Alt-Repo/ttf-twemoji.git",
         "support": "https://github.com/Magisk-Modules-Alt-Repo/ttf-twemoji/issues",
         "donate": ""
@@ -2554,7 +2554,7 @@
         "type": "GIT",
         "added": 1680542015.813553,
         "license": "",
-        "homepage": "https://github.com/Magisk-Modules-Alt-Repo/unityfix",
+        "homepage": "",
         "source": "https://github.com/Magisk-Modules-Alt-Repo/unityfix.git",
         "support": "https://github.com/Magisk-Modules-Alt-Repo/unityfix/issues",
         "donate": ""
@@ -2580,7 +2580,7 @@
         "type": "GIT",
         "added": 1680542017.661028,
         "license": "",
-        "homepage": "https://github.com/Magisk-Modules-Alt-Repo/upx-ndk",
+        "homepage": "",
         "source": "https://github.com/Magisk-Modules-Alt-Repo/upx-ndk.git",
         "support": "https://github.com/Magisk-Modules-Alt-Repo/upx-ndk/issues",
         "donate": ""
@@ -2606,7 +2606,7 @@
         "type": "GIT",
         "added": 1692474560.264467,
         "license": "AGPL-3.0",
-        "homepage": "https://github.com/Magisk-Modules-Alt-Repo/usb-samplerate-unlocker",
+        "homepage": "",
         "source": "https://github.com/Magisk-Modules-Alt-Repo/usb-samplerate-unlocker.git",
         "support": "https://github.com/Magisk-Modules-Alt-Repo/usb-samplerate-unlocker/issues",
         "donate": ""
@@ -2646,7 +2646,7 @@
         "type": "GIT",
         "added": 1680542022.801648,
         "license": "GPL-3.0",
-        "homepage": "https://github.com/Magisk-Modules-Alt-Repo/vintf-bypass",
+        "homepage": "",
         "source": "https://github.com/Magisk-Modules-Alt-Repo/vintf-bypass.git",
         "support": "https://github.com/Magisk-Modules-Alt-Repo/vintf-bypass/issues",
         "donate": ""
@@ -2672,7 +2672,7 @@
         "type": "GIT",
         "added": 1680541901.213438,
         "license": "GPL-3.0",
-        "homepage": "https://github.com/VR-25/fbind",
+        "homepage": "",
         "source": "https://github.com/Magisk-Modules-Alt-Repo/fbind.git",
         "support": "https://github.com/Magisk-Modules-Alt-Repo/fbind/issues",
         "donate": "https://patreon.com/VR25"
@@ -2698,7 +2698,7 @@
         "type": "GIT",
         "added": 1693757874.905925,
         "license": "",
-        "homepage": "https://github.com/Magisk-Modules-Alt-Repo/wifi-bonding-nolog",
+        "homepage": "",
         "source": "https://github.com/Magisk-Modules-Alt-Repo/wifi-bonding-nolog.git",
         "support": "https://github.com/Magisk-Modules-Alt-Repo/wifi-bonding-nolog/issues",
         "donate": ""
@@ -2724,7 +2724,7 @@
         "type": "GIT",
         "added": 1680542026.215782,
         "license": "MIT",
-        "homepage": "https://github.com/ducaale/xh",
+        "homepage": "",
         "source": "https://github.com/Magisk-Modules-Alt-Repo/xhhttp.git",
         "support": "https://github.com/Magisk-Modules-Alt-Repo/xhhttp/issues",
         "donate": ""
@@ -2764,7 +2764,7 @@
         "type": "ONLINE_JSON",
         "added": 1692473114.97988,
         "license": "",
-        "homepage": "https://github.com/Magisk-Modules-Alt-Repo/xmlpak-RE",
+        "homepage": "",
         "source": "https://github.com/Magisk-Modules-Alt-Repo/xmlpak-RE.git",
         "support": "https://github.com/Magisk-Modules-Alt-Repo/xmlpak-RE/issues",
         "donate": ""
@@ -2797,7 +2797,7 @@
         "type": "GIT",
         "added": 1680542032.460808,
         "license": "",
-        "homepage": "https://github.com/Magisk-Modules-Alt-Repo/ytrevancedinject",
+        "homepage": "",
         "source": "https://github.com/Magisk-Modules-Alt-Repo/ytrevancedinject.git",
         "support": "https://github.com/Magisk-Modules-Alt-Repo/ytrevancedinject/issues",
         "donate": ""

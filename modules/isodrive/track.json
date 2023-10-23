@@ -2,7 +2,6 @@
   "id": "isodrive",
   "enable": true,
   "update_to": "git@github.com:Magisk-Modules-Alt-Repo/isodrive.git",
-  "homepage": "https://github.com/Magisk-Modules-Alt-Repo/isodrive",
   "source": "https://github.com/Magisk-Modules-Alt-Repo/isodrive.git",
   "support": "https://github.com/Magisk-Modules-Alt-Repo/isodrive/issues",
   "added": 1686562362.400679,

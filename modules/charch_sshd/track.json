@@ -3,7 +3,6 @@
   "enable": true,
   "update_to": "git@github.com:Magisk-Modules-Alt-Repo/charch_sshd.git",
   "license": "GPL-3.0",
-  "homepage": "https://github.com/Magisk-Modules-Alt-Repo/charch_sshd",
   "source": "https://github.com/Magisk-Modules-Alt-Repo/charch_sshd.git",
   "support": "https://github.com/Magisk-Modules-Alt-Repo/charch_sshd/issues",
   "added": 1680541865.81606,

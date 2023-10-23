@@ -3,7 +3,6 @@
   "enable": true,
   "update_to": "git@github.com:Magisk-Modules-Alt-Repo/backup.git",
   "license": "GPL-3.0",
-  "homepage": "https://github.com/Magisk-Modules-Alt-Repo/backup",
   "source": "https://github.com/Magisk-Modules-Alt-Repo/backup.git",
   "support": "https://github.com/Magisk-Modules-Alt-Repo/backup/issues",
   "added": 1680541851.002999,

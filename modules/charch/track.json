@@ -2,7 +2,6 @@
   "id": "charch",
   "enable": true,
   "update_to": "git@github.com:Magisk-Modules-Alt-Repo/charch.git",
-  "homepage": "https://github.com/Magisk-Modules-Alt-Repo/charch",
   "source": "https://github.com/Magisk-Modules-Alt-Repo/charch.git",
   "support": "https://github.com/Magisk-Modules-Alt-Repo/charch/issues",
   "added": 1680541858.886285,

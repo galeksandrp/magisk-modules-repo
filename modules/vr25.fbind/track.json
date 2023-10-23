@@ -3,7 +3,6 @@
   "enable": true,
   "update_to": "git@github.com:Magisk-Modules-Alt-Repo/fbind.git",
   "license": "GPL-3.0",
-  "homepage": "https://github.com/VR-25/fbind",
   "source": "https://github.com/Magisk-Modules-Alt-Repo/fbind.git",
   "support": "https://github.com/Magisk-Modules-Alt-Repo/fbind/issues",
   "donate": "https://patreon.com/VR25",

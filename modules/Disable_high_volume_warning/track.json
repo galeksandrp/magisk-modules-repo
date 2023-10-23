@@ -3,7 +3,6 @@
   "enable": true,
   "update_to": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Disable_high_volume_warning/main/update.json",
   "license": "GPL-3.0",
-  "homepage": "https://github.com/Magisk-Modules-Alt-Repo/Disable_high_volume_warning",
   "source": "https://github.com/Magisk-Modules-Alt-Repo/Disable_high_volume_warning.git",
   "support": "https://github.com/Magisk-Modules-Alt-Repo/Disable_high_volume_warning/issues",
   "added": 1692472836.181873

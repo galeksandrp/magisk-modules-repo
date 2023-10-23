@@ -2,7 +2,6 @@
   "id": "upx-ndk",
   "enable": true,
   "update_to": "git@github.com:Magisk-Modules-Alt-Repo/upx-ndk.git",
-  "homepage": "https://github.com/Magisk-Modules-Alt-Repo/upx-ndk",
   "source": "https://github.com/Magisk-Modules-Alt-Repo/upx-ndk.git",
   "support": "https://github.com/Magisk-Modules-Alt-Repo/upx-ndk/issues",
   "added": 1680542017.661028,

@@ -3,7 +3,6 @@
   "enable": true,
   "update_to": "git@github.com:Magisk-Modules-Alt-Repo/HideNavBar.git",
   "license": "GPL-3.0",
-  "homepage": "https://github.com/Magisk-Modules-Alt-Repo/HideNavBar",
   "source": "https://github.com/Magisk-Modules-Alt-Repo/HideNavBar.git",
   "support": "https://github.com/Magisk-Modules-Alt-Repo/HideNavBar/issues",
   "added": 1692474369.872873,

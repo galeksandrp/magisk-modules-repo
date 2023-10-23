@@ -3,7 +3,6 @@
   "enable": true,
   "update_to": "git@github.com:Magisk-Modules-Alt-Repo/Google-Sans.git",
   "license": "GPL-3.0",
-  "homepage": "https://github.com/Magisk-Modules-Alt-Repo/Google-Sans",
   "source": "https://github.com/Magisk-Modules-Alt-Repo/Google-Sans.git",
   "support": "https://github.com/Magisk-Modules-Alt-Repo/Google-Sans/issues",
   "added": 1680541918.690187,

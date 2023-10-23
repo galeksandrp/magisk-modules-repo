@@ -2,7 +2,6 @@
   "id": "NoStorageRestrict",
   "enable": true,
   "update_to": "git@github.com:Magisk-Modules-Alt-Repo/NoStorageRestrict.git",
-  "homepage": "https://github.com/Magisk-Modules-Alt-Repo/NoStorageRestrict",
   "source": "https://github.com/Magisk-Modules-Alt-Repo/NoStorageRestrict.git",
   "support": "https://github.com/Magisk-Modules-Alt-Repo/NoStorageRestrict/issues",
   "added": 1680541970.414424,

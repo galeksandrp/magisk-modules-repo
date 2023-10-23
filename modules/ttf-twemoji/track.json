@@ -3,7 +3,6 @@
   "enable": true,
   "update_to": "git@github.com:Magisk-Modules-Alt-Repo/ttf-twemoji.git",
   "license": "MIT",
-  "homepage": "https://github.com/Magisk-Modules-Alt-Repo/ttf-twemoji",
   "source": "https://github.com/Magisk-Modules-Alt-Repo/ttf-twemoji.git",
   "support": "https://github.com/Magisk-Modules-Alt-Repo/ttf-twemoji/issues",
   "added": 1680542013.722605,

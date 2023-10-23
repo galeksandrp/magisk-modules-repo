@@ -2,7 +2,6 @@
   "id": "Malwack",
   "enable": true,
   "update_to": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Malwack/main/update.json",
-  "homepage": "https://github.com/Magisk-Modules-Alt-Repo/Malwack",
   "source": "https://github.com/Magisk-Modules-Alt-Repo/Malwack.git",
   "support": "https://github.com/Magisk-Modules-Alt-Repo/Malwack/issues",
   "added": 1693757700.755931,

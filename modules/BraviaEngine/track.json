@@ -3,7 +3,6 @@
   "enable": true,
   "update_to": "git@github.com:Magisk-Modules-Alt-Repo/BraviaEngine.git",
   "license": "MIT",
-  "homepage": "https://github.com/Magisk-Modules-Alt-Repo/BraviaEngine",
   "source": "https://github.com/Magisk-Modules-Alt-Repo/BraviaEngine.git",
   "support": "https://github.com/Magisk-Modules-Alt-Repo/BraviaEngine/issues",
   "donate": "https://enggarsulistyo.github.io",

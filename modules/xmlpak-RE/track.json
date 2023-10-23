@@ -2,7 +2,6 @@
   "id": "xmlpak-RE",
   "enable": true,
   "update_to": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/xmlpak-RE/RE/update.json",
-  "homepage": "https://github.com/Magisk-Modules-Alt-Repo/xmlpak-RE",
   "source": "https://github.com/Magisk-Modules-Alt-Repo/xmlpak-RE.git",
   "support": "https://github.com/Magisk-Modules-Alt-Repo/xmlpak-RE/issues",
   "added": 1692473114.97988,

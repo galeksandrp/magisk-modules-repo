@@ -3,7 +3,6 @@
   "enable": true,
   "update_to": "git@github.com:Magisk-Modules-Alt-Repo/mkshrc.git",
   "license": "GPL-3.0",
-  "homepage": "https://github.com/Magisk-Modules-Alt-Repo/mkshrc",
   "source": "https://github.com/Magisk-Modules-Alt-Repo/mkshrc.git",
   "support": "https://github.com/Magisk-Modules-Alt-Repo/mkshrc/issues",
   "added": 1680541961.188782,

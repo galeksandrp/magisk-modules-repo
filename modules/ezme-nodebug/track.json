@@ -3,7 +3,6 @@
   "enable": true,
   "update_to": "git@github.com:Magisk-Modules-Alt-Repo/ezme-nodebug.git",
   "license": "MIT",
-  "homepage": "https://github.com/Magisk-Modules-Alt-Repo/ezme-nodebug",
   "source": "https://github.com/Magisk-Modules-Alt-Repo/ezme-nodebug.git",
   "support": "https://github.com/Magisk-Modules-Alt-Repo/ezme-nodebug/issues",
   "added": 1680541898.004424,

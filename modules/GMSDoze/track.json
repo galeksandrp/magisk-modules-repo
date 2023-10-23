@@ -3,7 +3,6 @@
   "enable": true,
   "update_to": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/GMSDoze/main/update.json",
   "license": "GPL-2.0",
-  "homepage": "https://github.com/Magisk-Modules-Alt-Repo/GMSDoze",
   "source": "https://github.com/Magisk-Modules-Alt-Repo/GMSDoze.git",
   "support": "https://github.com/Magisk-Modules-Alt-Repo/GMSDoze/issues",
   "added": 1680541915.965666,

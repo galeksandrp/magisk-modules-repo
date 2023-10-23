@@ -3,7 +3,6 @@
   "enable": true,
   "update_to": "git@github.com:Magisk-Modules-Alt-Repo/data_isolation_support.git",
   "license": "GPL-3.0",
-  "homepage": "https://github.com/Magisk-Modules-Alt-Repo/data_isolation_support",
   "source": "https://github.com/Magisk-Modules-Alt-Repo/data_isolation_support.git",
   "support": "https://github.com/Magisk-Modules-Alt-Repo/data_isolation_support/issues",
   "added": 1680541885.513692,

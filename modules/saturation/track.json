@@ -3,7 +3,6 @@
   "enable": true,
   "update_to": "git@github.com:Magisk-Modules-Alt-Repo/saturation.git",
   "license": "GPL-3.0",
-  "homepage": "https://github.com/Magisk-Modules-Alt-Repo/saturation",
   "source": "https://github.com/Magisk-Modules-Alt-Repo/saturation.git",
   "support": "https://github.com/Magisk-Modules-Alt-Repo/saturation/issues",
   "added": 1680541996.470392,

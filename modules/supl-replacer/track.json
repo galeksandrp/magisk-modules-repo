@@ -3,7 +3,6 @@
   "enable": true,
   "update_to": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/supl-replacer/master/update.json",
   "license": "BSD-3-Clause",
-  "homepage": "https://github.com/Magisk-Modules-Alt-Repo/supl-replacer",
   "source": "https://github.com/Magisk-Modules-Alt-Repo/supl-replacer.git",
   "support": "https://github.com/Magisk-Modules-Alt-Repo/supl-replacer/issues",
   "added": 1680542003.892583,

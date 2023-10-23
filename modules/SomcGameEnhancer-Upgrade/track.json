@@ -3,7 +3,6 @@
   "enable": true,
   "update_to": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/SomcGameEnhancer-Upgrade/main/update.json",
   "license": "MIT",
-  "homepage": "https://github.com/Magisk-Modules-Alt-Repo/SomcGameEnhancer-Upgrade",
   "source": "https://github.com/Magisk-Modules-Alt-Repo/SomcGameEnhancer-Upgrade.git",
   "support": "https://github.com/Magisk-Modules-Alt-Repo/SomcGameEnhancer-Upgrade/issues",
   "added": 1680542001.843641,

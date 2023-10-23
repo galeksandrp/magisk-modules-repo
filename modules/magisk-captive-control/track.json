@@ -3,7 +3,6 @@
   "enable": true,
   "update_to": "git@github.com:Magisk-Modules-Alt-Repo/Magisk-Captive-Control.git",
   "license": "GPL-3.0",
-  "homepage": "https://github.com/Magisk-Modules-Alt-Repo/Magisk-Captive-Control",
   "source": "https://github.com/Magisk-Modules-Alt-Repo/Magisk-Captive-Control.git",
   "support": "https://github.com/Magisk-Modules-Alt-Repo/Magisk-Captive-Control/issues",
   "added": 1680541942.177756,

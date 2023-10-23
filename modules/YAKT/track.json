@@ -3,7 +3,6 @@
   "enable": true,
   "update_to": "git@github.com:Magisk-Modules-Alt-Repo/YAKT.git",
   "license": "MIT",
-  "homepage": "https://github.com/Magisk-Modules-Alt-Repo/YAKT",
   "source": "https://github.com/Magisk-Modules-Alt-Repo/YAKT.git",
   "support": "https://github.com/Magisk-Modules-Alt-Repo/YAKT/issues",
   "added": 1680542028.263412,

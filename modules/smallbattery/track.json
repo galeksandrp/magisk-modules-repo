@@ -2,7 +2,6 @@
   "id": "smallbattery",
   "enable": true,
   "update_to": "git@github.com:Magisk-Modules-Alt-Repo/smallbattery.git",
-  "homepage": "https://github.com/Magisk-Modules-Alt-Repo/smallbattery",
   "source": "https://github.com/Magisk-Modules-Alt-Repo/smallbattery.git",
   "support": "https://github.com/Magisk-Modules-Alt-Repo/smallbattery/issues",
   "added": 1693757817.384662,

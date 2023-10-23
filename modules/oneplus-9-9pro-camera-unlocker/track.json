@@ -3,7 +3,6 @@
   "enable": true,
   "update_to": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/oneplus-9-9pro-camera-unlocker/master/update.json",
   "license": "GPL-2.0",
-  "homepage": "https://github.com/Magisk-Modules-Alt-Repo/oneplus-9-9pro-camera-unlocker",
   "source": "https://github.com/Magisk-Modules-Alt-Repo/oneplus-9-9pro-camera-unlocker.git",
   "support": "https://github.com/Magisk-Modules-Alt-Repo/oneplus-9-9pro-camera-unlocker/issues",
   "added": 1680541977.582204,

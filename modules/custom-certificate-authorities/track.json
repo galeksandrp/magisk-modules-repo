@@ -3,7 +3,6 @@
   "enable": true,
   "update_to": "git@github.com:Magisk-Modules-Alt-Repo/custom-certificate-authorities.git",
   "license": "GPL-3.0",
-  "homepage": "https://github.com/whalehub/custom-certificate-authorities",
   "source": "https://github.com/Magisk-Modules-Alt-Repo/custom-certificate-authorities.git",
   "support": "https://github.com/Magisk-Modules-Alt-Repo/custom-certificate-authorities/issues",
   "added": 1680541876.963847,
