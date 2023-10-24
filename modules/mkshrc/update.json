@@ -3,13 +3,6 @@
   "timestamp": 1685709020.0,
   "versions": [
     {
-      "timestamp": 1678722144.0,
-      "version": "1.3.4",
-      "versionCode": 134,
-      "zipUrl": "https://ya0211.github.io/magisk-modules-alt-repo/modules/mkshrc/1.3.4_134.zip",
-      "changelog": ""
-    },
-    {
       "timestamp": 1685709020.0,
       "version": "1.3.5",
       "versionCode": 135,
@@ -21,6 +14,13 @@
       "version": "1.3.6",
       "versionCode": 136,
       "zipUrl": "https://ya0211.github.io/magisk-modules-alt-repo/modules/mkshrc/1.3.6_136.zip",
+      "changelog": ""
+    },
+    {
+      "timestamp": 1698172968.0,
+      "version": "1.3.7",
+      "versionCode": 137,
+      "zipUrl": "https://ya0211.github.io/magisk-modules-alt-repo/modules/mkshrc/1.3.7_137.zip",
       "changelog": ""
     }
   ]

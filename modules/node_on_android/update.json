@@ -3,13 +3,6 @@
   "timestamp": 1692090808.0,
   "versions": [
     {
-      "timestamp": 1694966927.0,
-      "version": "1.5.0",
-      "versionCode": 150,
-      "zipUrl": "https://ya0211.github.io/magisk-modules-alt-repo/modules/node_on_android/1.5.0_150.zip",
-      "changelog": ""
-    },
-    {
       "timestamp": 1696175366.0,
       "version": "1.5.1",
       "versionCode": 151,
@@ -21,6 +14,13 @@
       "version": "1.5.2",
       "versionCode": 152,
       "zipUrl": "https://ya0211.github.io/magisk-modules-alt-repo/modules/node_on_android/1.5.2_152.zip",
+      "changelog": ""
+    },
+    {
+      "timestamp": 1698172923.0,
+      "version": "1.5.3",
+      "versionCode": 153,
+      "zipUrl": "https://ya0211.github.io/magisk-modules-alt-repo/modules/node_on_android/1.5.3_153.zip",
       "changelog": ""
     }
   ]
