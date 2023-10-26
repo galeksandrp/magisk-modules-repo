@@ -15,6 +15,13 @@
       "versionCode": 30320,
       "zipUrl": "https://ya0211.github.io/magisk-modules-alt-repo/modules/microg_installer/Revived_3.3.2-0_30320.zip",
       "changelog": ""
+    },
+    {
+      "timestamp": 1695550311.0,
+      "version": "Revived 3.4.0-0",
+      "versionCode": 30400,
+      "zipUrl": "https://ya0211.github.io/magisk-modules-alt-repo/modules/microg_installer/Revived_3.4.0-0_30400.zip",
+      "changelog": "https://ya0211.github.io/magisk-modules-alt-repo/modules/microg_installer/Revived_3.4.0-0_30400.md"
     }
   ]
 }
