@@ -2,7 +2,7 @@
   "name": "Magisk Modules Alt Repo",
   "metadata": {
     "version": 1,
-    "timestamp": 1698381790.425815
+    "timestamp": 1698381996.411541
   },
   "modules": [
     {
@@ -392,32 +392,6 @@
       "description": "Aplica Doze a los Servicios de Google Play (GMS), maximizando bater\u00eda. INSTALAR LUEGO DE CONFIGURAR CUENTA GOOGLE. Esta versi\u00f3n bloquea 'Find My Device' de Google.",
       "track": {
         "type": "ONLINE_JSON",
-        "added": 1698381457.930772,
-        "license": "GPL-2.0",
-        "homepage": "",
-        "source": "https://github.com/Magisk-Modules-Alt-Repo/GMS-Doze_Block_FindMyDevice.git",
-        "support": "https://github.com/Magisk-Modules-Alt-Repo/GMS-Doze_Block_FindMyDevice/issues",
-        "donate": ""
-      },
-      "versions": [
-        {
-          "timestamp": 1683468277.0,
-          "version": "v1.4B",
-          "versionCode": 141,
-          "zipUrl": "https://ya0211.github.io/magisk-modules-alt-repo/modules/GMS-Doze_Block_FindMyDevice/v1.4B_141.zip",
-          "changelog": ""
-        }
-      ]
-    },
-    {
-      "id": "GMSDozeBlockFind",
-      "name": "GMS Doze (Bloquea \"Find My Device\")",
-      "version": "v1.4B",
-      "versionCode": 141,
-      "author": "CrazybytesVE",
-      "description": "Aplica Doze a los Servicios de Google Play (GMS), maximizando bater\u00eda. INSTALAR LUEGO DE CONFIGURAR CUENTA GOOGLE. Esta versi\u00f3n bloquea 'Find My Device' de Google.",
-      "track": {
-        "type": "ONLINE_JSON",
         "added": 1680541914.42378,
         "license": "GPL-2.0",
         "homepage": "",
@@ -667,58 +641,6 @@
           "version": "v1.1",
           "versionCode": 11,
           "zipUrl": "https://ya0211.github.io/magisk-modules-alt-repo/modules/NavBar_Resize/v1.1_11.zip",
-          "changelog": ""
-        }
-      ]
-    },
-    {
-      "id": "NavBar_Resize",
-      "name": "36DPI NavBar AOSP",
-      "version": "v1.1",
-      "versionCode": 11,
-      "author": "CrazyBytesVE",
-      "description": "Barra de Navegaci\u00f3n reducida a 36DPI, compatible con Android 8 y superiores. Probado en ROMs AOSP.",
-      "track": {
-        "type": "ONLINE_JSON",
-        "added": 1698381472.687965,
-        "license": "GPL-2.0",
-        "homepage": "",
-        "source": "https://github.com/Magisk-Modules-Alt-Repo/NavBar_Resize_AOSP.git",
-        "support": "https://github.com/Magisk-Modules-Alt-Repo/NavBar_Resize_AOSP/issues",
-        "donate": ""
-      },
-      "versions": [
-        {
-          "timestamp": 1661028155.0,
-          "version": "v1.1",
-          "versionCode": 11,
-          "zipUrl": "https://ya0211.github.io/magisk-modules-alt-repo/modules/NavBar_Resize_AOSP/v1.1_11.zip",
-          "changelog": ""
-        }
-      ]
-    },
-    {
-      "id": "NavBar_Resize_Miui10-11-12-13",
-      "name": "36DPI NavBar para Miui",
-      "version": "v2.0",
-      "versionCode": 2,
-      "author": "CrazyBytesVE",
-      "description": "Barra de Navegaci\u00f3n reducida a 36DPI, compatible con Android 8 y superiores (12.1 compatible). Probado en ROMs Miui 10 o superior (Miui 13 compatible).",
-      "track": {
-        "type": "ONLINE_JSON",
-        "added": 1698381472.632293,
-        "license": "GPL-2.0",
-        "homepage": "",
-        "source": "https://github.com/Magisk-Modules-Alt-Repo/NavBar_Resize_MIUI.git",
-        "support": "https://github.com/Magisk-Modules-Alt-Repo/NavBar_Resize_MIUI/issues",
-        "donate": ""
-      },
-      "versions": [
-        {
-          "timestamp": 1665058819.0,
-          "version": "v2.0",
-          "versionCode": 2,
-          "zipUrl": "https://ya0211.github.io/magisk-modules-alt-repo/modules/NavBar_Resize_MIUI/v2.0_2.zip",
           "changelog": ""
         }
       ]
@@ -1628,32 +1550,6 @@
       ]
     },
     {
-      "id": "font-koruri-n",
-      "name": "Koruri Font",
-      "version": "v25",
-      "versionCode": 25,
-      "author": "lindwurm,AndroPlus",
-      "description": "Koruri font patch for Japanese users. Koruri is open source Japanese font.",
-      "track": {
-        "type": "ONLINE_JSON",
-        "added": 1698381467.722,
-        "license": "WTFPL",
-        "homepage": "",
-        "source": "https://github.com/Magisk-Modules-Alt-Repo/magisk-module-koruri-font.git",
-        "support": "https://github.com/Magisk-Modules-Alt-Repo/magisk-module-koruri-font/issues",
-        "donate": "https://github.com/sponsors/AndroPlus-org"
-      },
-      "versions": [
-        {
-          "timestamp": 1677543460.0,
-          "version": "v25",
-          "versionCode": 25,
-          "zipUrl": "https://ya0211.github.io/magisk-modules-alt-repo/modules/magisk-module-koruri-font/v25_25.zip",
-          "changelog": "https://ya0211.github.io/magisk-modules-alt-repo/modules/magisk-module-koruri-font/v25_25.md"
-        }
-      ]
-    },
-    {
       "id": "font-mejiro-oshi",
       "name": "Mejiro Font",
       "version": "v19",
@@ -1676,32 +1572,6 @@
           "versionCode": 19,
           "zipUrl": "https://ya0211.github.io/magisk-modules-alt-repo/modules/font-mejiro-oshi/v19_19.zip",
           "changelog": "https://ya0211.github.io/magisk-modules-alt-repo/modules/font-mejiro-oshi/v19_19.md"
-        }
-      ]
-    },
-    {
-      "id": "font-mejiro-oshi",
-      "name": "Mejiro Font",
-      "version": "v19",
-      "versionCode": 19,
-      "author": "AndroPlus",
-      "description": "Mejiro font patch for Japanese users.",
-      "track": {
-        "type": "ONLINE_JSON",
-        "added": 1698381468.011662,
-        "license": "WTFPL",
-        "homepage": "",
-        "source": "https://github.com/Magisk-Modules-Alt-Repo/magisk-module-mejiro-font.git",
-        "support": "https://github.com/Magisk-Modules-Alt-Repo/magisk-module-mejiro-font/issues",
-        "donate": "https://github.com/sponsors/AndroPlus-org"
-      },
-      "versions": [
-        {
-          "timestamp": 1677543320.0,
-          "version": "v19",
-          "versionCode": 19,
-          "zipUrl": "https://ya0211.github.io/magisk-modules-alt-repo/modules/magisk-module-mejiro-font/v19_19.zip",
-          "changelog": "https://ya0211.github.io/magisk-modules-alt-repo/modules/magisk-module-mejiro-font/v19_19.md"
         }
       ]
     },
@@ -1903,32 +1773,6 @@
       "description": "A Magisk Module aiming to control (change/disable) Android Captive Portal Detection.",
       "track": {
         "type": "GIT",
-        "added": 1698381465.288834,
-        "license": "GPL-3.0",
-        "homepage": "",
-        "source": "https://github.com/Magisk-Modules-Alt-Repo/Magisk-Captive-Control.git",
-        "support": "https://github.com/Magisk-Modules-Alt-Repo/Magisk-Captive-Control/issues",
-        "donate": ""
-      },
-      "versions": [
-        {
-          "timestamp": 1604596410.0,
-          "version": "v1.0.0",
-          "versionCode": 100,
-          "zipUrl": "https://ya0211.github.io/magisk-modules-alt-repo/modules/Magisk-Captive-Control/v1.0.0_100.zip",
-          "changelog": ""
-        }
-      ]
-    },
-    {
-      "id": "magisk-captive-control",
-      "name": "Magisk Captive Control (MCC)",
-      "version": "v1.0.0",
-      "versionCode": 100,
-      "author": "Atrate",
-      "description": "A Magisk Module aiming to control (change/disable) Android Captive Portal Detection.",
-      "track": {
-        "type": "GIT",
         "added": 1680541942.177756,
         "license": "GPL-3.0",
         "homepage": "",
@@ -1942,32 +1786,6 @@
           "version": "v1.0.0",
           "versionCode": 100,
           "zipUrl": "https://ya0211.github.io/magisk-modules-alt-repo/modules/magisk-captive-control/v1.0.0_100.zip",
-          "changelog": ""
-        }
-      ]
-    },
-    {
-      "id": "magisk-drm-disabler",
-      "name": "Magisk DRM Disabler (MDD)",
-      "version": "v1.3.1",
-      "versionCode": 131,
-      "author": "Atrate",
-      "description": "A Magisk Module aiming to eliminate DRM from Android systemlessly.",
-      "track": {
-        "type": "GIT",
-        "added": 1698381465.793138,
-        "license": "GPL-3.0",
-        "homepage": "https://gitlab.com/atrate/magisk-drm-disabler",
-        "source": "https://github.com/Magisk-Modules-Alt-Repo/Magisk-DRM-Disabler.git",
-        "support": "https://github.com/Magisk-Modules-Alt-Repo/Magisk-DRM-Disabler/issues",
-        "donate": ""
-      },
-      "versions": [
-        {
-          "timestamp": 1612778235.0,
-          "version": "v1.3.1",
-          "versionCode": 131,
-          "zipUrl": "https://ya0211.github.io/magisk-modules-alt-repo/modules/Magisk-DRM-Disabler/v1.3.1_131.zip",
           "changelog": ""
         }
       ]
@@ -2060,32 +1878,6 @@
           "version": "2.3",
           "versionCode": 10,
           "zipUrl": "https://ya0211.github.io/magisk-modules-alt-repo/modules/magisk_proc_monitor/2.3_10.zip",
-          "changelog": ""
-        }
-      ]
-    },
-    {
-      "id": "magiskhide",
-      "name": "MagiskHide",
-      "version": "1.10.3",
-      "versionCode": 16,
-      "author": "HuskyDG @MagiskDelta",
-      "description": "Ptrace-based MagiskHide, allows hiding root without need to enable Zygisk. Read DenyList as hidelist. Android 11+ is recommended.",
-      "track": {
-        "type": "GIT",
-        "added": 1698381468.626347,
-        "license": "GPL-3.0",
-        "homepage": "",
-        "source": "https://github.com/Magisk-Modules-Alt-Repo/MagiskHide.git",
-        "support": "https://github.com/Magisk-Modules-Alt-Repo/MagiskHide/issues",
-        "donate": ""
-      },
-      "versions": [
-        {
-          "timestamp": 1677950994.0,
-          "version": "1.10.3",
-          "versionCode": 16,
-          "zipUrl": "https://ya0211.github.io/magisk-modules-alt-repo/modules/MagiskHide/1.10.3_16.zip",
           "changelog": ""
         }
       ]
@@ -2218,32 +2010,6 @@
           "version": "1.3.7",
           "versionCode": 137,
           "zipUrl": "https://ya0211.github.io/magisk-modules-alt-repo/modules/mkshrc/1.3.7_137.zip",
-          "changelog": ""
-        }
-      ]
-    },
-    {
-      "id": "node_on_android",
-      "name": "Systemless Node.js",
-      "version": "1.5.3",
-      "versionCode": 153,
-      "author": "Der_Googler",
-      "description": "Node.js is a cross-platform, open-source server environment that can run on Windows, Linux, Unix, macOS, and more.",
-      "track": {
-        "type": "GIT",
-        "added": 1698381473.587731,
-        "license": "MIT",
-        "homepage": "",
-        "source": "https://github.com/Magisk-Modules-Alt-Repo/node.git",
-        "support": "https://github.com/Magisk-Modules-Alt-Repo/node/issues",
-        "donate": ""
-      },
-      "versions": [
-        {
-          "timestamp": 1698270663.0,
-          "version": "1.5.3",
-          "versionCode": 153,
-          "zipUrl": "https://ya0211.github.io/magisk-modules-alt-repo/modules/node/1.5.3_153.zip",
           "changelog": ""
         }
       ]
@@ -2637,32 +2403,6 @@
       "description": "Protect your system from bootloop caused by Magisk modules by turning off all your modules and restart your system if bootloop is detected.",
       "track": {
         "type": "GIT",
-        "added": 1698381484.433002,
-        "license": "GPL-3.0",
-        "homepage": "",
-        "source": "https://github.com/Magisk-Modules-Alt-Repo/Simple_BootloopSaver.git",
-        "support": "https://github.com/Magisk-Modules-Alt-Repo/Simple_BootloopSaver/issues",
-        "donate": ""
-      },
-      "versions": [
-        {
-          "timestamp": 1690305811.0,
-          "version": "v2",
-          "versionCode": 3,
-          "zipUrl": "https://ya0211.github.io/magisk-modules-alt-repo/modules/Simple_BootloopSaver/v2_3.zip",
-          "changelog": ""
-        }
-      ]
-    },
-    {
-      "id": "simple_bootloopsaver",
-      "name": "Simple Bootloop Saver",
-      "version": "v2",
-      "versionCode": 3,
-      "author": "ez-me",
-      "description": "Protect your system from bootloop caused by Magisk modules by turning off all your modules and restart your system if bootloop is detected.",
-      "track": {
-        "type": "GIT",
         "added": 1692473057.888212,
         "license": "GPL-3.0",
         "homepage": "",
@@ -2924,32 +2664,6 @@
           "version": "v1.1",
           "versionCode": 2,
           "zipUrl": "https://ya0211.github.io/magisk-modules-alt-repo/modules/vintf-bypass/v1.1_2.zip",
-          "changelog": ""
-        }
-      ]
-    },
-    {
-      "id": "vr25.fbind",
-      "name": "fbind",
-      "version": "v2021.12.6",
-      "versionCode": 202112060,
-      "author": "VR25 @ xda-developers",
-      "description": "fbind is a versatile mounting utility for folders, disk images, LUKS/LUKS2 encrypted volumes, regular partitions and more.",
-      "track": {
-        "type": "GIT",
-        "added": 1698381454.100495,
-        "license": "GPL-3.0",
-        "homepage": "https://github.com/VR-25/fbind",
-        "source": "https://github.com/Magisk-Modules-Alt-Repo/fbind.git",
-        "support": "https://github.com/Magisk-Modules-Alt-Repo/fbind/issues",
-        "donate": "https://patreon.com/VR25"
-      },
-      "versions": [
-        {
-          "timestamp": 1638809703.0,
-          "version": "v2021.12.6",
-          "versionCode": 202112060,
-          "zipUrl": "https://ya0211.github.io/magisk-modules-alt-repo/modules/fbind/v2021.12.6_202112060.zip",
           "changelog": ""
         }
       ]
