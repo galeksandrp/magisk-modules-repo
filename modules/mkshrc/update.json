@@ -3,13 +3,6 @@
   "timestamp": 1685709020.0,
   "versions": [
     {
-      "timestamp": 1685709020.0,
-      "version": "1.3.5",
-      "versionCode": 135,
-      "zipUrl": "https://mrepoapp.github.io/magisk-modules-alt-repo/modules/mkshrc/1.3.5_135.zip",
-      "changelog": ""
-    },
-    {
       "timestamp": 1694970375.0,
       "version": "1.3.6",
       "versionCode": 136,
@@ -21,6 +14,13 @@
       "version": "1.3.7",
       "versionCode": 137,
       "zipUrl": "https://mrepoapp.github.io/magisk-modules-alt-repo/modules/mkshrc/1.3.7_137.zip",
+      "changelog": ""
+    },
+    {
+      "timestamp": 1698535694.0,
+      "version": "1.4.7",
+      "versionCode": 147,
+      "zipUrl": "https://mrepoapp.github.io/magisk-modules-alt-repo/modules/mkshrc/1.4.7_147.zip",
       "changelog": ""
     }
   ]
