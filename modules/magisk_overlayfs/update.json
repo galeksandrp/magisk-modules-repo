@@ -1,20 +1,20 @@
 {
   "id": "magisk_overlayfs",
+  "timestamp": 1686805349.0,
   "versions": [
     {
       "timestamp": 1685343500.0,
       "version": "v3.0.3",
       "versionCode": 30003,
-      "zipUrl": "https://ya0211.github.io/magisk-modules-alt-repo/modules/magisk_overlayfs/v3.0.3_30003.zip",
+      "zipUrl": "https://mrepoapp.github.io/magisk-modules-alt-repo/modules/magisk_overlayfs/v3.0.3_30003.zip",
       "changelog": ""
     },
     {
       "timestamp": 1686805349.0,
       "version": "v3.1.2",
       "versionCode": 30102,
-      "zipUrl": "https://ya0211.github.io/magisk-modules-alt-repo/modules/magisk_overlayfs/v3.1.2_30102.zip",
+      "zipUrl": "https://mrepoapp.github.io/magisk-modules-alt-repo/modules/magisk_overlayfs/v3.1.2_30102.zip",
       "changelog": ""
     }
-  ],
-  "timestamp": 1686805349.0
+  ]
 }
