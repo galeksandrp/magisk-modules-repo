@@ -2,7 +2,7 @@
   "name": "Magisk Modules Alt Repo (mirror)",
   "metadata": {
     "version": 1,
-    "timestamp": 1700082809.62971
+    "timestamp": 1700169206.97926
   },
   "modules": [
     {
@@ -1937,10 +1937,10 @@
     {
       "id": "microg_installer",
       "name": "microG Installer Revived",
-      "version": "Revived 3.4.0-0",
-      "versionCode": 30400,
+      "version": "Revived 3.4.1-0",
+      "versionCode": 30410,
       "author": "nift4",
-      "description": "Install microG GmsCore, GsfProxy, FakeStore (or Play Store if you want so) and MapsV1 to /system/",
+      "description": "Install microG GmsCore, Companion (or Play Store if you want so), GsfProxy and MapsV1 to /system/",
       "track": {
         "type": "ONLINE_JSON",
         "added": 1680541955.313628,
@@ -1951,13 +1951,6 @@
         "donate": ""
       },
       "versions": [
-        {
-          "timestamp": 1675354588.0,
-          "version": "Revived 3.2.0-0",
-          "versionCode": 30200,
-          "zipUrl": "https://mrepoapp.github.io/magisk-modules-alt-repo/modules/microg_installer/Revived_3.2.0-0_30200.zip",
-          "changelog": ""
-        },
         {
           "timestamp": 1685780590.0,
           "version": "Revived 3.3.2-0",
@@ -1971,6 +1964,13 @@
           "versionCode": 30400,
           "zipUrl": "https://mrepoapp.github.io/magisk-modules-alt-repo/modules/microg_installer/Revived_3.4.0-0_30400.zip",
           "changelog": "https://mrepoapp.github.io/magisk-modules-alt-repo/modules/microg_installer/Revived_3.4.0-0_30400.md"
+        },
+        {
+          "timestamp": 1700164226.0,
+          "version": "Revived 3.4.1-0",
+          "versionCode": 30410,
+          "zipUrl": "https://mrepoapp.github.io/magisk-modules-alt-repo/modules/microg_installer/Revived_3.4.1-0_30410.zip",
+          "changelog": "https://mrepoapp.github.io/magisk-modules-alt-repo/modules/microg_installer/Revived_3.4.1-0_30410.md"
         }
       ]
     },
