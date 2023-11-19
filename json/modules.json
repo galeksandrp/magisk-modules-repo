@@ -2,7 +2,7 @@
   "name": "Magisk Modules Alt Repo (mirror)",
   "metadata": {
     "version": 1,
-    "timestamp": 1700341945.57675
+    "timestamp": 1700379772.269783
   },
   "modules": [
     {
@@ -1975,86 +1975,6 @@
       ]
     },
     {
-      "id": "mkshrc",
-      "name": "Systemless Mkshrc",
-      "version": "1.4.8",
-      "versionCode": 148,
-      "author": "Der_Googler",
-      "description": "Provide a systemless implementation of mkshrc for a better terminal experience on Android devices.",
-      "track": {
-        "type": "GIT",
-        "added": 1680541961.188782,
-        "license": "GPL-3.0",
-        "homepage": "",
-        "source": "https://github.com/Magisk-Modules-Alt-Repo/mkshrc.git",
-        "support": "https://github.com/Magisk-Modules-Alt-Repo/mkshrc/issues",
-        "donate": ""
-      },
-      "versions": [
-        {
-          "timestamp": 1698172968.0,
-          "version": "1.3.7",
-          "versionCode": 137,
-          "zipUrl": "https://mrepoapp.github.io/magisk-modules-alt-repo/modules/mkshrc/1.3.7_137.zip",
-          "changelog": ""
-        },
-        {
-          "timestamp": 1698535694.0,
-          "version": "1.4.7",
-          "versionCode": 147,
-          "zipUrl": "https://mrepoapp.github.io/magisk-modules-alt-repo/modules/mkshrc/1.4.7_147.zip",
-          "changelog": ""
-        },
-        {
-          "timestamp": 1700327729.0,
-          "version": "1.4.8",
-          "versionCode": 148,
-          "zipUrl": "https://mrepoapp.github.io/magisk-modules-alt-repo/modules/mkshrc/1.4.8_148.zip",
-          "changelog": ""
-        }
-      ]
-    },
-    {
-      "id": "node_on_android",
-      "name": "Systemless Node.js",
-      "version": "1.5.4",
-      "versionCode": 154,
-      "author": "Der_Googler",
-      "description": "Node.js is a cross-platform, open-source server environment that can run on Windows, Linux, Unix, macOS, and more.",
-      "track": {
-        "type": "GIT",
-        "added": 1692472986.529323,
-        "license": "MIT",
-        "homepage": "",
-        "source": "https://github.com/Magisk-Modules-Alt-Repo/node.git",
-        "support": "https://github.com/Magisk-Modules-Alt-Repo/node/issues",
-        "donate": ""
-      },
-      "versions": [
-        {
-          "timestamp": 1696588537.0,
-          "version": "1.5.2",
-          "versionCode": 152,
-          "zipUrl": "https://mrepoapp.github.io/magisk-modules-alt-repo/modules/node_on_android/1.5.2_152.zip",
-          "changelog": ""
-        },
-        {
-          "timestamp": 1698172923.0,
-          "version": "1.5.3",
-          "versionCode": 153,
-          "zipUrl": "https://mrepoapp.github.io/magisk-modules-alt-repo/modules/node_on_android/1.5.3_153.zip",
-          "changelog": ""
-        },
-        {
-          "timestamp": 1700327868.0,
-          "version": "1.5.4",
-          "versionCode": 154,
-          "zipUrl": "https://mrepoapp.github.io/magisk-modules-alt-repo/modules/node_on_android/1.5.4_154.zip",
-          "changelog": ""
-        }
-      ]
-    },
-    {
       "id": "oneplus-8series-9r-camera-unlocker",
       "name": "OnePlus 8 Series & 9R Camera Unlocker",
       "version": "v1.2",
@@ -2723,46 +2643,6 @@
           "version": "v8",
           "versionCode": 8,
           "zipUrl": "https://mrepoapp.github.io/magisk-modules-alt-repo/modules/wifi-bonding-nolog/v8_8.zip",
-          "changelog": ""
-        }
-      ]
-    },
-    {
-      "id": "xhhttp",
-      "name": "xh for Android",
-      "version": "v0.19.2",
-      "versionCode": 192,
-      "author": "ducaale & Der_Googler",
-      "description": "Friendly and fast tool for sending HTTP requests",
-      "track": {
-        "type": "GIT",
-        "added": 1680542026.215782,
-        "license": "MIT",
-        "homepage": "https://github.com/ducaale/xh",
-        "source": "https://github.com/Magisk-Modules-Alt-Repo/xhhttp.git",
-        "support": "https://github.com/Magisk-Modules-Alt-Repo/xhhttp/issues",
-        "donate": ""
-      },
-      "versions": [
-        {
-          "timestamp": 1678725873.0,
-          "version": "v0.18.0",
-          "versionCode": 180,
-          "zipUrl": "https://mrepoapp.github.io/magisk-modules-alt-repo/modules/xhhttp/v0.18.0_180.zip",
-          "changelog": ""
-        },
-        {
-          "timestamp": 1697642683.0,
-          "version": "v0.18.1",
-          "versionCode": 181,
-          "zipUrl": "https://mrepoapp.github.io/magisk-modules-alt-repo/modules/xhhttp/v0.18.1_181.zip",
-          "changelog": ""
-        },
-        {
-          "timestamp": 1697918539.0,
-          "version": "v0.19.2",
-          "versionCode": 192,
-          "zipUrl": "https://mrepoapp.github.io/magisk-modules-alt-repo/modules/xhhttp/v0.19.2_192.zip",
           "changelog": ""
         }
       ]
