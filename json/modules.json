@@ -2,7 +2,7 @@
   "name": "Magisk Modules Alt Repo (mirror)",
   "metadata": {
     "version": 1,
-    "timestamp": 1701810789.766612
+    "timestamp": 1702329103.340959
   },
   "modules": [
     {
@@ -28,6 +28,32 @@
           "versionCode": 4,
           "zipUrl": "https://mrepoapp.github.io/magisk-modules-alt-repo/modules/AFWall-Boot-AntiLeak/v1.3_4.zip",
           "changelog": ""
+        }
+      ]
+    },
+    {
+      "id": "AdGuardDNS4Magisk",
+      "name": "AdGuardDNS4Magisk",
+      "version": "v2.7f",
+      "versionCode": 27,
+      "author": "Rom, TukangM",
+      "description": "Using the \"AdGuard DNS\" DNS system-lessly! As simple as that and block ads and trackers.",
+      "track": {
+        "type": "ONLINE_JSON",
+        "added": 1680541839.65951,
+        "license": "LGPL-3.0",
+        "homepage": "",
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/AdGuardDNS4Magisk.git",
+        "support": "https://github.com/Magisk-Modules-Alt-Repo/AdGuardDNS4Magisk/issues",
+        "donate": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1701914167.0,
+          "version": "v2.7f",
+          "versionCode": 27,
+          "zipUrl": "https://mrepoapp.github.io/magisk-modules-alt-repo/modules/AdGuardDNS4Magisk/v2.7f_27.zip",
+          "changelog": "https://mrepoapp.github.io/magisk-modules-alt-repo/modules/AdGuardDNS4Magisk/v2.7f_27.md"
         }
       ]
     },
@@ -2447,8 +2473,8 @@
     {
       "id": "ttf-twemoji",
       "name": "Twemoji replacer",
-      "version": "v14.0.3",
-      "versionCode": 1403,
+      "version": "v15.0.2",
+      "versionCode": 1502,
       "author": "ez-me & Twitter",
       "description": "Changes your system emoji to Twemoji!",
       "track": {
@@ -2466,6 +2492,13 @@
           "version": "v14.0.3",
           "versionCode": 1403,
           "zipUrl": "https://mrepoapp.github.io/magisk-modules-alt-repo/modules/ttf-twemoji/v14.0.3_1403.zip",
+          "changelog": ""
+        },
+        {
+          "timestamp": 1701825089.0,
+          "version": "v15.0.2",
+          "versionCode": 1502,
+          "zipUrl": "https://mrepoapp.github.io/magisk-modules-alt-repo/modules/ttf-twemoji/v15.0.2_1502.zip",
           "changelog": ""
         }
       ]
