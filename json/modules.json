@@ -2,7 +2,7 @@
   "name": "Magisk Modules Alt Repo (mirror)",
   "metadata": {
     "version": 1,
-    "timestamp": 1703538617.128909
+    "timestamp": 1704143432.562518
   },
   "modules": [
     {
@@ -1134,8 +1134,8 @@
     {
       "id": "audio-misc-settings",
       "name": "Audio misc. settings",
-      "version": "v1.3.4",
-      "versionCode": 1304,
+      "version": "v1.3.5",
+      "versionCode": 1305,
       "author": "zyhk",
       "description": "Setting audio misc. configuration values (e.g. 100 volume steps, raising the resampling quality, disabling the effects framework, etc.)",
       "track": {
@@ -1149,13 +1149,6 @@
       },
       "versions": [
         {
-          "timestamp": 1681301259.0,
-          "version": "v1.3.0",
-          "versionCode": 1300,
-          "zipUrl": "https://mrepoapp.github.io/magisk-modules-alt-repo/modules/audio-misc-settings/v1.3.0_1300.zip",
-          "changelog": "https://mrepoapp.github.io/magisk-modules-alt-repo/modules/audio-misc-settings/v1.3.0_1300.md"
-        },
-        {
           "timestamp": 1686569280.0,
           "version": "v1.3.1",
           "versionCode": 1301,
@@ -1168,6 +1161,13 @@
           "versionCode": 1304,
           "zipUrl": "https://mrepoapp.github.io/magisk-modules-alt-repo/modules/audio-misc-settings/v1.3.4_1304.zip",
           "changelog": "https://mrepoapp.github.io/magisk-modules-alt-repo/modules/audio-misc-settings/v1.3.4_1304.md"
+        },
+        {
+          "timestamp": 1704021032.0,
+          "version": "v1.3.5",
+          "versionCode": 1305,
+          "zipUrl": "https://mrepoapp.github.io/magisk-modules-alt-repo/modules/audio-misc-settings/v1.3.5_1305.zip",
+          "changelog": "https://mrepoapp.github.io/magisk-modules-alt-repo/modules/audio-misc-settings/v1.3.5_1305.md"
         }
       ]
     },
@@ -2558,8 +2558,8 @@
     {
       "id": "usb-samplerate-unlocker",
       "name": "USB Samplerate Unlocker",
-      "version": "v1.5.3",
-      "versionCode": 1503,
+      "version": "v1.5.4",
+      "versionCode": 1504,
       "author": "zyhk",
       "description": "USB (HAL) audio class drivers have a limiter of sample rates at 96kHz. This mod unlocks the limiter.",
       "track": {
@@ -2573,13 +2573,6 @@
       },
       "versions": [
         {
-          "timestamp": 1686569585.0,
-          "version": "v1.5.1",
-          "versionCode": 1501,
-          "zipUrl": "https://mrepoapp.github.io/magisk-modules-alt-repo/modules/usb-samplerate-unlocker/v1.5.1_1501.zip",
-          "changelog": "https://mrepoapp.github.io/magisk-modules-alt-repo/modules/usb-samplerate-unlocker/v1.5.1_1501.md"
-        },
-        {
           "timestamp": 1691936757.0,
           "version": "v1.5.2",
           "versionCode": 1502,
@@ -2592,6 +2585,13 @@
           "versionCode": 1503,
           "zipUrl": "https://mrepoapp.github.io/magisk-modules-alt-repo/modules/usb-samplerate-unlocker/v1.5.3_1503.zip",
           "changelog": "https://mrepoapp.github.io/magisk-modules-alt-repo/modules/usb-samplerate-unlocker/v1.5.3_1503.md"
+        },
+        {
+          "timestamp": 1704021292.0,
+          "version": "v1.5.4",
+          "versionCode": 1504,
+          "zipUrl": "https://mrepoapp.github.io/magisk-modules-alt-repo/modules/usb-samplerate-unlocker/v1.5.4_1504.zip",
+          "changelog": "https://mrepoapp.github.io/magisk-modules-alt-repo/modules/usb-samplerate-unlocker/v1.5.4_1504.md"
         }
       ]
     },

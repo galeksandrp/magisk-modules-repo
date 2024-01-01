@@ -3,13 +3,6 @@
   "timestamp": 1686569280.0,
   "versions": [
     {
-      "timestamp": 1681301259.0,
-      "version": "v1.3.0",
-      "versionCode": 1300,
-      "zipUrl": "https://mrepoapp.github.io/magisk-modules-alt-repo/modules/audio-misc-settings/v1.3.0_1300.zip",
-      "changelog": "https://mrepoapp.github.io/magisk-modules-alt-repo/modules/audio-misc-settings/v1.3.0_1300.md"
-    },
-    {
       "timestamp": 1686569280.0,
       "version": "v1.3.1",
       "versionCode": 1301,
@@ -22,6 +15,13 @@
       "versionCode": 1304,
       "zipUrl": "https://mrepoapp.github.io/magisk-modules-alt-repo/modules/audio-misc-settings/v1.3.4_1304.zip",
       "changelog": "https://mrepoapp.github.io/magisk-modules-alt-repo/modules/audio-misc-settings/v1.3.4_1304.md"
+    },
+    {
+      "timestamp": 1704021032.0,
+      "version": "v1.3.5",
+      "versionCode": 1305,
+      "zipUrl": "https://mrepoapp.github.io/magisk-modules-alt-repo/modules/audio-misc-settings/v1.3.5_1305.zip",
+      "changelog": "https://mrepoapp.github.io/magisk-modules-alt-repo/modules/audio-misc-settings/v1.3.5_1305.md"
     }
   ]
 }

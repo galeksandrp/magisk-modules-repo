@@ -3,13 +3,6 @@
   "timestamp": 1686569585.0,
   "versions": [
     {
-      "timestamp": 1686569585.0,
-      "version": "v1.5.1",
-      "versionCode": 1501,
-      "zipUrl": "https://mrepoapp.github.io/magisk-modules-alt-repo/modules/usb-samplerate-unlocker/v1.5.1_1501.zip",
-      "changelog": "https://mrepoapp.github.io/magisk-modules-alt-repo/modules/usb-samplerate-unlocker/v1.5.1_1501.md"
-    },
-    {
       "timestamp": 1691936757.0,
       "version": "v1.5.2",
       "versionCode": 1502,
@@ -22,6 +15,13 @@
       "versionCode": 1503,
       "zipUrl": "https://mrepoapp.github.io/magisk-modules-alt-repo/modules/usb-samplerate-unlocker/v1.5.3_1503.zip",
       "changelog": "https://mrepoapp.github.io/magisk-modules-alt-repo/modules/usb-samplerate-unlocker/v1.5.3_1503.md"
+    },
+    {
+      "timestamp": 1704021292.0,
+      "version": "v1.5.4",
+      "versionCode": 1504,
+      "zipUrl": "https://mrepoapp.github.io/magisk-modules-alt-repo/modules/usb-samplerate-unlocker/v1.5.4_1504.zip",
+      "changelog": "https://mrepoapp.github.io/magisk-modules-alt-repo/modules/usb-samplerate-unlocker/v1.5.4_1504.md"
     }
   ]
 }
