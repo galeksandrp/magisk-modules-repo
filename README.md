@@ -4,7 +4,7 @@
 
 ## Use in MRepo
 ```
-https://mrepoapp.github.io/magisk-modules-alt-repo/
+https://alt-repo.sanmer.app/
 ```
 
 ## How to update?
