@@ -6,15 +6,15 @@
       "timestamp": 1690999140.0,
       "version": "v6.0",
       "versionCode": 60,
-      "zipUrl": "https://mrepoapp.github.io/magisk-modules-alt-repo/modules/xmlpak-RE/v6.0_60.zip",
-      "changelog": "https://mrepoapp.github.io/magisk-modules-alt-repo/modules/xmlpak-RE/v6.0_60.md"
+      "zipUrl": "https://alt-repo.sanmer.app/modules/xmlpak-RE/v6.0_60.zip",
+      "changelog": "https://alt-repo.sanmer.app/modules/xmlpak-RE/v6.0_60.md"
     },
     {
       "timestamp": 1697914942.0,
       "version": "v8.0",
       "versionCode": 80,
-      "zipUrl": "https://mrepoapp.github.io/magisk-modules-alt-repo/modules/xmlpak-RE/v8.0_80.zip",
-      "changelog": "https://mrepoapp.github.io/magisk-modules-alt-repo/modules/xmlpak-RE/v8.0_80.md"
+      "zipUrl": "https://alt-repo.sanmer.app/modules/xmlpak-RE/v8.0_80.zip",
+      "changelog": "https://alt-repo.sanmer.app/modules/xmlpak-RE/v8.0_80.md"
     }
   ]
 }

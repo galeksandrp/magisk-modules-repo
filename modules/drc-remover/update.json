@@ -6,15 +6,15 @@
       "timestamp": 1680505776.0,
       "version": "v1.1.0",
       "versionCode": 1100,
-      "zipUrl": "https://mrepoapp.github.io/magisk-modules-alt-repo/modules/drc-remover/v1.1.0_1100.zip",
+      "zipUrl": "https://alt-repo.sanmer.app/modules/drc-remover/v1.1.0_1100.zip",
       "changelog": ""
     },
     {
       "timestamp": 1683473028.0,
       "version": "v1.2.1",
       "versionCode": 1201,
-      "zipUrl": "https://mrepoapp.github.io/magisk-modules-alt-repo/modules/drc-remover/v1.2.1_1201.zip",
-      "changelog": "https://mrepoapp.github.io/magisk-modules-alt-repo/modules/drc-remover/v1.2.1_1201.md"
+      "zipUrl": "https://alt-repo.sanmer.app/modules/drc-remover/v1.2.1_1201.zip",
+      "changelog": "https://alt-repo.sanmer.app/modules/drc-remover/v1.2.1_1201.md"
     }
   ]
 }

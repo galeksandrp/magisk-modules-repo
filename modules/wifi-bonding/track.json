@@ -1,5 +1,5 @@
 {
-  "id": "wifi-bonding-nolog",
+  "id": "wifi-bonding",
   "enable": true,
   "update_to": "git@github.com:Magisk-Modules-Alt-Repo/wifi-bonding-nolog.git",
   "source": "https://github.com/Magisk-Modules-Alt-Repo/wifi-bonding-nolog.git",

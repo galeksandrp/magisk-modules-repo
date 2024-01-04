@@ -6,22 +6,22 @@
       "timestamp": 1699391553.870629,
       "version": "v4.0",
       "versionCode": 15,
-      "zipUrl": "https://mrepoapp.github.io/magisk-modules-alt-repo/modules/Malwack/v4.0_15.zip",
-      "changelog": "https://mrepoapp.github.io/magisk-modules-alt-repo/modules/Malwack/v4.0_15.md"
+      "zipUrl": "https://alt-repo.sanmer.app/modules/Malwack/v4.0_15.zip",
+      "changelog": "https://alt-repo.sanmer.app/modules/Malwack/v4.0_15.md"
     },
     {
       "timestamp": 1699478033.862926,
       "version": "v4.2",
       "versionCode": 17,
-      "zipUrl": "https://mrepoapp.github.io/magisk-modules-alt-repo/modules/Malwack/v4.2_17.zip",
-      "changelog": "https://mrepoapp.github.io/magisk-modules-alt-repo/modules/Malwack/v4.2_17.md"
+      "zipUrl": "https://alt-repo.sanmer.app/modules/Malwack/v4.2_17.zip",
+      "changelog": "https://alt-repo.sanmer.app/modules/Malwack/v4.2_17.md"
     },
     {
       "timestamp": 1699564347.079009,
       "version": "v4.2.1",
       "versionCode": 18,
-      "zipUrl": "https://mrepoapp.github.io/magisk-modules-alt-repo/modules/Malwack/v4.2.1_18.zip",
-      "changelog": "https://mrepoapp.github.io/magisk-modules-alt-repo/modules/Malwack/v4.2.1_18.md"
+      "zipUrl": "https://alt-repo.sanmer.app/modules/Malwack/v4.2.1_18.zip",
+      "changelog": "https://alt-repo.sanmer.app/modules/Malwack/v4.2.1_18.md"
     }
   ]
 }

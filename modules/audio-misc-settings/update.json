@@ -6,22 +6,22 @@
       "timestamp": 1686569280.0,
       "version": "v1.3.1",
       "versionCode": 1301,
-      "zipUrl": "https://mrepoapp.github.io/magisk-modules-alt-repo/modules/audio-misc-settings/v1.3.1_1301.zip",
-      "changelog": "https://mrepoapp.github.io/magisk-modules-alt-repo/modules/audio-misc-settings/v1.3.1_1301.md"
+      "zipUrl": "https://alt-repo.sanmer.app/modules/audio-misc-settings/v1.3.1_1301.zip",
+      "changelog": "https://alt-repo.sanmer.app/modules/audio-misc-settings/v1.3.1_1301.md"
     },
     {
       "timestamp": 1691936900.0,
       "version": "v1.3.4",
       "versionCode": 1304,
-      "zipUrl": "https://mrepoapp.github.io/magisk-modules-alt-repo/modules/audio-misc-settings/v1.3.4_1304.zip",
-      "changelog": "https://mrepoapp.github.io/magisk-modules-alt-repo/modules/audio-misc-settings/v1.3.4_1304.md"
+      "zipUrl": "https://alt-repo.sanmer.app/modules/audio-misc-settings/v1.3.4_1304.zip",
+      "changelog": "https://alt-repo.sanmer.app/modules/audio-misc-settings/v1.3.4_1304.md"
     },
     {
       "timestamp": 1704021032.0,
       "version": "v1.3.5",
       "versionCode": 1305,
-      "zipUrl": "https://mrepoapp.github.io/magisk-modules-alt-repo/modules/audio-misc-settings/v1.3.5_1305.zip",
-      "changelog": "https://mrepoapp.github.io/magisk-modules-alt-repo/modules/audio-misc-settings/v1.3.5_1305.md"
+      "zipUrl": "https://alt-repo.sanmer.app/modules/audio-misc-settings/v1.3.5_1305.zip",
+      "changelog": "https://alt-repo.sanmer.app/modules/audio-misc-settings/v1.3.5_1305.md"
     }
   ]
 }

@@ -6,22 +6,22 @@
       "timestamp": 1654345622.0,
       "version": "v2022.6.4",
       "versionCode": 202206040,
-      "zipUrl": "https://mrepoapp.github.io/magisk-modules-alt-repo/modules/acc/v2022.6.4_202206040.zip",
-      "changelog": "https://mrepoapp.github.io/magisk-modules-alt-repo/modules/acc/v2022.6.4_202206040.md"
+      "zipUrl": "https://alt-repo.sanmer.app/modules/acc/v2022.6.4_202206040.zip",
+      "changelog": "https://alt-repo.sanmer.app/modules/acc/v2022.6.4_202206040.md"
     },
     {
       "timestamp": 1692431280.0,
       "version": "v2023.8.19",
       "versionCode": 202308190,
-      "zipUrl": "https://mrepoapp.github.io/magisk-modules-alt-repo/modules/acc/v2023.8.19_202308190.zip",
-      "changelog": "https://mrepoapp.github.io/magisk-modules-alt-repo/modules/acc/v2023.8.19_202308190.md"
+      "zipUrl": "https://alt-repo.sanmer.app/modules/acc/v2023.8.19_202308190.zip",
+      "changelog": "https://alt-repo.sanmer.app/modules/acc/v2023.8.19_202308190.md"
     },
     {
       "timestamp": 1697485290.0,
       "version": "v2023.10.16",
       "versionCode": 202310160,
-      "zipUrl": "https://mrepoapp.github.io/magisk-modules-alt-repo/modules/acc/v2023.10.16_202310160.zip",
-      "changelog": "https://mrepoapp.github.io/magisk-modules-alt-repo/modules/acc/v2023.10.16_202310160.md"
+      "zipUrl": "https://alt-repo.sanmer.app/modules/acc/v2023.10.16_202310160.zip",
+      "changelog": "https://alt-repo.sanmer.app/modules/acc/v2023.10.16_202310160.md"
     }
   ]
 }
