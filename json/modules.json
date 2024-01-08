@@ -2,7 +2,7 @@
   "name": "Magisk Modules Alt Repo (mirror)",
   "metadata": {
     "version": 1,
-    "timestamp": 1704356742.93659
+    "timestamp": 1704748274.59868
   },
   "modules": [
     {
@@ -1963,8 +1963,8 @@
     {
       "id": "microg_installer",
       "name": "microG Installer Revived",
-      "version": "Revived 3.4.1-0",
-      "versionCode": 30410,
+      "version": "Revived 3.4.2-0",
+      "versionCode": 30420,
       "author": "nift4",
       "description": "Install microG GmsCore, Companion (or Play Store if you want so), GsfProxy and MapsV1 to /system/",
       "track": {
@@ -1978,13 +1978,6 @@
       },
       "versions": [
         {
-          "timestamp": 1685780590.0,
-          "version": "Revived 3.3.2-0",
-          "versionCode": 30320,
-          "zipUrl": "https://alt-repo.sanmer.app/modules/microg_installer/Revived_3.3.2-0_30320.zip",
-          "changelog": ""
-        },
-        {
           "timestamp": 1695550311.0,
           "version": "Revived 3.4.0-0",
           "versionCode": 30400,
@@ -1997,6 +1990,13 @@
           "versionCode": 30410,
           "zipUrl": "https://alt-repo.sanmer.app/modules/microg_installer/Revived_3.4.1-0_30410.zip",
           "changelog": "https://alt-repo.sanmer.app/modules/microg_installer/Revived_3.4.1-0_30410.md"
+        },
+        {
+          "timestamp": 1704627770.0,
+          "version": "Revived 3.4.2-0",
+          "versionCode": 30420,
+          "zipUrl": "https://alt-repo.sanmer.app/modules/microg_installer/Revived_3.4.2-0_30420.zip",
+          "changelog": "https://alt-repo.sanmer.app/modules/microg_installer/Revived_3.4.2-0_30420.md"
         }
       ]
     },
