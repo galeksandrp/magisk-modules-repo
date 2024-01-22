@@ -46,10 +46,9 @@ jobs:
           git config --local user.name "github-actions[bot]"
 
       - name: Set up SSH
-        uses: MrSquaare/ssh-setup-action@v3
+        uses: webfactory/ssh-agent@v0.8.0
         with:
-          host: github.com
-          private-key: ${{ secrets.SSH_PRIVATE_KEY }}
+          ssh-private-key: ${{ secrets.SSH_PRIVATE_KEY }}
 
       - name: Set up Python
         uses: actions/setup-python@v4
