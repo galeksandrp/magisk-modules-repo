@@ -3,13 +3,6 @@
   "timestamp": 1681206641.0,
   "versions": [
     {
-      "timestamp": 1681206641.0,
-      "version": "v1.0.2",
-      "versionCode": 1002,
-      "zipUrl": "https://alt-repo.sanmer.app/modules/audio-jitter-silencer/v1.0.2_1002.zip",
-      "changelog": "https://alt-repo.sanmer.app/modules/audio-jitter-silencer/v1.0.2_1002.md"
-    },
-    {
       "timestamp": 1691936403.0,
       "version": "v1.0.4",
       "versionCode": 1004,
@@ -22,6 +15,13 @@
       "versionCode": 1005,
       "zipUrl": "https://alt-repo.sanmer.app/modules/audio-jitter-silencer/v1.0.5_1005.zip",
       "changelog": "https://alt-repo.sanmer.app/modules/audio-jitter-silencer/v1.0.5_1005.md"
+    },
+    {
+      "timestamp": 1706598988.0,
+      "version": "v1.0.6",
+      "versionCode": 1006,
+      "zipUrl": "https://alt-repo.sanmer.app/modules/audio-jitter-silencer/v1.0.6_1006.zip",
+      "changelog": "https://alt-repo.sanmer.app/modules/audio-jitter-silencer/v1.0.6_1006.md"
     }
   ]
 }
