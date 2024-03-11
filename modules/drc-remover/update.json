@@ -15,6 +15,13 @@
       "versionCode": 1201,
       "zipUrl": "https://alt-repo.sanmer.app/modules/drc-remover/v1.2.1_1201.zip",
       "changelog": "https://alt-repo.sanmer.app/modules/drc-remover/v1.2.1_1201.md"
+    },
+    {
+      "timestamp": 1709620315.0,
+      "version": "v1.2.2",
+      "versionCode": 1202,
+      "zipUrl": "https://alt-repo.sanmer.app/modules/drc-remover/v1.2.2_1202.zip",
+      "changelog": "https://alt-repo.sanmer.app/modules/drc-remover/v1.2.2_1202.md"
     }
   ]
 }
