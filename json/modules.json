@@ -2,7 +2,7 @@
   "name": "Magisk Modules Alt Repo (mirror)",
   "metadata": {
     "version": 1,
-    "timestamp": 1710191838.761134
+    "timestamp": 1710796556.328702
   },
   "modules": [
     {
@@ -1559,8 +1559,8 @@
     {
       "id": "font-koruri-n",
       "name": "Koruri Font",
-      "version": "v26",
-      "versionCode": 26,
+      "version": "v27",
+      "versionCode": 27,
       "author": "lindwurm,AndroPlus",
       "description": "Koruri font patch for Japanese users. Koruri is open source Japanese font.",
       "track": {
@@ -1586,6 +1586,13 @@
           "versionCode": 26,
           "zipUrl": "https://alt-repo.sanmer.app/modules/font-koruri-n/v26_26.zip",
           "changelog": "https://alt-repo.sanmer.app/modules/font-koruri-n/v26_26.md"
+        },
+        {
+          "timestamp": 1710675566.0,
+          "version": "v27",
+          "versionCode": 27,
+          "zipUrl": "https://alt-repo.sanmer.app/modules/font-koruri-n/v27_27.zip",
+          "changelog": "https://alt-repo.sanmer.app/modules/font-koruri-n/v27_27.md"
         }
       ]
     },
