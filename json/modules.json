@@ -2,7 +2,7 @@
   "name": "Magisk Modules Alt Repo (mirror)",
   "metadata": {
     "version": 1,
-    "timestamp": 1710796556.328702
+    "timestamp": 1711401313.301272
   },
   "modules": [
     {
@@ -1559,8 +1559,8 @@
     {
       "id": "font-koruri-n",
       "name": "Koruri Font",
-      "version": "v27",
-      "versionCode": 27,
+      "version": "v28",
+      "versionCode": 28,
       "author": "lindwurm,AndroPlus",
       "description": "Koruri font patch for Japanese users. Koruri is open source Japanese font.",
       "track": {
@@ -1574,13 +1574,6 @@
       },
       "versions": [
         {
-          "timestamp": 1677543460.0,
-          "version": "v25",
-          "versionCode": 25,
-          "zipUrl": "https://alt-repo.sanmer.app/modules/font-koruri-n/v25_25.zip",
-          "changelog": "https://alt-repo.sanmer.app/modules/font-koruri-n/v25_25.md"
-        },
-        {
           "timestamp": 1710052355.0,
           "version": "v26",
           "versionCode": 26,
@@ -1593,6 +1586,13 @@
           "versionCode": 27,
           "zipUrl": "https://alt-repo.sanmer.app/modules/font-koruri-n/v27_27.zip",
           "changelog": "https://alt-repo.sanmer.app/modules/font-koruri-n/v27_27.md"
+        },
+        {
+          "timestamp": 1711254247.0,
+          "version": "v28",
+          "versionCode": 28,
+          "zipUrl": "https://alt-repo.sanmer.app/modules/font-koruri-n/v28_28.zip",
+          "changelog": "https://alt-repo.sanmer.app/modules/font-koruri-n/v28_28.md"
         }
       ]
     },
@@ -1984,8 +1984,8 @@
     {
       "id": "microg_installer",
       "name": "microG Installer Revived",
-      "version": "Revived 3.4.2-0",
-      "versionCode": 30420,
+      "version": "Revived 3.4.3-0",
+      "versionCode": 30430,
       "author": "nift4",
       "description": "Install microG GmsCore, Companion (or Play Store if you want so), GsfProxy and MapsV1 to /system/",
       "track": {
@@ -1999,13 +1999,6 @@
       },
       "versions": [
         {
-          "timestamp": 1695550311.0,
-          "version": "Revived 3.4.0-0",
-          "versionCode": 30400,
-          "zipUrl": "https://alt-repo.sanmer.app/modules/microg_installer/Revived_3.4.0-0_30400.zip",
-          "changelog": "https://alt-repo.sanmer.app/modules/microg_installer/Revived_3.4.0-0_30400.md"
-        },
-        {
           "timestamp": 1700164226.0,
           "version": "Revived 3.4.1-0",
           "versionCode": 30410,
@@ -2018,6 +2011,13 @@
           "versionCode": 30420,
           "zipUrl": "https://alt-repo.sanmer.app/modules/microg_installer/Revived_3.4.2-0_30420.zip",
           "changelog": "https://alt-repo.sanmer.app/modules/microg_installer/Revived_3.4.2-0_30420.md"
+        },
+        {
+          "timestamp": 1711281486.0,
+          "version": "Revived 3.4.3-0",
+          "versionCode": 30430,
+          "zipUrl": "https://alt-repo.sanmer.app/modules/microg_installer/Revived_3.4.3-0_30430.zip",
+          "changelog": "https://alt-repo.sanmer.app/modules/microg_installer/Revived_3.4.3-0_30430.md"
         }
       ]
     },

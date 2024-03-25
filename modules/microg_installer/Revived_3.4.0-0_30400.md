@@ -1,2 +1,0 @@
-- Update microG to 0.2.29 & FakeStore to 0.2.1
-- Code cleanup & better workaround for framework shooting MagiskManager
