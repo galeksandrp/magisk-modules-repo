@@ -2,7 +2,7 @@
   "name": "Magisk Modules Alt Repo (mirror)",
   "metadata": {
     "version": 1,
-    "timestamp": 1712610888.608951
+    "timestamp": 1713215791.255499
   },
   "modules": [
     {
@@ -1094,8 +1094,8 @@
     {
       "id": "audio-jitter-silencer",
       "name": "Audio jitter silencer",
-      "version": "v1.0.7",
-      "versionCode": 1007,
+      "version": "v1.0.8",
+      "versionCode": 1008,
       "author": "zyhk",
       "description": "Disabling very large audio jitter generators (w.r.t. battery draining & optimizations, and wireless connectivity) for reducing audio jitter distortion on all digital audio outputs.",
       "track": {
@@ -1109,13 +1109,6 @@
       },
       "versions": [
         {
-          "timestamp": 1693302157.0,
-          "version": "v1.0.5",
-          "versionCode": 1005,
-          "zipUrl": "https://alt-repo.sanmer.app/modules/audio-jitter-silencer/v1.0.5_1005.zip",
-          "changelog": "https://alt-repo.sanmer.app/modules/audio-jitter-silencer/v1.0.5_1005.md"
-        },
-        {
           "timestamp": 1706598988.0,
           "version": "v1.0.6",
           "versionCode": 1006,
@@ -1128,14 +1121,21 @@
           "versionCode": 1007,
           "zipUrl": "https://alt-repo.sanmer.app/modules/audio-jitter-silencer/v1.0.7_1007.zip",
           "changelog": "https://alt-repo.sanmer.app/modules/audio-jitter-silencer/v1.0.7_1007.md"
+        },
+        {
+          "timestamp": 1713162378.0,
+          "version": "v1.0.8",
+          "versionCode": 1008,
+          "zipUrl": "https://alt-repo.sanmer.app/modules/audio-jitter-silencer/v1.0.8_1008.zip",
+          "changelog": "https://alt-repo.sanmer.app/modules/audio-jitter-silencer/v1.0.8_1008.md"
         }
       ]
     },
     {
       "id": "audio-misc-settings",
       "name": "Audio misc. settings",
-      "version": "v1.3.6",
-      "versionCode": 1306,
+      "version": "v1.3.7",
+      "versionCode": 1307,
       "author": "zyhk",
       "description": "Setting audio misc. configuration values (e.g. 100 volume steps, raising the resampling quality, disabling the effects framework, etc.)",
       "track": {
@@ -1149,13 +1149,6 @@
       },
       "versions": [
         {
-          "timestamp": 1691936900.0,
-          "version": "v1.3.4",
-          "versionCode": 1304,
-          "zipUrl": "https://alt-repo.sanmer.app/modules/audio-misc-settings/v1.3.4_1304.zip",
-          "changelog": "https://alt-repo.sanmer.app/modules/audio-misc-settings/v1.3.4_1304.md"
-        },
-        {
           "timestamp": 1704021032.0,
           "version": "v1.3.5",
           "versionCode": 1305,
@@ -1168,6 +1161,13 @@
           "versionCode": 1306,
           "zipUrl": "https://alt-repo.sanmer.app/modules/audio-misc-settings/v1.3.6_1306.zip",
           "changelog": "https://alt-repo.sanmer.app/modules/audio-misc-settings/v1.3.6_1306.md"
+        },
+        {
+          "timestamp": 1713162525.0,
+          "version": "v1.3.7",
+          "versionCode": 1307,
+          "zipUrl": "https://alt-repo.sanmer.app/modules/audio-misc-settings/v1.3.7_1307.zip",
+          "changelog": "https://alt-repo.sanmer.app/modules/audio-misc-settings/v1.3.7_1307.md"
         }
       ]
     },
@@ -1467,8 +1467,8 @@
     {
       "id": "drc-remover",
       "name": "DRC remover",
-      "version": "v1.2.2",
-      "versionCode": 1202,
+      "version": "v1.2.3",
+      "versionCode": 1203,
       "author": "zyhk",
       "description": "A remover of DRC (Dynamic Range Control, i.e., compression) sticking to all audio outputs on some major devices.",
       "track": {
@@ -1482,13 +1482,6 @@
       },
       "versions": [
         {
-          "timestamp": 1680505776.0,
-          "version": "v1.1.0",
-          "versionCode": 1100,
-          "zipUrl": "https://alt-repo.sanmer.app/modules/drc-remover/v1.1.0_1100.zip",
-          "changelog": ""
-        },
-        {
           "timestamp": 1683473028.0,
           "version": "v1.2.1",
           "versionCode": 1201,
@@ -1501,6 +1494,13 @@
           "versionCode": 1202,
           "zipUrl": "https://alt-repo.sanmer.app/modules/drc-remover/v1.2.2_1202.zip",
           "changelog": "https://alt-repo.sanmer.app/modules/drc-remover/v1.2.2_1202.md"
+        },
+        {
+          "timestamp": 1713162804.0,
+          "version": "v1.2.3",
+          "versionCode": 1203,
+          "zipUrl": "https://alt-repo.sanmer.app/modules/drc-remover/v1.2.3_1203.zip",
+          "changelog": "https://alt-repo.sanmer.app/modules/drc-remover/v1.2.3_1203.md"
         }
       ]
     },
@@ -2579,8 +2579,8 @@
     {
       "id": "usb-samplerate-unlocker",
       "name": "USB Samplerate Unlocker",
-      "version": "v1.5.5",
-      "versionCode": 1505,
+      "version": "v1.5.6",
+      "versionCode": 1506,
       "author": "zyhk",
       "description": "USB (HAL) audio class drivers have a limiter of sample rates at 96kHz. This mod unlocks the limiter.",
       "track": {
@@ -2594,13 +2594,6 @@
       },
       "versions": [
         {
-          "timestamp": 1696318252.0,
-          "version": "v1.5.3",
-          "versionCode": 1503,
-          "zipUrl": "https://alt-repo.sanmer.app/modules/usb-samplerate-unlocker/v1.5.3_1503.zip",
-          "changelog": "https://alt-repo.sanmer.app/modules/usb-samplerate-unlocker/v1.5.3_1503.md"
-        },
-        {
           "timestamp": 1704021292.0,
           "version": "v1.5.4",
           "versionCode": 1504,
@@ -2613,6 +2606,13 @@
           "versionCode": 1505,
           "zipUrl": "https://alt-repo.sanmer.app/modules/usb-samplerate-unlocker/v1.5.5_1505.zip",
           "changelog": "https://alt-repo.sanmer.app/modules/usb-samplerate-unlocker/v1.5.5_1505.md"
+        },
+        {
+          "timestamp": 1713163005.0,
+          "version": "v1.5.6",
+          "versionCode": 1506,
+          "zipUrl": "https://alt-repo.sanmer.app/modules/usb-samplerate-unlocker/v1.5.6_1506.zip",
+          "changelog": "https://alt-repo.sanmer.app/modules/usb-samplerate-unlocker/v1.5.6_1506.md"
         }
       ]
     },

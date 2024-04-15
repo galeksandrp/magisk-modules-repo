@@ -3,13 +3,6 @@
   "timestamp": 1686569280.0,
   "versions": [
     {
-      "timestamp": 1691936900.0,
-      "version": "v1.3.4",
-      "versionCode": 1304,
-      "zipUrl": "https://alt-repo.sanmer.app/modules/audio-misc-settings/v1.3.4_1304.zip",
-      "changelog": "https://alt-repo.sanmer.app/modules/audio-misc-settings/v1.3.4_1304.md"
-    },
-    {
       "timestamp": 1704021032.0,
       "version": "v1.3.5",
       "versionCode": 1305,
@@ -22,6 +15,13 @@
       "versionCode": 1306,
       "zipUrl": "https://alt-repo.sanmer.app/modules/audio-misc-settings/v1.3.6_1306.zip",
       "changelog": "https://alt-repo.sanmer.app/modules/audio-misc-settings/v1.3.6_1306.md"
+    },
+    {
+      "timestamp": 1713162525.0,
+      "version": "v1.3.7",
+      "versionCode": 1307,
+      "zipUrl": "https://alt-repo.sanmer.app/modules/audio-misc-settings/v1.3.7_1307.zip",
+      "changelog": "https://alt-repo.sanmer.app/modules/audio-misc-settings/v1.3.7_1307.md"
     }
   ]
 }
