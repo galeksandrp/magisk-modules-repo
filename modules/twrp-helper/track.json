@@ -1,0 +1,10 @@
+{
+  "id": "twrp-helper",
+  "enable": true,
+  "update_to": "https://github.com/Magisk-Modules-Repo/twrp-helper.git",
+  "source": "https://github.com/Magisk-Modules-Repo/twrp-helper.git",
+  "support": "https://github.com/Magisk-Modules-Repo/twrp-helper/issues",
+  "added": 1713599008.653972,
+  "last_update": 1560196409.0,
+  "versions": 1
+}

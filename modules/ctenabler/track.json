@@ -1,0 +1,10 @@
+{
+  "id": "ctenabler",
+  "enable": true,
+  "update_to": "https://github.com/Magisk-Modules-Repo/ctenabler.git",
+  "source": "https://github.com/Magisk-Modules-Repo/ctenabler.git",
+  "support": "https://github.com/Magisk-Modules-Repo/ctenabler/issues",
+  "added": 1713598979.120474,
+  "last_update": 1591010796.0,
+  "versions": 1
+}

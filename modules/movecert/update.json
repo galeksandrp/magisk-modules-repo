@@ -1,0 +1,13 @@
+{
+  "id": "movecert",
+  "timestamp": 1656286469.0,
+  "versions": [
+    {
+      "timestamp": 1656286469.0,
+      "version": "v1.9",
+      "versionCode": 10,
+      "zipUrl": "https://galeksandrp.github.io/magisk-modules-repo/modules/movecert/v1.9_10.zip",
+      "changelog": ""
+    }
+  ]
+}

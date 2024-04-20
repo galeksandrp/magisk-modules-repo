@@ -1,0 +1,13 @@
+{
+  "id": "com.piyushgarg.rclone",
+  "timestamp": 1630828774.0,
+  "versions": [
+    {
+      "timestamp": 1630828774.0,
+      "version": "v1.16",
+      "versionCode": 114,
+      "zipUrl": "https://galeksandrp.github.io/magisk-modules-repo/modules/com.piyushgarg.rclone/v1.16_114.zip",
+      "changelog": "https://galeksandrp.github.io/magisk-modules-repo/modules/com.piyushgarg.rclone/v1.16_114.md"
+    }
+  ]
+}

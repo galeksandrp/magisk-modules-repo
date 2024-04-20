@@ -1,0 +1,13 @@
+{
+  "id": "quickstepswitcher",
+  "timestamp": 1635597762.0,
+  "versions": [
+    {
+      "timestamp": 1635597762.0,
+      "version": "v3.1.8",
+      "versionCode": 3180,
+      "zipUrl": "https://galeksandrp.github.io/magisk-modules-repo/modules/quickstepswitcher/v3.1.8_3180.zip",
+      "changelog": ""
+    }
+  ]
+}

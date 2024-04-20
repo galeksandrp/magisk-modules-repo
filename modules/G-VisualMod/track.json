@@ -1,0 +1,11 @@
+{
+  "id": "G-VisualMod",
+  "enable": true,
+  "update_to": "https://github.com/Magisk-Modules-Repo/G-VisualMod.git",
+  "license": "GPL-2.0",
+  "source": "https://github.com/Magisk-Modules-Repo/G-VisualMod.git",
+  "support": "https://github.com/Magisk-Modules-Repo/G-VisualMod/issues",
+  "added": 1713598983.165796,
+  "last_update": 1612675127.0,
+  "versions": 1
+}

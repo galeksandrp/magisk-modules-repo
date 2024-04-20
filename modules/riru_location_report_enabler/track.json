@@ -1,0 +1,10 @@
+{
+  "id": "riru_location_report_enabler",
+  "enable": true,
+  "update_to": "https://github.com/Magisk-Modules-Repo/riru_location_report_enabler.git",
+  "source": "https://github.com/Magisk-Modules-Repo/riru_location_report_enabler.git",
+  "support": "https://github.com/Magisk-Modules-Repo/riru_location_report_enabler/issues",
+  "added": 1713599002.815488,
+  "last_update": 1616410697.0,
+  "versions": 1
+}

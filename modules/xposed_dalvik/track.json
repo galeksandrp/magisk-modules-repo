@@ -1,0 +1,10 @@
+{
+  "id": "xposed_dalvik",
+  "enable": true,
+  "update_to": "https://github.com/Magisk-Modules-Repo/xposed_dalvik.git",
+  "source": "https://github.com/Magisk-Modules-Repo/xposed_dalvik.git",
+  "support": "https://github.com/Magisk-Modules-Repo/xposed_dalvik/issues",
+  "added": 1713599015.294774,
+  "last_update": 1580548677.0,
+  "versions": 1
+}

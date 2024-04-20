@@ -1,0 +1,13 @@
+{
+  "id": "wirelessFirmware",
+  "timestamp": 1604117671.0,
+  "versions": [
+    {
+      "timestamp": 1604117671.0,
+      "version": "v2.0.4",
+      "versionCode": 2004,
+      "zipUrl": "https://galeksandrp.github.io/magisk-modules-repo/modules/wirelessFirmware/v2.0.4_2004.zip",
+      "changelog": ""
+    }
+  ]
+}

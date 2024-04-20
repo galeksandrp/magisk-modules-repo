@@ -1,0 +1,11 @@
+{
+  "id": "ARCore_enabler",
+  "enable": true,
+  "update_to": "https://github.com/Magisk-Modules-Repo/ARCore_enabler.git",
+  "license": "GPL-2.0",
+  "source": "https://github.com/Magisk-Modules-Repo/ARCore_enabler.git",
+  "support": "https://github.com/Magisk-Modules-Repo/ARCore_enabler/issues",
+  "added": 1713598972.699437,
+  "last_update": 1707643765.0,
+  "versions": 1
+}

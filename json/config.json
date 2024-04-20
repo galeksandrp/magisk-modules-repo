@@ -1,7 +1,7 @@
 {
-  "name": "Magisk Modules Alt Repo (mirror)",
-  "base_url": "https://alt-repo.sanmer.app/",
-  "max_num": 3,
+  "name": "Magisk Modules Repo (mirror)",
+  "base_url": "https://galeksandrp.github.io/magisk-modules-repo/",
+  "max_num": 999999,
   "enable_log": true,
   "log_dir": "log"
 }

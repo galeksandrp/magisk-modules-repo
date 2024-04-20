@@ -1,0 +1,11 @@
+{
+  "id": "Pix3lify",
+  "enable": true,
+  "update_to": "https://github.com/Magisk-Modules-Repo/Pix3lify.git",
+  "license": "GPL-3.0",
+  "source": "https://github.com/Magisk-Modules-Repo/Pix3lify.git",
+  "support": "https://github.com/Magisk-Modules-Repo/Pix3lify/issues",
+  "added": 1713598999.351562,
+  "last_update": 1570707773.0,
+  "versions": 1
+}

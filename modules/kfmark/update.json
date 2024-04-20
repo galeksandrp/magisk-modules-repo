@@ -1,0 +1,13 @@
+{
+  "id": "kfmark",
+  "timestamp": 1561546153.0,
+  "versions": [
+    {
+      "timestamp": 1561546153.0,
+      "version": "v1.0.3",
+      "versionCode": 4,
+      "zipUrl": "https://galeksandrp.github.io/magisk-modules-repo/modules/kfmark/v1.0.3_4.zip",
+      "changelog": ""
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "apt-x",
+  "enable": true,
+  "update_to": "https://github.com/Magisk-Modules-Repo/apt-x.git",
+  "source": "https://github.com/Magisk-Modules-Repo/apt-x.git",
+  "support": "https://github.com/Magisk-Modules-Repo/apt-x/issues",
+  "added": 1713598972.680688,
+  "last_update": 1554995684.0,
+  "versions": 1
+}

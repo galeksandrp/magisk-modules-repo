@@ -1,0 +1,10 @@
+{
+  "id": "liboemcryptodisabler",
+  "enable": true,
+  "update_to": "https://github.com/Magisk-Modules-Repo/liboemcryptodisabler.git",
+  "source": "https://github.com/Magisk-Modules-Repo/liboemcryptodisabler.git",
+  "support": "https://github.com/Magisk-Modules-Repo/liboemcryptodisabler/issues",
+  "added": 1713598988.595289,
+  "last_update": 1608463908.0,
+  "versions": 1
+}

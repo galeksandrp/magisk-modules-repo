@@ -1,0 +1,10 @@
+{
+  "id": "Systemless_TZData",
+  "enable": true,
+  "update_to": "https://github.com/Magisk-Modules-Repo/Systemless_TZData.git",
+  "source": "https://github.com/Magisk-Modules-Repo/Systemless_TZData.git",
+  "support": "https://github.com/Magisk-Modules-Repo/Systemless_TZData/issues",
+  "added": 1713599006.20947,
+  "last_update": 1612729412.0,
+  "versions": 1
+}

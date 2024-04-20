@@ -1,10 +1,10 @@
 {
   "id": "wifi-bonding",
   "enable": true,
-  "update_to": "git@github.com:Magisk-Modules-Alt-Repo/wifi-bonding-nolog.git",
-  "source": "https://github.com/Magisk-Modules-Alt-Repo/wifi-bonding-nolog.git",
-  "support": "https://github.com/Magisk-Modules-Alt-Repo/wifi-bonding-nolog/issues",
-  "added": 1693757874.905925,
-  "last_update": 1698433306.0,
-  "versions": 2
+  "update_to": "https://github.com/Magisk-Modules-Repo/wifi-bonding.git",
+  "source": "https://github.com/Magisk-Modules-Repo/wifi-bonding.git",
+  "support": "https://github.com/Magisk-Modules-Repo/wifi-bonding/issues",
+  "added": 1713599013.136693,
+  "last_update": 1705668427.0,
+  "versions": 1
 }

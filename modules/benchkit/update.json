@@ -1,0 +1,13 @@
+{
+  "id": "benchkit",
+  "timestamp": 1618613114.0,
+  "versions": [
+    {
+      "timestamp": 1618613114.0,
+      "version": "v2.6.4",
+      "versionCode": 200604,
+      "zipUrl": "https://galeksandrp.github.io/magisk-modules-repo/modules/benchkit/v2.6.4_200604.zip",
+      "changelog": ""
+    }
+  ]
+}

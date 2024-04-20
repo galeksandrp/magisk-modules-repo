@@ -1,0 +1,11 @@
+{
+  "id": "mm",
+  "enable": true,
+  "update_to": "https://github.com/Magisk-Modules-Repo/mm.git",
+  "license": "GPL-3.0",
+  "source": "https://github.com/Magisk-Modules-Repo/mm.git",
+  "support": "https://github.com/Magisk-Modules-Repo/mm/issues",
+  "added": 1713598991.93545,
+  "last_update": 1554374616.0,
+  "versions": 1
+}

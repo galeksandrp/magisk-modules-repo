@@ -1,0 +1,13 @@
+{
+  "id": "riru_location_report_enabler",
+  "timestamp": 1616410697.0,
+  "versions": [
+    {
+      "timestamp": 1616410697.0,
+      "version": "v11.0.0.r50.0b1d37f",
+      "versionCode": 50,
+      "zipUrl": "https://galeksandrp.github.io/magisk-modules-repo/modules/riru_location_report_enabler/v11.0.0.r50.0b1d37f_50.zip",
+      "changelog": ""
+    }
+  ]
+}

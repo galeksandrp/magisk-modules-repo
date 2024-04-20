@@ -1,0 +1,10 @@
+{
+  "id": "kfmark",
+  "enable": true,
+  "update_to": "https://github.com/Magisk-Modules-Repo/kfmark.git",
+  "source": "https://github.com/Magisk-Modules-Repo/kfmark.git",
+  "support": "https://github.com/Magisk-Modules-Repo/kfmark/issues",
+  "added": 1713598988.599837,
+  "last_update": 1561546153.0,
+  "versions": 1
+}

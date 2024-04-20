@@ -1,0 +1,10 @@
+{
+  "id": "logcat",
+  "enable": true,
+  "update_to": "https://github.com/Magisk-Modules-Repo/logcat.git",
+  "source": "https://github.com/Magisk-Modules-Repo/logcat.git",
+  "support": "https://github.com/Magisk-Modules-Repo/logcat/issues",
+  "added": 1713598988.753225,
+  "last_update": 1556251162.0,
+  "versions": 1
+}

@@ -1,0 +1,13 @@
+{
+  "id": "MagiskHidePropsConf",
+  "timestamp": 1673294532.0,
+  "versions": [
+    {
+      "timestamp": 1673294532.0,
+      "version": "v6.1.2-v137",
+      "versionCode": 75,
+      "zipUrl": "https://galeksandrp.github.io/magisk-modules-repo/modules/MagiskHidePropsConf/v6.1.2-v137_75.zip",
+      "changelog": ""
+    }
+  ]
+}

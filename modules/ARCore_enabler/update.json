@@ -1,0 +1,13 @@
+{
+  "id": "ARCore_enabler",
+  "timestamp": 1707643765.0,
+  "versions": [
+    {
+      "timestamp": 1707643765.0,
+      "version": "v2.1",
+      "versionCode": 9,
+      "zipUrl": "https://galeksandrp.github.io/magisk-modules-repo/modules/ARCore_enabler/v2.1_9.zip",
+      "changelog": ""
+    }
+  ]
+}

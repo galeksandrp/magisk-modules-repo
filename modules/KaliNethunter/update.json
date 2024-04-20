@@ -1,0 +1,13 @@
+{
+  "id": "KaliNethunter",
+  "timestamp": 1565052950.0,
+  "versions": [
+    {
+      "timestamp": 1565052950.0,
+      "version": "v8.2",
+      "versionCode": 22,
+      "zipUrl": "https://galeksandrp.github.io/magisk-modules-repo/modules/KaliNethunter/v8.2_22.zip",
+      "changelog": ""
+    }
+  ]
+}

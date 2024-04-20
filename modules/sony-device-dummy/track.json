@@ -1,0 +1,10 @@
+{
+  "id": "sony-device-dummy",
+  "enable": true,
+  "update_to": "https://github.com/Magisk-Modules-Repo/sony-device-dummy.git",
+  "source": "https://github.com/Magisk-Modules-Repo/sony-device-dummy.git",
+  "support": "https://github.com/Magisk-Modules-Repo/sony-device-dummy/issues",
+  "added": 1713599003.880929,
+  "last_update": 1579234586.0,
+  "versions": 1
+}

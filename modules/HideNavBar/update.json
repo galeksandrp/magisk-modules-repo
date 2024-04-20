@@ -1,26 +1,12 @@
 {
   "id": "HideNavBar",
-  "timestamp": 1672873450.0,
+  "timestamp": 1661404564.0,
   "versions": [
     {
-      "timestamp": 1696885332.0,
-      "version": "v23.0",
-      "versionCode": 58,
-      "zipUrl": "https://alt-repo.sanmer.app/modules/HideNavBar/v23.0_58.zip",
-      "changelog": ""
-    },
-    {
-      "timestamp": 1697217956.0,
-      "version": "v24.0",
-      "versionCode": 59,
-      "zipUrl": "https://alt-repo.sanmer.app/modules/HideNavBar/v24.0_59.zip",
-      "changelog": ""
-    },
-    {
-      "timestamp": 1711575269.0,
-      "version": "v26.1",
-      "versionCode": 61,
-      "zipUrl": "https://alt-repo.sanmer.app/modules/HideNavBar/v26.1_61.zip",
+      "timestamp": 1661404564.0,
+      "version": "v21.0",
+      "versionCode": 55,
+      "zipUrl": "https://galeksandrp.github.io/magisk-modules-repo/modules/HideNavBar/v21.0_55.zip",
       "changelog": ""
     }
   ]

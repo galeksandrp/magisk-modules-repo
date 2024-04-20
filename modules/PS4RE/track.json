@@ -1,0 +1,10 @@
+{
+  "id": "PS4RE",
+  "enable": true,
+  "update_to": "https://github.com/Magisk-Modules-Repo/PS4RE.git",
+  "source": "https://github.com/Magisk-Modules-Repo/PS4RE.git",
+  "support": "https://github.com/Magisk-Modules-Repo/PS4RE/issues",
+  "added": 1713598999.342081,
+  "last_update": 1560369370.0,
+  "versions": 1
+}

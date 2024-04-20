@@ -1,0 +1,13 @@
+{
+  "id": "sqlite3",
+  "timestamp": 1553868882.0,
+  "versions": [
+    {
+      "timestamp": 1553868882.0,
+      "version": "v1.3",
+      "versionCode": 13,
+      "zipUrl": "https://galeksandrp.github.io/magisk-modules-repo/modules/sqlite3/v1.3_13.zip",
+      "changelog": ""
+    }
+  ]
+}

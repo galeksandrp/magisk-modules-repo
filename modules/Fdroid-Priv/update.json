@@ -1,12 +1,12 @@
 {
   "id": "Fdroid-Priv",
-  "timestamp": 1647226419.0,
+  "timestamp": 1626865690.0,
   "versions": [
     {
-      "timestamp": 1647226419.0,
-      "version": "Version 0.2.13",
-      "versionCode": 20220314,
-      "zipUrl": "https://alt-repo.sanmer.app/modules/Fdroid-Priv/Version_0.2.13_20220314.zip",
+      "timestamp": 1626865690.0,
+      "version": "2021-07-21",
+      "versionCode": 19,
+      "zipUrl": "https://galeksandrp.github.io/magisk-modules-repo/modules/Fdroid-Priv/2021-07-21_19.zip",
       "changelog": ""
     }
   ]

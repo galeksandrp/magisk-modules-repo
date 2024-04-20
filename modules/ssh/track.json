@@ -1,0 +1,10 @@
+{
+  "id": "ssh",
+  "enable": true,
+  "update_to": "https://github.com/Magisk-Modules-Repo/ssh.git",
+  "source": "https://github.com/Magisk-Modules-Repo/ssh.git",
+  "support": "https://github.com/Magisk-Modules-Repo/ssh/issues",
+  "added": 1713599005.574584,
+  "last_update": 1691227633.0,
+  "versions": 1
+}

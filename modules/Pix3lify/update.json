@@ -1,0 +1,13 @@
+{
+  "id": "Pix3lify",
+  "timestamp": 1570707773.0,
+  "versions": [
+    {
+      "timestamp": 1570707773.0,
+      "version": "v3.0.4",
+      "versionCode": 304,
+      "zipUrl": "https://galeksandrp.github.io/magisk-modules-repo/modules/Pix3lify/v3.0.4_304.zip",
+      "changelog": ""
+    }
+  ]
+}

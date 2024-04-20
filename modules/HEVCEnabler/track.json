@@ -1,0 +1,10 @@
+{
+  "id": "HEVCEnabler",
+  "enable": true,
+  "update_to": "https://github.com/Magisk-Modules-Repo/HEVCEnabler.git",
+  "source": "https://github.com/Magisk-Modules-Repo/HEVCEnabler.git",
+  "support": "https://github.com/Magisk-Modules-Repo/HEVCEnabler/issues",
+  "added": 1713598985.340807,
+  "last_update": 1558593884.0,
+  "versions": 1
+}

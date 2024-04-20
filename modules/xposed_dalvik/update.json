@@ -1,0 +1,13 @@
+{
+  "id": "xposed_dalvik",
+  "timestamp": 1580548677.0,
+  "versions": [
+    {
+      "timestamp": 1580548677.0,
+      "version": "v58",
+      "versionCode": 5800,
+      "zipUrl": "https://galeksandrp.github.io/magisk-modules-repo/modules/xposed_dalvik/v58_5800.zip",
+      "changelog": ""
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "id": "hidden_settings",
+  "timestamp": 1577599943.0,
+  "versions": [
+    {
+      "timestamp": 1577599943.0,
+      "version": "v0.0.4",
+      "versionCode": 4,
+      "zipUrl": "https://galeksandrp.github.io/magisk-modules-repo/modules/hidden_settings/v0.0.4_4.zip",
+      "changelog": ""
+    }
+  ]
+}

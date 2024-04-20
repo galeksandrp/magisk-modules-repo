@@ -1,0 +1,11 @@
+{
+  "id": "disable-screenshot-camera-sounds",
+  "enable": true,
+  "update_to": "https://github.com/Magisk-Modules-Repo/disable-screenshot-camera-sounds.git",
+  "license": "GPL-3.0",
+  "source": "https://github.com/Magisk-Modules-Repo/disable-screenshot-camera-sounds.git",
+  "support": "https://github.com/Magisk-Modules-Repo/disable-screenshot-camera-sounds/issues",
+  "added": 1713598979.853423,
+  "last_update": 1576219272.0,
+  "versions": 1
+}

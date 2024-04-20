@@ -1,0 +1,10 @@
+{
+  "id": "HideGesBar",
+  "enable": true,
+  "update_to": "https://github.com/Magisk-Modules-Repo/HideGesBar.git",
+  "source": "https://github.com/Magisk-Modules-Repo/HideGesBar.git",
+  "support": "https://github.com/Magisk-Modules-Repo/HideGesBar/issues",
+  "added": 1713598985.82183,
+  "last_update": 1592364980.0,
+  "versions": 1
+}

@@ -1,0 +1,11 @@
+{
+  "id": "benchkit",
+  "enable": true,
+  "update_to": "https://github.com/Magisk-Modules-Repo/benchkit.git",
+  "license": "GPL-2.0",
+  "source": "https://github.com/Magisk-Modules-Repo/benchkit.git",
+  "support": "https://github.com/Magisk-Modules-Repo/benchkit/issues",
+  "added": 1713598973.229092,
+  "last_update": 1618613114.0,
+  "versions": 1
+}

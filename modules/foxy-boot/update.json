@@ -1,0 +1,13 @@
+{
+  "id": "foxy-boot",
+  "timestamp": 1558352762.0,
+  "versions": [
+    {
+      "timestamp": 1558352762.0,
+      "version": "1.4",
+      "versionCode": 5,
+      "zipUrl": "https://galeksandrp.github.io/magisk-modules-repo/modules/foxy-boot/1.4_5.zip",
+      "changelog": ""
+    }
+  ]
+}

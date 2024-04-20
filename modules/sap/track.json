@@ -1,0 +1,10 @@
+{
+  "id": "sap",
+  "enable": true,
+  "update_to": "https://github.com/Magisk-Modules-Repo/sap.git",
+  "source": "https://github.com/Magisk-Modules-Repo/sap.git",
+  "support": "https://github.com/Magisk-Modules-Repo/sap/issues",
+  "added": 1713599004.331934,
+  "last_update": 1573497054.0,
+  "versions": 1
+}

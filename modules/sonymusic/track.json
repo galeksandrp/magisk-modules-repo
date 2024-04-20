@@ -1,0 +1,10 @@
+{
+  "id": "sonymusic",
+  "enable": true,
+  "update_to": "https://github.com/Magisk-Modules-Repo/sonymusic.git",
+  "source": "https://github.com/Magisk-Modules-Repo/sonymusic.git",
+  "support": "https://github.com/Magisk-Modules-Repo/sonymusic/issues",
+  "added": 1713599003.90866,
+  "last_update": 1587373770.0,
+  "versions": 1
+}

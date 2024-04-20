@@ -1,0 +1,13 @@
+{
+  "id": "ctenabler",
+  "timestamp": 1591010796.0,
+  "versions": [
+    {
+      "timestamp": 1591010796.0,
+      "version": "0.0.4",
+      "versionCode": 4,
+      "zipUrl": "https://galeksandrp.github.io/magisk-modules-repo/modules/ctenabler/0.0.4_4.zip",
+      "changelog": ""
+    }
+  ]
+}

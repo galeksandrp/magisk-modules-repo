@@ -1,0 +1,11 @@
+{
+  "id": "disable-mdnsd",
+  "enable": true,
+  "update_to": "https://github.com/Magisk-Modules-Repo/disable-mdnsd.git",
+  "license": "GPL-3.0",
+  "source": "https://github.com/Magisk-Modules-Repo/disable-mdnsd.git",
+  "support": "https://github.com/Magisk-Modules-Repo/disable-mdnsd/issues",
+  "added": 1713598979.411483,
+  "last_update": 1559311937.0,
+  "versions": 1
+}

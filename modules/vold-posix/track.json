@@ -1,0 +1,10 @@
+{
+  "id": "vold-posix",
+  "enable": true,
+  "update_to": "https://github.com/Magisk-Modules-Repo/vold-posix.git",
+  "source": "https://github.com/Magisk-Modules-Repo/vold-posix.git",
+  "support": "https://github.com/Magisk-Modules-Repo/vold-posix/issues",
+  "added": 1713599012.00273,
+  "last_update": 1573283495.0,
+  "versions": 1
+}

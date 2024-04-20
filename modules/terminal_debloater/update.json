@@ -1,0 +1,13 @@
+{
+  "id": "terminal_debloater",
+  "timestamp": 1578134354.0,
+  "versions": [
+    {
+      "timestamp": 1578134354.0,
+      "version": "v17.3.3",
+      "versionCode": 76,
+      "zipUrl": "https://galeksandrp.github.io/magisk-modules-repo/modules/terminal_debloater/v17.3.3_76.zip",
+      "changelog": ""
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "id": "logcat",
+  "timestamp": 1556251162.0,
+  "versions": [
+    {
+      "timestamp": 1556251162.0,
+      "version": "v17",
+      "versionCode": 17,
+      "zipUrl": "https://galeksandrp.github.io/magisk-modules-repo/modules/logcat/v17_17.zip",
+      "changelog": ""
+    }
+  ]
+}

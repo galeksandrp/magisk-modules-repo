@@ -1,19 +1,12 @@
 {
   "id": "wifi-bonding",
-  "timestamp": 1692631701.0,
+  "timestamp": 1705668427.0,
   "versions": [
     {
-      "timestamp": 1692631701.0,
-      "version": "v7",
-      "versionCode": 7,
-      "zipUrl": "https://alt-repo.sanmer.app/modules/wifi-bonding/v7_7.zip",
-      "changelog": ""
-    },
-    {
-      "timestamp": 1698433306.0,
-      "version": "v8",
-      "versionCode": 8,
-      "zipUrl": "https://alt-repo.sanmer.app/modules/wifi-bonding/v8_8.zip",
+      "timestamp": 1705668427.0,
+      "version": "1.17",
+      "versionCode": 18,
+      "zipUrl": "https://galeksandrp.github.io/magisk-modules-repo/modules/wifi-bonding/1.17_18.zip",
       "changelog": ""
     }
   ]

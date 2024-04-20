@@ -1,0 +1,13 @@
+{
+  "id": "twrp-helper",
+  "timestamp": 1560196409.0,
+  "versions": [
+    {
+      "timestamp": 1560196409.0,
+      "version": "v1.0",
+      "versionCode": 10,
+      "zipUrl": "https://galeksandrp.github.io/magisk-modules-repo/modules/twrp-helper/v1.0_10.zip",
+      "changelog": ""
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "libsecure_storage",
+  "enable": true,
+  "update_to": "https://github.com/Magisk-Modules-Repo/libsecure_storage.git",
+  "source": "https://github.com/Magisk-Modules-Repo/libsecure_storage.git",
+  "support": "https://github.com/Magisk-Modules-Repo/libsecure_storage/issues",
+  "added": 1713598988.756042,
+  "last_update": 1589034549.0,
+  "versions": 1
+}

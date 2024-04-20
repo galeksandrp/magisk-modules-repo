@@ -1,0 +1,13 @@
+{
+  "id": "callrecorder-skvalex",
+  "timestamp": 1705220452.0,
+  "versions": [
+    {
+      "timestamp": 1705220452.0,
+      "version": "2.3.0 (3.6.6)",
+      "versionCode": 53,
+      "zipUrl": "https://galeksandrp.github.io/magisk-modules-repo/modules/callrecorder-skvalex/2.3.0_3.6.6_53.zip",
+      "changelog": ""
+    }
+  ]
+}

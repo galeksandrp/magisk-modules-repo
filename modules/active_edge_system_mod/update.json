@@ -1,0 +1,13 @@
+{
+  "id": "active_edge_system_mod",
+  "timestamp": 1634279056.0,
+  "versions": [
+    {
+      "timestamp": 1634279056.0,
+      "version": "v84",
+      "versionCode": 84,
+      "zipUrl": "https://galeksandrp.github.io/magisk-modules-repo/modules/active_edge_system_mod/v84_84.zip",
+      "changelog": ""
+    }
+  ]
+}

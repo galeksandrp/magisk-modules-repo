@@ -1,0 +1,13 @@
+{
+  "id": "sonymusic",
+  "timestamp": 1587373770.0,
+  "versions": [
+    {
+      "timestamp": 1587373770.0,
+      "version": "Q_r2",
+      "versionCode": 5,
+      "zipUrl": "https://galeksandrp.github.io/magisk-modules-repo/modules/sonymusic/Q_r2_5.zip",
+      "changelog": ""
+    }
+  ]
+}

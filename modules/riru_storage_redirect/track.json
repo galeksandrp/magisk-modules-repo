@@ -1,0 +1,10 @@
+{
+  "id": "riru_storage_redirect",
+  "enable": true,
+  "update_to": "https://github.com/Magisk-Modules-Repo/riru_storage_redirect.git",
+  "homepage": "https://sr.rikka.app/guide/enhanced_mode/",
+  "source": "https://github.com/Magisk-Modules-Repo/riru_storage_redirect.git",
+  "added": 1713599002.444944,
+  "last_update": 1632298657.0,
+  "versions": 1
+}

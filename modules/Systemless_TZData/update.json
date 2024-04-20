@@ -1,0 +1,13 @@
+{
+  "id": "Systemless_TZData",
+  "timestamp": 1612729412.0,
+  "versions": [
+    {
+      "timestamp": 1612729412.0,
+      "version": "2020A&F",
+      "versionCode": 16,
+      "zipUrl": "https://galeksandrp.github.io/magisk-modules-repo/modules/Systemless_TZData/2020AF_16.zip",
+      "changelog": ""
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "aospill",
+  "enable": true,
+  "update_to": "https://github.com/Magisk-Modules-Repo/aospill.git",
+  "source": "https://github.com/Magisk-Modules-Repo/aospill.git",
+  "support": "https://github.com/Magisk-Modules-Repo/aospill/issues",
+  "added": 1713598970.693652,
+  "last_update": 1635105924.0,
+  "versions": 1
+}

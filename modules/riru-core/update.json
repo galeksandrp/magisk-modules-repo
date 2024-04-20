@@ -1,0 +1,13 @@
+{
+  "id": "riru-core",
+  "timestamp": 1639570144.0,
+  "versions": [
+    {
+      "timestamp": 1639570144.0,
+      "version": "v26.1.4.r522.8b379cedb5",
+      "versionCode": 522,
+      "zipUrl": "https://galeksandrp.github.io/magisk-modules-repo/modules/riru-core/v26.1.4.r522.8b379cedb5_522.zip",
+      "changelog": ""
+    }
+  ]
+}

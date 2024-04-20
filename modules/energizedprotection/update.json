@@ -1,0 +1,13 @@
+{
+  "id": "energizedprotection",
+  "timestamp": 1644066160.0,
+  "versions": [
+    {
+      "timestamp": 1644066160.0,
+      "version": "1.3.6",
+      "versionCode": 220215136,
+      "zipUrl": "https://galeksandrp.github.io/magisk-modules-repo/modules/energizedprotection/1.3.6_220215136.zip",
+      "changelog": ""
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "id": "terminalmods",
+  "timestamp": 1659728121.0,
+  "versions": [
+    {
+      "timestamp": 1659728121.0,
+      "version": "v1.4.6",
+      "versionCode": 146,
+      "zipUrl": "https://galeksandrp.github.io/magisk-modules-repo/modules/terminalmods/v1.4.6_146.zip",
+      "changelog": ""
+    }
+  ]
+}

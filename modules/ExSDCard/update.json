@@ -1,0 +1,13 @@
+{
+  "id": "ExSDCard",
+  "timestamp": 1603352462.0,
+  "versions": [
+    {
+      "timestamp": 1603352462.0,
+      "version": "v3.5",
+      "versionCode": 35,
+      "zipUrl": "https://galeksandrp.github.io/magisk-modules-repo/modules/ExSDCard/v3.5_35.zip",
+      "changelog": ""
+    }
+  ]
+}

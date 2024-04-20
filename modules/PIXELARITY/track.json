@@ -1,0 +1,11 @@
+{
+  "id": "PIXELARITY",
+  "enable": true,
+  "update_to": "https://github.com/Magisk-Modules-Repo/PIXELARITY.git",
+  "license": "GPL-3.0",
+  "source": "https://github.com/Magisk-Modules-Repo/PIXELARITY.git",
+  "support": "https://github.com/Magisk-Modules-Repo/PIXELARITY/issues",
+  "added": 1713598999.36358,
+  "last_update": 1585933115.0,
+  "versions": 1
+}

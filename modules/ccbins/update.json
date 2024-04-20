@@ -1,0 +1,13 @@
+{
+  "id": "ccbins",
+  "timestamp": 1711830438.0,
+  "versions": [
+    {
+      "timestamp": 1711830438.0,
+      "version": "v12",
+      "versionCode": 17,
+      "zipUrl": "https://galeksandrp.github.io/magisk-modules-repo/modules/ccbins/v12_17.zip",
+      "changelog": ""
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "id": "riru-core",
+  "enable": true,
+  "update_to": "https://github.com/Magisk-Modules-Repo/riru-core.git",
+  "source": "https://github.com/Magisk-Modules-Repo/riru-core.git",
+  "added": 1713599000.893832,
+  "last_update": 1639570144.0,
+  "versions": 1
+}

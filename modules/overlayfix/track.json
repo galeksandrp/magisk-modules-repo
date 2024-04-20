@@ -1,0 +1,10 @@
+{
+  "id": "overlayfix",
+  "enable": true,
+  "update_to": "https://github.com/Magisk-Modules-Repo/overlayfix.git",
+  "source": "https://github.com/Magisk-Modules-Repo/overlayfix.git",
+  "support": "https://github.com/Magisk-Modules-Repo/overlayfix/issues",
+  "added": 1713598997.735774,
+  "last_update": 1637106254.0,
+  "versions": 1
+}

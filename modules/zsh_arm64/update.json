@@ -1,0 +1,13 @@
+{
+  "id": "zsh_arm64",
+  "timestamp": 1565287472.0,
+  "versions": [
+    {
+      "timestamp": 1565287472.0,
+      "version": "1.4",
+      "versionCode": 14,
+      "zipUrl": "https://galeksandrp.github.io/magisk-modules-repo/modules/zsh_arm64/1.4_14.zip",
+      "changelog": ""
+    }
+  ]
+}

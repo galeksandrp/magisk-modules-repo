@@ -1,0 +1,13 @@
+{
+  "id": "acp",
+  "timestamp": 1713599207.229515,
+  "versions": [
+    {
+      "timestamp": 1713599207.229515,
+      "version": "v2.5",
+      "versionCode": 39,
+      "zipUrl": "https://galeksandrp.github.io/magisk-modules-repo/modules/acp/v2.5_39.zip",
+      "changelog": "https://galeksandrp.github.io/magisk-modules-repo/modules/acp/v2.5_39.md"
+    }
+  ]
+}

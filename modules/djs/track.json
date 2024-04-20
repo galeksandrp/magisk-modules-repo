@@ -1,12 +1,13 @@
 {
   "id": "djs",
   "enable": true,
-  "update_to": "git@github.com:Magisk-Modules-Alt-Repo/djs.git",
+  "update_to": "https://github.com/Magisk-Modules-Repo/djs.git",
   "license": "GPL-3.0",
   "homepage": "https://github.com/VR-25/djs",
-  "source": "https://github.com/Magisk-Modules-Alt-Repo/djs.git",
+  "source": "https://github.com/Magisk-Modules-Repo/djs.git",
+  "support": "https://github.com/Magisk-Modules-Repo/djs/issues",
   "donate": "https://patreon.com/VR25",
-  "added": 1680541889.915128,
-  "last_update": 1639484648.0,
+  "added": 1713598980.03282,
+  "last_update": 1639485482.0,
   "versions": 1
 }

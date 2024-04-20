@@ -1,0 +1,10 @@
+{
+  "id": "BluetoothLibraryPatcher",
+  "enable": true,
+  "update_to": "https://github.com/Magisk-Modules-Repo/BluetoothLibraryPatcher.git",
+  "source": "https://github.com/Magisk-Modules-Repo/BluetoothLibraryPatcher.git",
+  "support": "https://github.com/Magisk-Modules-Repo/BluetoothLibraryPatcher/issues",
+  "added": 1713598973.693399,
+  "last_update": 1643204930.0,
+  "versions": 1
+}

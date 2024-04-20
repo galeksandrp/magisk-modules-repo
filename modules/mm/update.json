@@ -1,0 +1,13 @@
+{
+  "id": "mm",
+  "timestamp": 1554374616.0,
+  "versions": [
+    {
+      "timestamp": 1554374616.0,
+      "version": "2019.4.4",
+      "versionCode": 201904040,
+      "zipUrl": "https://galeksandrp.github.io/magisk-modules-repo/modules/mm/2019.4.4_201904040.zip",
+      "changelog": ""
+    }
+  ]
+}

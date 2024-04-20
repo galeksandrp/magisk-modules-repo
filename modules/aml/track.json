@@ -1,0 +1,10 @@
+{
+  "id": "aml",
+  "enable": true,
+  "update_to": "https://raw.githubusercontent.com/Magisk-Modules-Repo/aml/master/update.json",
+  "source": "https://github.com/Magisk-Modules-Repo/aml.git",
+  "support": "https://github.com/Magisk-Modules-Repo/aml/issues",
+  "added": 1713598970.055487,
+  "last_update": 1713599232.049712,
+  "versions": 1
+}

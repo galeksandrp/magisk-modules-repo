@@ -1,0 +1,11 @@
+{
+  "id": "wirelessFirmware",
+  "enable": true,
+  "update_to": "https://github.com/Magisk-Modules-Repo/wirelessFirmware.git",
+  "license": "MIT",
+  "source": "https://github.com/Magisk-Modules-Repo/wirelessFirmware.git",
+  "support": "https://github.com/Magisk-Modules-Repo/wirelessFirmware/issues",
+  "added": 1713599014.023662,
+  "last_update": 1604117671.0,
+  "versions": 1
+}

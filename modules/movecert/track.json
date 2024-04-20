@@ -1,0 +1,10 @@
+{
+  "id": "movecert",
+  "enable": true,
+  "update_to": "https://github.com/Magisk-Modules-Repo/movecert.git",
+  "source": "https://github.com/Magisk-Modules-Repo/movecert.git",
+  "support": "https://github.com/Magisk-Modules-Repo/movecert/issues",
+  "added": 1713598992.923925,
+  "last_update": 1656286469.0,
+  "versions": 1
+}

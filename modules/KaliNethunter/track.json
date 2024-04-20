@@ -1,0 +1,10 @@
+{
+  "id": "KaliNethunter",
+  "enable": true,
+  "update_to": "https://github.com/Magisk-Modules-Repo/KaliNethunter.git",
+  "source": "https://github.com/Magisk-Modules-Repo/KaliNethunter.git",
+  "support": "https://github.com/Magisk-Modules-Repo/KaliNethunter/issues",
+  "added": 1713598986.347115,
+  "last_update": 1565052950.0,
+  "versions": 1
+}

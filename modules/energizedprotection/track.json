@@ -1,0 +1,12 @@
+{
+  "id": "energizedprotection",
+  "enable": true,
+  "update_to": "https://github.com/Magisk-Modules-Repo/energizedprotection.git",
+  "license": "MIT",
+  "homepage": "https://energized.pro",
+  "source": "https://github.com/Magisk-Modules-Repo/energizedprotection.git",
+  "support": "https://github.com/Magisk-Modules-Repo/energizedprotection/issues",
+  "added": 1713598982.293832,
+  "last_update": 1644066160.0,
+  "versions": 1
+}

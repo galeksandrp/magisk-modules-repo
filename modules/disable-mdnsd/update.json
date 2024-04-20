@@ -1,0 +1,13 @@
+{
+  "id": "disable-mdnsd",
+  "timestamp": 1559311937.0,
+  "versions": [
+    {
+      "timestamp": 1559311937.0,
+      "version": "v1.0",
+      "versionCode": 1,
+      "zipUrl": "https://galeksandrp.github.io/magisk-modules-repo/modules/disable-mdnsd/v1.0_1.zip",
+      "changelog": ""
+    }
+  ]
+}

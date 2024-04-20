@@ -1,0 +1,13 @@
+{
+  "id": "v2ray",
+  "timestamp": 1644507409.0,
+  "versions": [
+    {
+      "timestamp": 1644507409.0,
+      "version": "2.0.1",
+      "versionCode": 20220119,
+      "zipUrl": "https://galeksandrp.github.io/magisk-modules-repo/modules/v2ray/2.0.1_20220119.zip",
+      "changelog": ""
+    }
+  ]
+}

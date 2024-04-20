@@ -1,0 +1,11 @@
+{
+  "id": "MagiskHidePropsConf",
+  "enable": true,
+  "update_to": "https://github.com/Magisk-Modules-Repo/MagiskHidePropsConf.git",
+  "license": "MIT",
+  "source": "https://github.com/Magisk-Modules-Repo/MagiskHidePropsConf.git",
+  "support": "https://github.com/Magisk-Modules-Repo/MagiskHidePropsConf/issues",
+  "added": 1713598989.885639,
+  "last_update": 1673294532.0,
+  "versions": 1
+}

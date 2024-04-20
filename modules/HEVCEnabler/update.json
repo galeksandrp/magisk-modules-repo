@@ -1,0 +1,13 @@
+{
+  "id": "HEVCEnabler",
+  "timestamp": 1558593884.0,
+  "versions": [
+    {
+      "timestamp": 1558593884.0,
+      "version": "v3.4",
+      "versionCode": 13,
+      "zipUrl": "https://galeksandrp.github.io/magisk-modules-repo/modules/HEVCEnabler/v3.4_13.zip",
+      "changelog": ""
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "id": "wifi5ghzdisabler",
+  "timestamp": 1635503401.0,
+  "versions": [
+    {
+      "timestamp": 1635503401.0,
+      "version": "v1",
+      "versionCode": 1,
+      "zipUrl": "https://galeksandrp.github.io/magisk-modules-repo/modules/wifi5ghzdisabler/v1_1.zip",
+      "changelog": ""
+    }
+  ]
+}

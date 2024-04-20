@@ -1,0 +1,13 @@
+{
+  "id": "liboemcryptodisabler",
+  "timestamp": 1608463908.0,
+  "versions": [
+    {
+      "timestamp": 1608463908.0,
+      "version": "v1.5",
+      "versionCode": 15,
+      "zipUrl": "https://galeksandrp.github.io/magisk-modules-repo/modules/liboemcryptodisabler/v1.5_15.zip",
+      "changelog": ""
+    }
+  ]
+}

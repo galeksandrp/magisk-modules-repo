@@ -1,0 +1,11 @@
+{
+  "id": "foxy-boot",
+  "enable": true,
+  "update_to": "https://github.com/Magisk-Modules-Repo/foxy-boot.git",
+  "license": "GPL-3.0",
+  "source": "https://github.com/Magisk-Modules-Repo/foxy-boot.git",
+  "support": "https://github.com/Magisk-Modules-Repo/foxy-boot/issues",
+  "added": 1713598982.68435,
+  "last_update": 1558352762.0,
+  "versions": 1
+}

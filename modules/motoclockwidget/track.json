@@ -1,0 +1,11 @@
+{
+  "id": "motoclockwidget",
+  "enable": true,
+  "update_to": "https://github.com/Magisk-Modules-Repo/motoclockwidget.git",
+  "license": "GPL-2.0",
+  "source": "https://github.com/Magisk-Modules-Repo/motoclockwidget.git",
+  "support": "https://github.com/Magisk-Modules-Repo/motoclockwidget/issues",
+  "added": 1713598992.739408,
+  "last_update": 1594398059.0,
+  "versions": 1
+}

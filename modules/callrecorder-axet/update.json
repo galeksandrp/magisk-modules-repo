@@ -1,0 +1,13 @@
+{
+  "id": "callrecorder-axet",
+  "timestamp": 1587032621.0,
+  "versions": [
+    {
+      "timestamp": 1587032621.0,
+      "version": "v1.0.1",
+      "versionCode": 10010,
+      "zipUrl": "https://galeksandrp.github.io/magisk-modules-repo/modules/callrecorder-axet/v1.0.1_10010.zip",
+      "changelog": ""
+    }
+  ]
+}

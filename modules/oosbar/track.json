@@ -1,0 +1,10 @@
+{
+  "id": "oosbar",
+  "enable": true,
+  "update_to": "https://github.com/Magisk-Modules-Repo/oosbar.git",
+  "source": "https://github.com/Magisk-Modules-Repo/oosbar.git",
+  "support": "https://github.com/Magisk-Modules-Repo/oosbar/issues",
+  "added": 1713598997.321859,
+  "last_update": 1637769337.0,
+  "versions": 1
+}

@@ -1,0 +1,13 @@
+{
+  "id": "aospill",
+  "timestamp": 1635105924.0,
+  "versions": [
+    {
+      "timestamp": 1635105924.0,
+      "version": "v3.1",
+      "versionCode": 4,
+      "zipUrl": "https://galeksandrp.github.io/magisk-modules-repo/modules/aospill/v3.1_4.zip",
+      "changelog": ""
+    }
+  ]
+}

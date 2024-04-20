@@ -1,0 +1,13 @@
+{
+  "id": "riru_lsposed",
+  "timestamp": 1638705863.0,
+  "versions": [
+    {
+      "timestamp": 1638705863.0,
+      "version": "v1.6.5 (6272)",
+      "versionCode": 6272,
+      "zipUrl": "https://galeksandrp.github.io/magisk-modules-repo/modules/riru_lsposed/v1.6.5_6272.zip",
+      "changelog": ""
+    }
+  ]
+}

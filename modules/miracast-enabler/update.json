@@ -1,0 +1,13 @@
+{
+  "id": "miracast-enabler",
+  "timestamp": 1563509191.0,
+  "versions": [
+    {
+      "timestamp": 1563509191.0,
+      "version": "v3",
+      "versionCode": 3,
+      "zipUrl": "https://galeksandrp.github.io/magisk-modules-repo/modules/miracast-enabler/v3_3.zip",
+      "changelog": ""
+    }
+  ]
+}

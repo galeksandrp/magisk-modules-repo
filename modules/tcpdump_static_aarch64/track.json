@@ -1,0 +1,10 @@
+{
+  "id": "tcpdump_static_aarch64",
+  "enable": true,
+  "update_to": "https://github.com/Magisk-Modules-Repo/tcpdump_static_aarch64.git",
+  "source": "https://github.com/Magisk-Modules-Repo/tcpdump_static_aarch64.git",
+  "support": "https://github.com/Magisk-Modules-Repo/tcpdump_static_aarch64/issues",
+  "added": 1713599006.97843,
+  "last_update": 1581418007.0,
+  "versions": 1
+}

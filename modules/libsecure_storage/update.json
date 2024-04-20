@@ -1,0 +1,13 @@
+{
+  "id": "libsecure_storage",
+  "timestamp": 1589034549.0,
+  "versions": [
+    {
+      "timestamp": 1589034549.0,
+      "version": "v2.1",
+      "versionCode": 21,
+      "zipUrl": "https://galeksandrp.github.io/magisk-modules-repo/modules/libsecure_storage/v2.1_21.zip",
+      "changelog": ""
+    }
+  ]
+}

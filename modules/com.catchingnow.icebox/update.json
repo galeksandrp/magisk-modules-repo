@@ -1,0 +1,13 @@
+{
+  "id": "com.catchingnow.icebox",
+  "timestamp": 1557655646.0,
+  "versions": [
+    {
+      "timestamp": 1557655646.0,
+      "version": "v2.1",
+      "versionCode": 3,
+      "zipUrl": "https://galeksandrp.github.io/magisk-modules-repo/modules/com.catchingnow.icebox/v2.1_3.zip",
+      "changelog": ""
+    }
+  ]
+}

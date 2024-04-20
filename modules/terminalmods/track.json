@@ -1,0 +1,10 @@
+{
+  "id": "terminalmods",
+  "enable": true,
+  "update_to": "https://github.com/Magisk-Modules-Repo/terminalmods.git",
+  "source": "https://github.com/Magisk-Modules-Repo/terminalmods.git",
+  "support": "https://github.com/Magisk-Modules-Repo/terminalmods/issues",
+  "added": 1713599006.975945,
+  "last_update": 1659728121.0,
+  "versions": 1
+}

@@ -1,0 +1,10 @@
+{
+  "id": "riru_edxposed",
+  "enable": true,
+  "update_to": "https://github.com/Magisk-Modules-Repo/riru_edxposed.git",
+  "source": "https://github.com/Magisk-Modules-Repo/riru_edxposed.git",
+  "support": "https://github.com/Magisk-Modules-Repo/riru_edxposed/issues",
+  "added": 1713599001.0129,
+  "last_update": 1613616737.0,
+  "versions": 1
+}

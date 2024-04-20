@@ -1,0 +1,13 @@
+{
+  "id": "NfcScreenOff",
+  "timestamp": 1646764356.0,
+  "versions": [
+    {
+      "timestamp": 1646764356.0,
+      "version": "v0.3.3",
+      "versionCode": 33,
+      "zipUrl": "https://galeksandrp.github.io/magisk-modules-repo/modules/NfcScreenOff/v0.3.3_33.zip",
+      "changelog": ""
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "airaudio",
+  "enable": true,
+  "update_to": "https://github.com/Magisk-Modules-Repo/airaudio.git",
+  "source": "https://github.com/Magisk-Modules-Repo/airaudio.git",
+  "support": "https://github.com/Magisk-Modules-Repo/airaudio/issues",
+  "added": 1713598970.042914,
+  "last_update": 1633287965.0,
+  "versions": 1
+}

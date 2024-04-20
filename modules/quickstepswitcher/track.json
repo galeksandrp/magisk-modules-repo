@@ -1,0 +1,11 @@
+{
+  "id": "quickstepswitcher",
+  "enable": true,
+  "update_to": "https://github.com/Magisk-Modules-Repo/quickstepswitcher.git",
+  "source": "https://github.com/Magisk-Modules-Repo/quickstepswitcher.git",
+  "support": "https://github.com/Magisk-Modules-Repo/quickstepswitcher/issues",
+  "donate": "https://github.com/sponsors/skittles9823",
+  "added": 1713599000.450803,
+  "last_update": 1635597762.0,
+  "versions": 1
+}

@@ -1,0 +1,10 @@
+{
+  "id": "terminal_systemizer",
+  "enable": true,
+  "update_to": "https://github.com/Magisk-Modules-Repo/terminal_systemizer.git",
+  "source": "https://github.com/Magisk-Modules-Repo/terminal_systemizer.git",
+  "support": "https://github.com/Magisk-Modules-Repo/terminal_systemizer/issues",
+  "added": 1713599008.617034,
+  "last_update": 1571840288.0,
+  "versions": 1
+}

@@ -1,0 +1,13 @@
+{
+  "id": "GoogleDialerFramework",
+  "timestamp": 1666307084.0,
+  "versions": [
+    {
+      "timestamp": 1666307084.0,
+      "version": "v9",
+      "versionCode": 9,
+      "zipUrl": "https://galeksandrp.github.io/magisk-modules-repo/modules/GoogleDialerFramework/v9_9.zip",
+      "changelog": ""
+    }
+  ]
+}

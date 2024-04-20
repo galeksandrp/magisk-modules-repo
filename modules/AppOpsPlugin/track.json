@@ -1,0 +1,10 @@
+{
+  "id": "AppOpsPlugin",
+  "enable": true,
+  "update_to": "https://github.com/Magisk-Modules-Repo/AppOpsPlugin.git",
+  "source": "https://github.com/Magisk-Modules-Repo/AppOpsPlugin.git",
+  "support": "https://github.com/Magisk-Modules-Repo/AppOpsPlugin/issues",
+  "added": 1713598970.286706,
+  "last_update": 1563144810.0,
+  "versions": 1
+}

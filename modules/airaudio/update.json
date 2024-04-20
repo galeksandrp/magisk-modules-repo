@@ -1,0 +1,13 @@
+{
+  "id": "airaudio",
+  "timestamp": 1633287965.0,
+  "versions": [
+    {
+      "timestamp": 1633287965.0,
+      "version": "v10",
+      "versionCode": 10,
+      "zipUrl": "https://galeksandrp.github.io/magisk-modules-repo/modules/airaudio/v10_10.zip",
+      "changelog": ""
+    }
+  ]
+}

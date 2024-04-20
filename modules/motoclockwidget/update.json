@@ -1,0 +1,13 @@
+{
+  "id": "motoclockwidget",
+  "timestamp": 1594398059.0,
+  "versions": [
+    {
+      "timestamp": 1594398059.0,
+      "version": "v10.2",
+      "versionCode": 35,
+      "zipUrl": "https://galeksandrp.github.io/magisk-modules-repo/modules/motoclockwidget/v10.2_35.zip",
+      "changelog": ""
+    }
+  ]
+}

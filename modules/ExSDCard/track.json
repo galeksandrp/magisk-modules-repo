@@ -1,0 +1,12 @@
+{
+  "id": "ExSDCard",
+  "enable": true,
+  "update_to": "https://github.com/Magisk-Modules-Repo/ExSDCard.git",
+  "license": "GPL-3.0",
+  "homepage": "https://forum.xda-developers.com/apps/magisk/module-exsdcard-write-access-enabler-t3670428/",
+  "source": "https://github.com/Magisk-Modules-Repo/ExSDCard.git",
+  "support": "https://github.com/Magisk-Modules-Repo/ExSDCard/issues",
+  "added": 1713598982.270239,
+  "last_update": 1603352462.0,
+  "versions": 1
+}

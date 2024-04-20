@@ -1,0 +1,10 @@
+{
+  "id": "com.catchingnow.icebox",
+  "enable": true,
+  "update_to": "https://github.com/Magisk-Modules-Repo/com.catchingnow.icebox.git",
+  "source": "https://github.com/Magisk-Modules-Repo/com.catchingnow.icebox.git",
+  "support": "https://github.com/Magisk-Modules-Repo/com.catchingnow.icebox/issues",
+  "added": 1713598976.861335,
+  "last_update": 1557655646.0,
+  "versions": 1
+}

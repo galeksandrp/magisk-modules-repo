@@ -1,0 +1,8 @@
+{
+  "id": "mtd-ndk",
+  "enable": true,
+  "update_to": "https://raw.githubusercontent.com/Magisk-Modules-Repo/mtd-ndk/master/update.json",
+  "source": "https://github.com/Magisk-Modules-Repo/mtd-ndk.git",
+  "donate": "https://github.com/sponsors/osm0sis",
+  "added": 1713598992.720934
+}

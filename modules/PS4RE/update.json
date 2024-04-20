@@ -1,0 +1,13 @@
+{
+  "id": "PS4RE",
+  "timestamp": 1560369370.0,
+  "versions": [
+    {
+      "timestamp": 1560369370.0,
+      "version": "v1",
+      "versionCode": 1,
+      "zipUrl": "https://galeksandrp.github.io/magisk-modules-repo/modules/PS4RE/v1_1.zip",
+      "changelog": ""
+    }
+  ]
+}

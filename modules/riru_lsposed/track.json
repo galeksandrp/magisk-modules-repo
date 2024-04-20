@@ -1,0 +1,10 @@
+{
+  "id": "riru_lsposed",
+  "enable": true,
+  "update_to": "https://github.com/Magisk-Modules-Repo/riru_lsposed.git",
+  "source": "https://github.com/Magisk-Modules-Repo/riru_lsposed.git",
+  "support": "https://github.com/Magisk-Modules-Repo/riru_lsposed/issues",
+  "added": 1713599002.405685,
+  "last_update": 1638705863.0,
+  "versions": 1
+}

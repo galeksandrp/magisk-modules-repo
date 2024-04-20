@@ -1,11 +1,11 @@
 {
   "id": "HideNavBar",
   "enable": true,
-  "update_to": "git@github.com:Magisk-Modules-Alt-Repo/HideNavBar.git",
+  "update_to": "https://github.com/Magisk-Modules-Repo/HideNavBar.git",
   "license": "GPL-3.0",
-  "source": "https://github.com/Magisk-Modules-Alt-Repo/HideNavBar.git",
-  "support": "https://github.com/Magisk-Modules-Alt-Repo/HideNavBar/issues",
-  "added": 1692474369.872873,
-  "last_update": 1711575269.0,
-  "versions": 3
+  "source": "https://github.com/Magisk-Modules-Repo/HideNavBar.git",
+  "support": "https://github.com/Magisk-Modules-Repo/HideNavBar/issues",
+  "added": 1713598985.916664,
+  "last_update": 1661404564.0,
+  "versions": 1
 }

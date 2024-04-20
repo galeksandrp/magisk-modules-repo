@@ -1,0 +1,10 @@
+{
+  "id": "GoogleDialerFramework",
+  "enable": true,
+  "update_to": "https://github.com/Magisk-Modules-Repo/GoogleDialerFramework.git",
+  "source": "https://github.com/Magisk-Modules-Repo/GoogleDialerFramework.git",
+  "support": "https://github.com/Magisk-Modules-Repo/GoogleDialerFramework/issues",
+  "added": 1713598983.193909,
+  "last_update": 1666307084.0,
+  "versions": 1
+}

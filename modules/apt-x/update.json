@@ -1,0 +1,13 @@
+{
+  "id": "apt-x",
+  "timestamp": 1554995684.0,
+  "versions": [
+    {
+      "timestamp": 1554995684.0,
+      "version": "v1.1",
+      "versionCode": 3,
+      "zipUrl": "https://galeksandrp.github.io/magisk-modules-repo/modules/apt-x/v1.1_3.zip",
+      "changelog": ""
+    }
+  ]
+}

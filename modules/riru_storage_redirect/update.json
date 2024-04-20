@@ -1,0 +1,13 @@
+{
+  "id": "riru_storage_redirect",
+  "timestamp": 1632298657.0,
+  "versions": [
+    {
+      "timestamp": 1632298657.0,
+      "version": "v25.1.1",
+      "versionCode": 74,
+      "zipUrl": "https://galeksandrp.github.io/magisk-modules-repo/modules/riru_storage_redirect/v25.1.1_74.zip",
+      "changelog": ""
+    }
+  ]
+}

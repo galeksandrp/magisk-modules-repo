@@ -1,0 +1,13 @@
+{
+  "id": "PIXELARITY",
+  "timestamp": 1585933115.0,
+  "versions": [
+    {
+      "timestamp": 1585933115.0,
+      "version": "v3.8",
+      "versionCode": 1909152340,
+      "zipUrl": "https://galeksandrp.github.io/magisk-modules-repo/modules/PIXELARITY/v3.8_1909152340.zip",
+      "changelog": ""
+    }
+  ]
+}

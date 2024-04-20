@@ -1,0 +1,10 @@
+{
+  "id": "v2ray",
+  "enable": true,
+  "update_to": "https://github.com/Magisk-Modules-Repo/v2ray.git",
+  "source": "https://github.com/Magisk-Modules-Repo/v2ray.git",
+  "support": "https://github.com/Magisk-Modules-Repo/v2ray/issues",
+  "added": 1713599010.416491,
+  "last_update": 1644507409.0,
+  "versions": 1
+}

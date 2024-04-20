@@ -1,0 +1,13 @@
+{
+  "id": "ViPER4AndroidXHiFi",
+  "timestamp": 1565532193.0,
+  "versions": [
+    {
+      "timestamp": 1565532193.0,
+      "version": "v1.6",
+      "versionCode": 27,
+      "zipUrl": "https://galeksandrp.github.io/magisk-modules-repo/modules/ViPER4AndroidXHiFi/v1.6_27.zip",
+      "changelog": ""
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "id": "ainur_narsil",
+  "timestamp": 1713599229.916348,
+  "versions": [
+    {
+      "timestamp": 1713599229.916348,
+      "version": "MK I (18.05.2022)",
+      "versionCode": 56,
+      "zipUrl": "https://galeksandrp.github.io/magisk-modules-repo/modules/ainur_narsil/MK_I_18.05.2022_56.zip",
+      "changelog": "https://galeksandrp.github.io/magisk-modules-repo/modules/ainur_narsil/MK_I_18.05.2022_56.md"
+    }
+  ]
+}

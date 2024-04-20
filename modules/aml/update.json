@@ -1,0 +1,13 @@
+{
+  "id": "aml",
+  "timestamp": 1713599232.049712,
+  "versions": [
+    {
+      "timestamp": 1713599232.049712,
+      "version": "v5.1",
+      "versionCode": 59,
+      "zipUrl": "https://galeksandrp.github.io/magisk-modules-repo/modules/aml/v5.1_59.zip",
+      "changelog": "https://galeksandrp.github.io/magisk-modules-repo/modules/aml/v5.1_59.md"
+    }
+  ]
+}

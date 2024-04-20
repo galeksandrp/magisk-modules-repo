@@ -1,0 +1,10 @@
+{
+  "id": "IPControl",
+  "enable": true,
+  "update_to": "https://github.com/Magisk-Modules-Repo/IPControl.git",
+  "source": "https://github.com/Magisk-Modules-Repo/IPControl.git",
+  "support": "https://github.com/Magisk-Modules-Repo/IPControl/issues",
+  "added": 1713598986.230574,
+  "last_update": 1569912326.0,
+  "versions": 1
+}

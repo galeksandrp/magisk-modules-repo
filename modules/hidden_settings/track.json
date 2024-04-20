@@ -1,0 +1,10 @@
+{
+  "id": "hidden_settings",
+  "enable": true,
+  "update_to": "https://github.com/Magisk-Modules-Repo/hidden_settings.git",
+  "source": "https://github.com/Magisk-Modules-Repo/hidden_settings.git",
+  "support": "https://github.com/Magisk-Modules-Repo/hidden_settings/issues",
+  "added": 1713598985.363608,
+  "last_update": 1577599943.0,
+  "versions": 1
+}

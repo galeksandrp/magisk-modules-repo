@@ -1,0 +1,10 @@
+{
+  "id": "zsh_arm64",
+  "enable": true,
+  "update_to": "https://github.com/Magisk-Modules-Repo/zsh_arm64.git",
+  "source": "https://github.com/Magisk-Modules-Repo/zsh_arm64.git",
+  "support": "https://github.com/Magisk-Modules-Repo/zsh_arm64/issues",
+  "added": 1713599016.560633,
+  "last_update": 1565287472.0,
+  "versions": 1
+}

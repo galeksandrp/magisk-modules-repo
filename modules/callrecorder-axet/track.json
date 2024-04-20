@@ -1,0 +1,11 @@
+{
+  "id": "callrecorder-axet",
+  "enable": true,
+  "update_to": "https://github.com/Magisk-Modules-Repo/callrecorder-axet.git",
+  "license": "GPL-3.0",
+  "source": "https://github.com/Magisk-Modules-Repo/callrecorder-axet.git",
+  "support": "https://github.com/Magisk-Modules-Repo/callrecorder-axet/issues",
+  "added": 1713598975.907827,
+  "last_update": 1587032621.0,
+  "versions": 1
+}

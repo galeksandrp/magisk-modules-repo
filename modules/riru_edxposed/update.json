@@ -1,0 +1,13 @@
+{
+  "id": "riru_edxposed",
+  "timestamp": 1613616737.0,
+  "versions": [
+    {
+      "timestamp": 1613616737.0,
+      "version": "v0.5.2.2_4683-master",
+      "versionCode": 4683,
+      "zipUrl": "https://galeksandrp.github.io/magisk-modules-repo/modules/riru_edxposed/v0.5.2.2_4683-master_4683.zip",
+      "changelog": ""
+    }
+  ]
+}

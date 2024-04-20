@@ -1,0 +1,13 @@
+{
+  "id": "G-VisualMod",
+  "timestamp": 1612675127.0,
+  "versions": [
+    {
+      "timestamp": 1612675127.0,
+      "version": "v4.1",
+      "versionCode": 36,
+      "zipUrl": "https://galeksandrp.github.io/magisk-modules-repo/modules/G-VisualMod/v4.1_36.zip",
+      "changelog": ""
+    }
+  ]
+}

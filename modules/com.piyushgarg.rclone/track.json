@@ -1,0 +1,11 @@
+{
+  "id": "com.piyushgarg.rclone",
+  "enable": true,
+  "update_to": "https://github.com/Magisk-Modules-Repo/com.piyushgarg.rclone.git",
+  "changelog": "https://raw.githubusercontent.com/Magisk-Modules-Repo/com.piyushgarg.rclone/master/changelog.md",
+  "source": "https://github.com/Magisk-Modules-Repo/com.piyushgarg.rclone.git",
+  "support": "https://github.com/Magisk-Modules-Repo/com.piyushgarg.rclone/issues",
+  "added": 1713598978.970765,
+  "last_update": 1630828774.0,
+  "versions": 1
+}

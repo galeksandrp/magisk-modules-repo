@@ -1,0 +1,10 @@
+{
+  "id": "acp",
+  "enable": true,
+  "update_to": "https://raw.githubusercontent.com/Magisk-Modules-Repo/acp/master/update.json",
+  "license": "GPL-2.0",
+  "source": "https://github.com/Magisk-Modules-Repo/acp.git",
+  "added": 1713598966.983583,
+  "last_update": 1713599207.229515,
+  "versions": 1
+}

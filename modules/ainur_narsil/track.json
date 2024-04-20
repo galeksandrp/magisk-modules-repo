@@ -1,0 +1,10 @@
+{
+  "id": "ainur_narsil",
+  "enable": true,
+  "update_to": "https://raw.githubusercontent.com/Magisk-Modules-Repo/ainur_narsil/master/update.json",
+  "homepage": "https://ainuraudio.ru/sauron-ainur-audio/",
+  "source": "https://github.com/Magisk-Modules-Repo/ainur_narsil.git",
+  "added": 1713598969.611244,
+  "last_update": 1713599229.916348,
+  "versions": 1
+}

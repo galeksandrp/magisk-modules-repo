@@ -1,0 +1,13 @@
+{
+  "id": "AppOpsPlugin",
+  "timestamp": 1563144810.0,
+  "versions": [
+    {
+      "timestamp": 1563144810.0,
+      "version": "v8",
+      "versionCode": 8,
+      "zipUrl": "https://galeksandrp.github.io/magisk-modules-repo/modules/AppOpsPlugin/v8_8.zip",
+      "changelog": ""
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "id": "xmlpak",
+  "enable": true,
+  "update_to": "https://github.com/Magisk-Modules-Repo/xmlpak.git",
+  "changelog": "https://raw.githubusercontent.com/Magisk-Modules-Repo/xmlpak/master/changelog.md",
+  "source": "https://github.com/Magisk-Modules-Repo/xmlpak.git",
+  "support": "https://github.com/Magisk-Modules-Repo/xmlpak/issues",
+  "added": 1713599015.293038,
+  "last_update": 1658425594.0,
+  "versions": 1
+}

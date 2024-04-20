@@ -1,0 +1,13 @@
+{
+  "id": "HideGesBar",
+  "timestamp": 1592364980.0,
+  "versions": [
+    {
+      "timestamp": 1592364980.0,
+      "version": "v1.0",
+      "versionCode": 1,
+      "zipUrl": "https://galeksandrp.github.io/magisk-modules-repo/modules/HideGesBar/v1.0_1.zip",
+      "changelog": ""
+    }
+  ]
+}

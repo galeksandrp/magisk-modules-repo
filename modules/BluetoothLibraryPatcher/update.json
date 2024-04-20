@@ -1,0 +1,13 @@
+{
+  "id": "BluetoothLibraryPatcher",
+  "timestamp": 1643204930.0,
+  "versions": [
+    {
+      "timestamp": 1643204930.0,
+      "version": "v2.3.2",
+      "versionCode": 232,
+      "zipUrl": "https://galeksandrp.github.io/magisk-modules-repo/modules/BluetoothLibraryPatcher/v2.3.2_232.zip",
+      "changelog": ""
+    }
+  ]
+}

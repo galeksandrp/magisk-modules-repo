@@ -1,0 +1,13 @@
+{
+  "id": "sap",
+  "timestamp": 1573497054.0,
+  "versions": [
+    {
+      "timestamp": 1573497054.0,
+      "version": "v1.2",
+      "versionCode": 12,
+      "zipUrl": "https://galeksandrp.github.io/magisk-modules-repo/modules/sap/v1.2_12.zip",
+      "changelog": ""
+    }
+  ]
+}

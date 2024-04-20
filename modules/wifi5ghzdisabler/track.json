@@ -1,0 +1,10 @@
+{
+  "id": "wifi5ghzdisabler",
+  "enable": true,
+  "update_to": "https://github.com/Magisk-Modules-Repo/wifi5ghzdisabler.git",
+  "source": "https://github.com/Magisk-Modules-Repo/wifi5ghzdisabler.git",
+  "support": "https://github.com/Magisk-Modules-Repo/wifi5ghzdisabler/issues",
+  "added": 1713599013.532288,
+  "last_update": 1635503401.0,
+  "versions": 1
+}

@@ -1,10 +1,10 @@
-# Magisk Modules Alt Repo (mirror)
+# Magisk Modules Repo (mirror)
 - This repository stores modules for [MRepo](https://github.com/MRepoApp/MRepo).
-- This is a mirror of [Magisk-Modules-Alt-Repo](https://github.com/Magisk-Modules-Alt-Repo).
+- This is a mirror of [Magisk-Modules-Repo](https://github.com/Magisk-Modules-Repo).
 
 ## Use in MRepo
 ```
-https://alt-repo.sanmer.app/
+https://galeksandrp.github.io/magisk-modules-repo/
 ```
 
 ## How to update?

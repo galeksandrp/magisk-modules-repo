@@ -1,0 +1,13 @@
+{
+  "id": "ViPER4AndroidFX-Legacy",
+  "timestamp": 1565532645.0,
+  "versions": [
+    {
+      "timestamp": 1565532645.0,
+      "version": "v4.4",
+      "versionCode": 86,
+      "zipUrl": "https://galeksandrp.github.io/magisk-modules-repo/modules/ViPER4AndroidFX-Legacy/v4.4_86.zip",
+      "changelog": ""
+    }
+  ]
+}

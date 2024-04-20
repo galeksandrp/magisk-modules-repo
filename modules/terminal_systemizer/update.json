@@ -1,0 +1,13 @@
+{
+  "id": "terminal_systemizer",
+  "timestamp": 1571840288.0,
+  "versions": [
+    {
+      "timestamp": 1571840288.0,
+      "version": "v17.3.1",
+      "versionCode": 70,
+      "zipUrl": "https://galeksandrp.github.io/magisk-modules-repo/modules/terminal_systemizer/v17.3.1_70.zip",
+      "changelog": ""
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "id": "overlayfix",
+  "timestamp": 1637106254.0,
+  "versions": [
+    {
+      "timestamp": 1637106254.0,
+      "version": "v2.4",
+      "versionCode": 9,
+      "zipUrl": "https://galeksandrp.github.io/magisk-modules-repo/modules/overlayfix/v2.4_9.zip",
+      "changelog": ""
+    }
+  ]
+}

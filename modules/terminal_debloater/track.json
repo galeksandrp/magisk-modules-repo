@@ -1,0 +1,10 @@
+{
+  "id": "terminal_debloater",
+  "enable": true,
+  "update_to": "https://github.com/Magisk-Modules-Repo/terminal_debloater.git",
+  "source": "https://github.com/Magisk-Modules-Repo/terminal_debloater.git",
+  "support": "https://github.com/Magisk-Modules-Repo/terminal_debloater/issues",
+  "added": 1713599007.432831,
+  "last_update": 1578134354.0,
+  "versions": 1
+}

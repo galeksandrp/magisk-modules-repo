@@ -1,0 +1,11 @@
+{
+  "id": "miracast-enabler",
+  "enable": true,
+  "update_to": "https://github.com/Magisk-Modules-Repo/miracast-enabler.git",
+  "license": "MIT",
+  "source": "https://github.com/Magisk-Modules-Repo/miracast-enabler.git",
+  "support": "https://github.com/Magisk-Modules-Repo/miracast-enabler/issues",
+  "added": 1713598991.609533,
+  "last_update": 1563509191.0,
+  "versions": 1
+}

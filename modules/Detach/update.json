@@ -1,12 +1,12 @@
 {
   "id": "Detach",
-  "timestamp": 1645534294.0,
+  "timestamp": 1643991324.0,
   "versions": [
     {
-      "timestamp": 1645534294.0,
+      "timestamp": 1643991324.0,
       "version": "v5.3",
       "versionCode": 530,
-      "zipUrl": "https://alt-repo.sanmer.app/modules/Detach/v5.3_530.zip",
+      "zipUrl": "https://galeksandrp.github.io/magisk-modules-repo/modules/Detach/v5.3_530.zip",
       "changelog": ""
     }
   ]

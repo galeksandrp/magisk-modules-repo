@@ -1,0 +1,10 @@
+{
+  "id": "sqlite3",
+  "enable": true,
+  "update_to": "https://github.com/Magisk-Modules-Repo/sqlite3.git",
+  "source": "https://github.com/Magisk-Modules-Repo/sqlite3.git",
+  "support": "https://github.com/Magisk-Modules-Repo/sqlite3/issues",
+  "added": 1713599005.558444,
+  "last_update": 1553868882.0,
+  "versions": 1
+}

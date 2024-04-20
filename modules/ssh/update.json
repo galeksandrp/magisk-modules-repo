@@ -1,0 +1,13 @@
+{
+  "id": "ssh",
+  "timestamp": 1691227633.0,
+  "versions": [
+    {
+      "timestamp": 1691227633.0,
+      "version": "v0.16",
+      "versionCode": 15,
+      "zipUrl": "https://galeksandrp.github.io/magisk-modules-repo/modules/ssh/v0.16_15.zip",
+      "changelog": ""
+    }
+  ]
+}

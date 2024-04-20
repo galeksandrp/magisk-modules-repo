@@ -1,0 +1,9 @@
+{
+  "id": "active_edge_system_mod",
+  "enable": true,
+  "update_to": "https://github.com/Magisk-Modules-Repo/active_edge_system_mod.git",
+  "source": "https://github.com/Magisk-Modules-Repo/active_edge_system_mod.git",
+  "added": 1713598967.404057,
+  "last_update": 1634279056.0,
+  "versions": 1
+}

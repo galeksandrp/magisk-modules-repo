@@ -1,0 +1,11 @@
+{
+  "id": "NfcScreenOff",
+  "enable": true,
+  "update_to": "https://github.com/Magisk-Modules-Repo/NfcScreenOff.git",
+  "homepage": "https://forum.xda-developers.com/apps/magisk/module-nfcscreenoff8-t4034903",
+  "source": "https://github.com/Magisk-Modules-Repo/NfcScreenOff.git",
+  "support": "https://github.com/Magisk-Modules-Repo/NfcScreenOff/issues",
+  "added": 1713598995.168152,
+  "last_update": 1646764356.0,
+  "versions": 1
+}

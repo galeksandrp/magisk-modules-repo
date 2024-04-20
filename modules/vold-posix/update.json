@@ -1,0 +1,13 @@
+{
+  "id": "vold-posix",
+  "timestamp": 1573283495.0,
+  "versions": [
+    {
+      "timestamp": 1573283495.0,
+      "version": "3.0.1",
+      "versionCode": 184,
+      "zipUrl": "https://galeksandrp.github.io/magisk-modules-repo/modules/vold-posix/3.0.1_184.zip",
+      "changelog": ""
+    }
+  ]
+}

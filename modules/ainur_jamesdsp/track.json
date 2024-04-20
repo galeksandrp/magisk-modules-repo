@@ -1,0 +1,9 @@
+{
+  "id": "ainur_jamesdsp",
+  "enable": true,
+  "update_to": "https://raw.githubusercontent.com/Magisk-Modules-Repo/ainur_jamesdsp/master/update.json",
+  "source": "https://github.com/Magisk-Modules-Repo/ainur_jamesdsp.git",
+  "added": 1713598969.608611,
+  "last_update": 1713599227.842663,
+  "versions": 1
+}

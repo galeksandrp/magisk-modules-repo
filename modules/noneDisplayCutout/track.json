@@ -1,0 +1,10 @@
+{
+  "id": "noneDisplayCutout",
+  "enable": true,
+  "update_to": "https://github.com/Magisk-Modules-Repo/noneDisplayCutout.git",
+  "source": "https://github.com/Magisk-Modules-Repo/noneDisplayCutout.git",
+  "support": "https://github.com/Magisk-Modules-Repo/noneDisplayCutout/issues",
+  "added": 1713598996.037054,
+  "last_update": 1612255684.0,
+  "versions": 1
+}
