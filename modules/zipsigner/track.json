@@ -4,5 +4,7 @@
   "update_to": "https://raw.githubusercontent.com/Magisk-Modules-Repo/zipsigner/master/update.json",
   "source": "https://github.com/Magisk-Modules-Repo/zipsigner.git",
   "donate": "https://github.com/sponsors/osm0sis",
-  "added": 1713599015.719114
+  "added": 1713599015.719114,
+  "last_update": 1716844820.0,
+  "versions": 1
 }

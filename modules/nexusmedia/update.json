@@ -1,0 +1,13 @@
+{
+  "id": "nexusmedia",
+  "timestamp": 1716844807.0,
+  "versions": [
+    {
+      "timestamp": 1716844807.0,
+      "version": "#device#",
+      "versionCode": 42,
+      "zipUrl": "https://galeksandrp.github.io/magisk-modules-repo/modules/nexusmedia/device_42.zip",
+      "changelog": "https://galeksandrp.github.io/magisk-modules-repo/modules/nexusmedia/device_42.md"
+    }
+  ]
+}

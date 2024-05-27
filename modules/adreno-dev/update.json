@@ -1,0 +1,13 @@
+{
+  "id": "adreno-dev",
+  "timestamp": 1716844794.0,
+  "versions": [
+    {
+      "timestamp": 1716844794.0,
+      "version": "#version#",
+      "versionCode": 34,
+      "zipUrl": "https://galeksandrp.github.io/magisk-modules-repo/modules/adreno-dev/version_34.zip",
+      "changelog": "https://galeksandrp.github.io/magisk-modules-repo/modules/adreno-dev/version_34.md"
+    }
+  ]
+}

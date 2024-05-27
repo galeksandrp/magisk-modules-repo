@@ -4,5 +4,7 @@
   "update_to": "https://raw.githubusercontent.com/Magisk-Modules-Repo/adb-ndk/master/update.json",
   "source": "https://github.com/Magisk-Modules-Repo/adb-ndk.git",
   "donate": "https://github.com/sponsors/osm0sis",
-  "added": 1713598966.925843
+  "added": 1713598966.925843,
+  "last_update": 1716844794.0,
+  "versions": 1
 }

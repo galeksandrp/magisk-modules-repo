@@ -4,5 +4,7 @@
   "update_to": "https://raw.githubusercontent.com/Magisk-Modules-Repo/adreno-dev/master/update.json",
   "source": "https://github.com/Magisk-Modules-Repo/adreno-dev.git",
   "donate": "https://github.com/sponsors/osm0sis",
-  "added": 1713598966.934983
+  "added": 1713598966.934983,
+  "last_update": 1716844794.0,
+  "versions": 1
 }

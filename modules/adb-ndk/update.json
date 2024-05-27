@@ -1,0 +1,13 @@
+{
+  "id": "adb-ndk",
+  "timestamp": 1716844794.0,
+  "versions": [
+    {
+      "timestamp": 1716844794.0,
+      "version": "1.0.41",
+      "versionCode": 104114,
+      "zipUrl": "https://galeksandrp.github.io/magisk-modules-repo/modules/adb-ndk/1.0.41_104114.zip",
+      "changelog": "https://galeksandrp.github.io/magisk-modules-repo/modules/adb-ndk/1.0.41_104114.md"
+    }
+  ]
+}

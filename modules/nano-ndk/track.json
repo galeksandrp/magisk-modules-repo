@@ -4,5 +4,7 @@
   "update_to": "https://raw.githubusercontent.com/Magisk-Modules-Repo/nano-ndk/master/update.json",
   "source": "https://github.com/Magisk-Modules-Repo/nano-ndk.git",
   "donate": "https://github.com/sponsors/osm0sis",
-  "added": 1713598994.512434
+  "added": 1713598994.512434,
+  "last_update": 1716844806.0,
+  "versions": 1
 }

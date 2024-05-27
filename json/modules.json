@@ -2,7 +2,7 @@
   "name": "Magisk Modules Repo (mirror)",
   "metadata": {
     "version": 1,
-    "timestamp": 1716239881.108187
+    "timestamp": 1716844831.074513
   },
   "modules": [
     {
@@ -734,6 +734,58 @@
       ]
     },
     {
+      "id": "adb-ndk",
+      "name": "ADB & Fastboot for Android NDK",
+      "version": "1.0.41",
+      "versionCode": 104114,
+      "author": "osm0sis & Surge1223 @ xda-developers",
+      "description": "Static arm/arm64 adb and fastboot binaries for Android built with the NDK",
+      "track": {
+        "type": "ONLINE_JSON",
+        "added": 1713598966.925843,
+        "license": "",
+        "homepage": "",
+        "source": "https://github.com/Magisk-Modules-Repo/adb-ndk.git",
+        "support": "",
+        "donate": "https://github.com/sponsors/osm0sis"
+      },
+      "versions": [
+        {
+          "timestamp": 1716844794.0,
+          "version": "1.0.41",
+          "versionCode": 104114,
+          "zipUrl": "https://galeksandrp.github.io/magisk-modules-repo/modules/adb-ndk/1.0.41_104114.zip",
+          "changelog": "https://galeksandrp.github.io/magisk-modules-repo/modules/adb-ndk/1.0.41_104114.md"
+        }
+      ]
+    },
+    {
+      "id": "adreno-dev",
+      "name": "Adreno GPU Developer Preview Drivers",
+      "version": "#version#",
+      "versionCode": 34,
+      "author": "osm0sis @ xda-developers",
+      "description": "Replace ROM Adreno GPU drivers from Qualcomm",
+      "track": {
+        "type": "ONLINE_JSON",
+        "added": 1713598966.934983,
+        "license": "",
+        "homepage": "",
+        "source": "https://github.com/Magisk-Modules-Repo/adreno-dev.git",
+        "support": "",
+        "donate": "https://github.com/sponsors/osm0sis"
+      },
+      "versions": [
+        {
+          "timestamp": 1716844794.0,
+          "version": "#version#",
+          "versionCode": 34,
+          "zipUrl": "https://galeksandrp.github.io/magisk-modules-repo/modules/adreno-dev/version_34.zip",
+          "changelog": "https://galeksandrp.github.io/magisk-modules-repo/modules/adreno-dev/version_34.md"
+        }
+      ]
+    },
+    {
       "id": "ainur_jamesdsp",
       "name": "JamesDSP Manager",
       "version": "v6.0 (11-27-2023/11-24-2023)",
@@ -912,6 +964,32 @@
           "versionCode": 200604,
           "zipUrl": "https://galeksandrp.github.io/magisk-modules-repo/modules/benchkit/v2.6.4_200604.zip",
           "changelog": ""
+        }
+      ]
+    },
+    {
+      "id": "busybox-ndk",
+      "name": "Busybox for Android NDK",
+      "version": "1.36.1",
+      "versionCode": 13614,
+      "author": "osm0sis @ xda-developers",
+      "description": "Static busybox binary for all Android architectures built with the NDK",
+      "track": {
+        "type": "ONLINE_JSON",
+        "added": 1713598973.515277,
+        "license": "",
+        "homepage": "",
+        "source": "https://github.com/Magisk-Modules-Repo/busybox-ndk.git",
+        "support": "",
+        "donate": "https://github.com/sponsors/osm0sis"
+      },
+      "versions": [
+        {
+          "timestamp": 1716844796.0,
+          "version": "1.36.1",
+          "versionCode": 13614,
+          "zipUrl": "https://galeksandrp.github.io/magisk-modules-repo/modules/busybox-ndk/1.36.1_13614.zip",
+          "changelog": "https://galeksandrp.github.io/magisk-modules-repo/modules/busybox-ndk/1.36.1_13614.md"
         }
       ]
     },
@@ -1488,6 +1566,84 @@
       ]
     },
     {
+      "id": "mtd-ndk",
+      "name": "mtd-utils for Android NDK",
+      "version": "2.2.0",
+      "versionCode": 2200,
+      "author": "osm0sis @ xda-developers",
+      "description": "Static arm/arm64 mtd-utils (flash_erase, flash_lock, flash_unlock, nanddump and nandwrite) binaries for Android built with the NDK",
+      "track": {
+        "type": "ONLINE_JSON",
+        "added": 1713598992.720934,
+        "license": "",
+        "homepage": "",
+        "source": "https://github.com/Magisk-Modules-Repo/mtd-ndk.git",
+        "support": "",
+        "donate": "https://github.com/sponsors/osm0sis"
+      },
+      "versions": [
+        {
+          "timestamp": 1716844806.0,
+          "version": "2.2.0",
+          "versionCode": 2200,
+          "zipUrl": "https://galeksandrp.github.io/magisk-modules-repo/modules/mtd-ndk/2.2.0_2200.zip",
+          "changelog": "https://galeksandrp.github.io/magisk-modules-repo/modules/mtd-ndk/2.2.0_2200.md"
+        }
+      ]
+    },
+    {
+      "id": "nano-ndk",
+      "name": "Nano for Android NDK",
+      "version": "8.0",
+      "versionCode": 8000,
+      "author": "osm0sis @ xda-developers",
+      "description": "Static arm/arm64 nano binary for Android built with the NDK",
+      "track": {
+        "type": "ONLINE_JSON",
+        "added": 1713598994.512434,
+        "license": "",
+        "homepage": "",
+        "source": "https://github.com/Magisk-Modules-Repo/nano-ndk.git",
+        "support": "",
+        "donate": "https://github.com/sponsors/osm0sis"
+      },
+      "versions": [
+        {
+          "timestamp": 1716844806.0,
+          "version": "8.0",
+          "versionCode": 8000,
+          "zipUrl": "https://galeksandrp.github.io/magisk-modules-repo/modules/nano-ndk/8.0_8000.zip",
+          "changelog": "https://galeksandrp.github.io/magisk-modules-repo/modules/nano-ndk/8.0_8000.md"
+        }
+      ]
+    },
+    {
+      "id": "nexusmedia",
+      "name": "Nexus Media",
+      "version": "#device#",
+      "versionCode": 42,
+      "author": "osm0sis @ xda-developers",
+      "description": "Replace ROM ringtones/notification/system sounds and bootanimation with those from old Nexus devices (chosen at flash-time)",
+      "track": {
+        "type": "ONLINE_JSON",
+        "added": 1713598994.261051,
+        "license": "",
+        "homepage": "",
+        "source": "https://github.com/Magisk-Modules-Repo/nexusmedia.git",
+        "support": "",
+        "donate": "https://github.com/sponsors/osm0sis"
+      },
+      "versions": [
+        {
+          "timestamp": 1716844807.0,
+          "version": "#device#",
+          "versionCode": 42,
+          "zipUrl": "https://galeksandrp.github.io/magisk-modules-repo/modules/nexusmedia/device_42.zip",
+          "changelog": "https://galeksandrp.github.io/magisk-modules-repo/modules/nexusmedia/device_42.md"
+        }
+      ]
+    },
+    {
       "id": "noneDisplayCutout",
       "name": "None Display Cutout",
       "version": "v2",
@@ -1982,6 +2138,32 @@
       ]
     },
     {
+      "id": "twrp-keep",
+      "name": "TWRP A/B Retention Script",
+      "version": "Magisk",
+      "versionCode": 1,
+      "author": "osm0sis @ xda-developers",
+      "description": "Keep TWRP installed after an A/B OTA - Flash this after each OTA has installed, but before you install Magisk to Inactive Slot from the Magisk app",
+      "track": {
+        "type": "ONLINE_JSON",
+        "added": 1713599008.879787,
+        "license": "",
+        "homepage": "",
+        "source": "https://github.com/Magisk-Modules-Repo/twrp-keep.git",
+        "support": "",
+        "donate": "https://github.com/sponsors/osm0sis"
+      },
+      "versions": [
+        {
+          "timestamp": 1716844818.0,
+          "version": "Magisk",
+          "versionCode": 1,
+          "zipUrl": "https://galeksandrp.github.io/magisk-modules-repo/modules/twrp-keep/Magisk_1.zip",
+          "changelog": "https://galeksandrp.github.io/magisk-modules-repo/modules/twrp-keep/Magisk_1.md"
+        }
+      ]
+    },
+    {
       "id": "v2ray",
       "name": "V2ray for Android",
       "version": "2.0.1",
@@ -2160,6 +2342,32 @@
           "versionCode": 5800,
           "zipUrl": "https://galeksandrp.github.io/magisk-modules-repo/modules/xposed_dalvik/v58_5800.zip",
           "changelog": ""
+        }
+      ]
+    },
+    {
+      "id": "zipsigner",
+      "name": "Zip & ZipSigner for Android NDK",
+      "version": "3.0-13",
+      "versionCode": 301304,
+      "author": "osm0sis & topjohnwu @ xda-developers",
+      "description": "Wrapped dexed zipsigner.jar, and static arm/arm64 zip and zipalign binaries for Android built with the NDK",
+      "track": {
+        "type": "ONLINE_JSON",
+        "added": 1713599015.719114,
+        "license": "",
+        "homepage": "",
+        "source": "https://github.com/Magisk-Modules-Repo/zipsigner.git",
+        "support": "",
+        "donate": "https://github.com/sponsors/osm0sis"
+      },
+      "versions": [
+        {
+          "timestamp": 1716844820.0,
+          "version": "3.0-13",
+          "versionCode": 301304,
+          "zipUrl": "https://galeksandrp.github.io/magisk-modules-repo/modules/zipsigner/3.0-13_301304.zip",
+          "changelog": "https://galeksandrp.github.io/magisk-modules-repo/modules/zipsigner/3.0-13_301304.md"
         }
       ]
     },

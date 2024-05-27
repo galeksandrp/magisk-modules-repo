@@ -1,0 +1,13 @@
+{
+  "id": "twrp-keep",
+  "timestamp": 1716844818.0,
+  "versions": [
+    {
+      "timestamp": 1716844818.0,
+      "version": "Magisk",
+      "versionCode": 1,
+      "zipUrl": "https://galeksandrp.github.io/magisk-modules-repo/modules/twrp-keep/Magisk_1.zip",
+      "changelog": "https://galeksandrp.github.io/magisk-modules-repo/modules/twrp-keep/Magisk_1.md"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "id": "mtd-ndk",
+  "timestamp": 1716844806.0,
+  "versions": [
+    {
+      "timestamp": 1716844806.0,
+      "version": "2.2.0",
+      "versionCode": 2200,
+      "zipUrl": "https://galeksandrp.github.io/magisk-modules-repo/modules/mtd-ndk/2.2.0_2200.zip",
+      "changelog": "https://galeksandrp.github.io/magisk-modules-repo/modules/mtd-ndk/2.2.0_2200.md"
+    }
+  ]
+}

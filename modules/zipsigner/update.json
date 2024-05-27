@@ -1,0 +1,13 @@
+{
+  "id": "zipsigner",
+  "timestamp": 1716844820.0,
+  "versions": [
+    {
+      "timestamp": 1716844820.0,
+      "version": "3.0-13",
+      "versionCode": 301304,
+      "zipUrl": "https://galeksandrp.github.io/magisk-modules-repo/modules/zipsigner/3.0-13_301304.zip",
+      "changelog": "https://galeksandrp.github.io/magisk-modules-repo/modules/zipsigner/3.0-13_301304.md"
+    }
+  ]
+}
