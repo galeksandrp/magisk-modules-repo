@@ -2,7 +2,7 @@
   "name": "Magisk Modules Repo (mirror)",
   "metadata": {
     "version": 1,
-    "timestamp": 1717449587.648473
+    "timestamp": 1718054412.228602
   },
   "modules": [
     {
@@ -838,10 +838,10 @@
       ]
     },
     {
-      "id": "airaudio",
+      "id": "airmusic",
       "name": "AirMusic - stream your music!",
-      "version": "v10",
-      "versionCode": 10,
+      "version": "v11",
+      "versionCode": 11,
       "author": "AirMusic - stream your music!",
       "description": "This module enables AirMusic's (aka AirAudio) \"system-mode\" and allows you to stream all your audio to any network-enabled receiver.",
       "track": {
@@ -859,6 +859,13 @@
           "version": "v10",
           "versionCode": 10,
           "zipUrl": "https://galeksandrp.github.io/magisk-modules-repo/modules/airaudio/v10_10.zip",
+          "changelog": ""
+        },
+        {
+          "timestamp": 1718020150.0,
+          "version": "v11",
+          "versionCode": 11,
+          "zipUrl": "https://galeksandrp.github.io/magisk-modules-repo/modules/airaudio/v11_11.zip",
           "changelog": ""
         }
       ]
