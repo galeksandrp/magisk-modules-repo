@@ -8,6 +8,13 @@
       "versionCode": 2200,
       "zipUrl": "https://galeksandrp.github.io/magisk-modules-repo/modules/mtd-ndk/2.2.0_2200.zip",
       "changelog": "https://galeksandrp.github.io/magisk-modules-repo/modules/mtd-ndk/2.2.0_2200.md"
+    },
+    {
+      "timestamp": 1731360025.0,
+      "version": "2.2.1",
+      "versionCode": 2210,
+      "zipUrl": "https://galeksandrp.github.io/magisk-modules-repo/modules/mtd-ndk/2.2.1_2210.zip",
+      "changelog": "https://galeksandrp.github.io/magisk-modules-repo/modules/mtd-ndk/2.2.1_2210.md"
     }
   ]
 }
