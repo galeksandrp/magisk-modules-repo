@@ -15,6 +15,13 @@
       "versionCode": 11,
       "zipUrl": "https://galeksandrp.github.io/magisk-modules-repo/modules/airaudio/v11_11.zip",
       "changelog": ""
+    },
+    {
+      "timestamp": 1734264002.0,
+      "version": "v12",
+      "versionCode": 12,
+      "zipUrl": "https://galeksandrp.github.io/magisk-modules-repo/modules/airaudio/v12_12.zip",
+      "changelog": ""
     }
   ]
 }
