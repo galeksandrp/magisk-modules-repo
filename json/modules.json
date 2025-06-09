@@ -2,7 +2,7 @@
   "name": "Magisk Modules Repo (mirror)",
   "metadata": {
     "version": 1,
-    "timestamp": 1748899635.294745
+    "timestamp": 1749504335.530749
   },
   "modules": [
     {
@@ -1043,8 +1043,8 @@
     {
       "id": "callrecorder-skvalex",
       "name": "Call Recorder - SKVALEX",
-      "version": "3.6.8",
-      "versionCode": 55,
+      "version": "3.6.9",
+      "versionCode": 56,
       "author": "skvalex",
       "description": "App to record phone calls from the line with a power of root and Magisk",
       "track": {
@@ -1076,6 +1076,13 @@
           "version": "3.6.8",
           "versionCode": 55,
           "zipUrl": "https://galeksandrp.github.io/magisk-modules-repo/modules/callrecorder-skvalex/3.6.8_55.zip",
+          "changelog": ""
+        },
+        {
+          "timestamp": 1749060795.0,
+          "version": "3.6.9",
+          "versionCode": 56,
+          "zipUrl": "https://galeksandrp.github.io/magisk-modules-repo/modules/callrecorder-skvalex/3.6.9_56.zip",
           "changelog": ""
         }
       ]
