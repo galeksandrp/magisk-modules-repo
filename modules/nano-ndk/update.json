@@ -36,6 +36,13 @@
       "versionCode": 8400,
       "zipUrl": "https://galeksandrp.github.io/magisk-modules-repo/modules/nano-ndk/8.4_8400.zip",
       "changelog": "https://galeksandrp.github.io/magisk-modules-repo/modules/nano-ndk/8.4_8400.md"
+    },
+    {
+      "timestamp": 1750109106.0,
+      "version": "8.5",
+      "versionCode": 8500,
+      "zipUrl": "https://galeksandrp.github.io/magisk-modules-repo/modules/nano-ndk/8.5_8500.zip",
+      "changelog": "https://galeksandrp.github.io/magisk-modules-repo/modules/nano-ndk/8.5_8500.md"
     }
   ]
 }
