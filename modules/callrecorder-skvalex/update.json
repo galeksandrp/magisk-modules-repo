@@ -29,6 +29,13 @@
       "versionCode": 56,
       "zipUrl": "https://galeksandrp.github.io/magisk-modules-repo/modules/callrecorder-skvalex/3.6.9_56.zip",
       "changelog": ""
+    },
+    {
+      "timestamp": 1771878414.0,
+      "version": "3.7.1",
+      "versionCode": 58,
+      "zipUrl": "https://galeksandrp.github.io/magisk-modules-repo/modules/callrecorder-skvalex/3.7.1_58.zip",
+      "changelog": ""
     }
   ]
 }
