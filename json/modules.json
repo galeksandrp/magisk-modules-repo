@@ -2,7 +2,7 @@
   "name": "Magisk Modules Repo (mirror)",
   "metadata": {
     "version": 1,
-    "timestamp": 1775511980.370787
+    "timestamp": 1776117344.030133
   },
   "modules": [
     {
@@ -1043,8 +1043,8 @@
     {
       "id": "callrecorder-skvalex",
       "name": "Call Recorder - SKVALEX",
-      "version": "3.7.2",
-      "versionCode": 59,
+      "version": "3.7.3",
+      "versionCode": 60,
       "author": "skvalex",
       "description": "App to record phone calls from the line with a power of root and Magisk",
       "track": {
@@ -1097,6 +1097,13 @@
           "version": "3.7.2",
           "versionCode": 59,
           "zipUrl": "https://galeksandrp.github.io/magisk-modules-repo/modules/callrecorder-skvalex/3.7.2_59.zip",
+          "changelog": ""
+        },
+        {
+          "timestamp": 1775809416.0,
+          "version": "3.7.3",
+          "versionCode": 60,
+          "zipUrl": "https://galeksandrp.github.io/magisk-modules-repo/modules/callrecorder-skvalex/3.7.3_60.zip",
           "changelog": ""
         }
       ]
@@ -1664,8 +1671,8 @@
     {
       "id": "nano-ndk",
       "name": "Nano for Android NDK",
-      "version": "8.7.1",
-      "versionCode": 8710,
+      "version": "9.0",
+      "versionCode": 9000,
       "author": "osm0sis @ xda-developers",
       "description": "Static arm/arm64 nano binary for Android built with the NDK",
       "track": {
@@ -1740,6 +1747,13 @@
           "versionCode": 8710,
           "zipUrl": "https://galeksandrp.github.io/magisk-modules-repo/modules/nano-ndk/8.7.1_8710.zip",
           "changelog": "https://galeksandrp.github.io/magisk-modules-repo/modules/nano-ndk/8.7.1_8710.md"
+        },
+        {
+          "timestamp": 1776117316.0,
+          "version": "9.0",
+          "versionCode": 9000,
+          "zipUrl": "https://galeksandrp.github.io/magisk-modules-repo/modules/nano-ndk/9.0_9000.zip",
+          "changelog": "https://galeksandrp.github.io/magisk-modules-repo/modules/nano-ndk/9.0_9000.md"
         }
       ]
     },
