@@ -2,7 +2,7 @@
   "name": "Magisk Modules Repo (mirror)",
   "metadata": {
     "version": 1,
-    "timestamp": 1785795204.079095
+    "timestamp": 1786398780.001826
   },
   "modules": [
     {
@@ -1631,8 +1631,8 @@
     {
       "id": "mtd-ndk",
       "name": "mtd-utils for Android NDK",
-      "version": "2.3.0",
-      "versionCode": 2300,
+      "version": "2.3.1",
+      "versionCode": 2310,
       "author": "osm0sis @ xda-developers",
       "description": "Static arm/arm64 mtd-utils (flash_erase, flash_lock, flash_unlock, nanddump and nandwrite) binaries for Android built with the NDK",
       "track": {
@@ -1665,14 +1665,21 @@
           "versionCode": 2300,
           "zipUrl": "https://galeksandrp.github.io/magisk-modules-repo/modules/mtd-ndk/2.3.0_2300.zip",
           "changelog": "https://galeksandrp.github.io/magisk-modules-repo/modules/mtd-ndk/2.3.0_2300.md"
+        },
+        {
+          "timestamp": 1786196529.0,
+          "version": "2.3.1",
+          "versionCode": 2310,
+          "zipUrl": "https://galeksandrp.github.io/magisk-modules-repo/modules/mtd-ndk/2.3.1_2310.zip",
+          "changelog": "https://galeksandrp.github.io/magisk-modules-repo/modules/mtd-ndk/2.3.1_2310.md"
         }
       ]
     },
     {
       "id": "nano-ndk",
       "name": "Nano for Android NDK",
-      "version": "9.0",
-      "versionCode": 9000,
+      "version": "9.1",
+      "versionCode": 9100,
       "author": "osm0sis @ xda-developers",
       "description": "Static arm/arm64 nano binary for Android built with the NDK",
       "track": {
@@ -1754,6 +1761,13 @@
           "versionCode": 9000,
           "zipUrl": "https://galeksandrp.github.io/magisk-modules-repo/modules/nano-ndk/9.0_9000.zip",
           "changelog": "https://galeksandrp.github.io/magisk-modules-repo/modules/nano-ndk/9.0_9000.md"
+        },
+        {
+          "timestamp": 1786195379.0,
+          "version": "9.1",
+          "versionCode": 9100,
+          "zipUrl": "https://galeksandrp.github.io/magisk-modules-repo/modules/nano-ndk/9.1_9100.zip",
+          "changelog": "https://galeksandrp.github.io/magisk-modules-repo/modules/nano-ndk/9.1_9100.md"
         }
       ]
     },
