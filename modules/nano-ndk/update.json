@@ -78,6 +78,13 @@
       "versionCode": 9100,
       "zipUrl": "https://galeksandrp.github.io/magisk-modules-repo/modules/nano-ndk/9.1_9100.zip",
       "changelog": "https://galeksandrp.github.io/magisk-modules-repo/modules/nano-ndk/9.1_9100.md"
+    },
+    {
+      "timestamp": 1786997211.0,
+      "version": "9.2",
+      "versionCode": 9200,
+      "zipUrl": "https://galeksandrp.github.io/magisk-modules-repo/modules/nano-ndk/9.2_9200.zip",
+      "changelog": "https://galeksandrp.github.io/magisk-modules-repo/modules/nano-ndk/9.2_9200.md"
     }
   ]
 }
