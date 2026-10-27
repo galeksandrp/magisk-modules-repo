@@ -2,7 +2,7 @@
   "name": "Magisk Modules Repo (mirror)",
   "metadata": {
     "version": 1,
-    "timestamp": 1792455125.299573
+    "timestamp": 1793060429.493237
   },
   "modules": [
     {
@@ -1685,8 +1685,8 @@
     {
       "id": "nano-ndk",
       "name": "Nano for Android NDK",
-      "version": "9.2",
-      "versionCode": 9200,
+      "version": "9.3",
+      "versionCode": 9300,
       "author": "osm0sis @ xda-developers",
       "description": "Static arm/arm64 nano binary for Android built with the NDK",
       "track": {
@@ -1782,6 +1782,13 @@
           "versionCode": 9200,
           "zipUrl": "https://galeksandrp.github.io/magisk-modules-repo/modules/nano-ndk/9.2_9200.zip",
           "changelog": "https://galeksandrp.github.io/magisk-modules-repo/modules/nano-ndk/9.2_9200.md"
+        },
+        {
+          "timestamp": 1792977026.0,
+          "version": "9.3",
+          "versionCode": 9300,
+          "zipUrl": "https://galeksandrp.github.io/magisk-modules-repo/modules/nano-ndk/9.3_9300.zip",
+          "changelog": "https://galeksandrp.github.io/magisk-modules-repo/modules/nano-ndk/9.3_9300.md"
         }
       ]
     },
